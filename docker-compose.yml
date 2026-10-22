@@ -1,0 +1,91 @@
+# Local infrastructure: 3-broker Kafka (KRaft, no ZooKeeper), MySQL, HDFS, HBase, Kafka UI.
+# Spark, Airflow and Python jobs run on the host (see README) so you can iterate quickly.
+x-kafka: &kafka
+  image: apache/kafka:3.8.0
+  restart: unless-stopped
+  environment: &kenv
+    KAFKA_PROCESS_ROLES: broker,controller
+    KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,INTERNAL:PLAINTEXT,EXTERNAL:PLAINTEXT
+    KAFKA_INTER_BROKER_LISTENER_NAME: INTERNAL
+    KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+    KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka1:9093,2@kafka2:9093,3@kafka3:9093
+    CLUSTER_ID: MkU3OEVBNTcwNTJENDM2Qk
+    KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 3
+    KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 3
+    KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 2
+    KAFKA_DEFAULT_REPLICATION_FACTOR: 3
+    KAFKA_MIN_INSYNC_REPLICAS: 2
+    KAFKA_UNCLEAN_LEADER_ELECTION_ENABLE: "false"   # never trade durability for availability
+    KAFKA_AUTO_CREATE_TOPICS_ENABLE: "false"
+
+services:
+  kafka1:
+    <<: *kafka
+    container_name: kafka1
+    ports: ["9092:9092"]
+    environment:
+      <<: *kenv
+      KAFKA_NODE_ID: 1
+      KAFKA_LISTENERS: INTERNAL://:19092,EXTERNAL://:9092,CONTROLLER://:9093
+      KAFKA_ADVERTISED_LISTENERS: INTERNAL://kafka1:19092,EXTERNAL://localhost:9092
+  kafka2:
+    <<: *kafka
+    container_name: kafka2
+    ports: ["9192:9192"]
+    environment:
+      <<: *kenv
+      KAFKA_NODE_ID: 2
+      KAFKA_LISTENERS: INTERNAL://:19092,EXTERNAL://:9192,CONTROLLER://:9093
+      KAFKA_ADVERTISED_LISTENERS: INTERNAL://kafka2:19092,EXTERNAL://localhost:9192
+  kafka3:
+    <<: *kafka
+    container_name: kafka3
+    ports: ["9292:9292"]
+    environment:
+      <<: *kenv
+      KAFKA_NODE_ID: 3
+      KAFKA_LISTENERS: INTERNAL://:19092,EXTERNAL://:9292,CONTROLLER://:9093
+      KAFKA_ADVERTISED_LISTENERS: INTERNAL://kafka3:19092,EXTERNAL://localhost:9292
+
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    ports: ["8080:8080"]
+    environment:
+      KAFKA_CLUSTERS_0_NAME: c360
+      KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: kafka1:19092,kafka2:19092,kafka3:19092
+    depends_on: [kafka1, kafka2, kafka3]
+
+  mysql:
+    image: mysql:8.0
+    container_name: c360-mysql
+    ports: ["3306:3306"]
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpass
+      MYSQL_DATABASE: shop
+      MYSQL_USER: c360
+      MYSQL_PASSWORD: c360pass
+    volumes:
+      - ./sql/mysql:/docker-entrypoint-initdb.d:ro
+      - mysql-data:/var/lib/mysql
+
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: namenode
+    ports: ["9870:9870", "9000:9000"]
+    environment: {CLUSTER_NAME: c360, CORE_CONF_fs_defaultFS: "hdfs://namenode:9000"}
+    volumes: [nn-data:/hadoop/dfs/name]
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: datanode
+    environment: {CORE_CONF_fs_defaultFS: "hdfs://namenode:9000", SERVICE_PRECONDITION: "namenode:9870"}
+    volumes: [dn-data:/hadoop/dfs/data]
+    depends_on: [namenode]
+
+  hbase:
+    image: harisekhon/hbase:2.1          # standalone HBase + Thrift server on 9090
+    container_name: hbase
+    hostname: hbase
+    ports: ["9090:9090", "16010:16010", "2181:2181"]
+    volumes: [hbase-data:/hbase-data]
+
+volumes: {mysql-data: {}, nn-data: {}, dn-data: {}, hbase-data: {}}

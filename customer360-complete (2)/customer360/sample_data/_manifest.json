@@ -1,0 +1,14 @@
+{
+  "customers": 4000,
+  "products": 400,
+  "sessions": 14000,
+  "events_written": 72018,
+  "malformed_injected": 713,
+  "cart_sessions": 5634,
+  "purchase_sessions": 2417,
+  "orders": 10417,
+  "order_items": 23974,
+  "tickets": 2400,
+  "reviews": 3000,
+  "duplicates_injected": 307
+}

@@ -1,0 +1,6 @@
+# Legacy first-create helper only. Prefer `infra/provision_hbase.ps1` on Windows or
+# `bash hbase/provision_schema.sh` on Linux, which is idempotent and adds missing families.
+create 'customer_360', {NAME=>'profile', VERSIONS=>1, BLOOMFILTER=>'ROW'},
+                       {NAME=>'metrics', VERSIONS=>1, BLOOMFILTER=>'ROW'},
+                       {NAME=>'cart', VERSIONS=>1, BLOOMFILTER=>'ROW'},
+  SPLITS=>['0000012500','0000025000','0000037500','0000050000','0000062500','0000075000','0000087500','0000100000','0000112500','0000125000','0000137500','0000150000','0000162500','0000175000','0000187500']

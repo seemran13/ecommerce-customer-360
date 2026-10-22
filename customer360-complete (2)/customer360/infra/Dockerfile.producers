@@ -1,0 +1,7 @@
+FROM python:3.11-slim
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 PYTHONPATH=/opt/customer360/ingestion
+WORKDIR /opt/customer360
+COPY ingestion/requirements.txt /tmp/ingestion-requirements.txt
+RUN pip install --no-cache-dir -r /tmp/ingestion-requirements.txt
+# The project root is bind-mounted in Compose so producer code and the shared replay clock are visible.
+CMD ["python3", "-c", "print('Customer360 producer image ready; choose a producer command in Compose.')"]

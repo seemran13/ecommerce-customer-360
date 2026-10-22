@@ -1,0 +1,31 @@
+{
+  "sessions_with_cart": 277754,
+  "train": 180540,
+  "val": 41663,
+  "test": 55551,
+  "base_rate_test": 0.478335223488326,
+  "threshold": 0.435,
+  "auc": 0.8336,
+  "f1": 0.7548,
+  "precision": 0.6742,
+  "recall": 0.8574,
+  "auc_sla_pass": true,
+  "f1_sla_pass": true,
+  "feature_importance": {
+    "cart_value": 0.1644,
+    "tier_n": 0.155,
+    "dev_desktop": 0.1378,
+    "hour": 0.1204,
+    "dev_mobile": 0.0995,
+    "prior_conv_rate": 0.0756,
+    "secs_to_cart": 0.073,
+    "n_views": 0.059,
+    "prior_ltv": 0.0329,
+    "prior_orders": 0.029,
+    "prior_cart_sessions": 0.0135,
+    "prior_sessions": 0.0123,
+    "dow": 0.0106,
+    "n_cart": 0.0104,
+    "dev_tablet": 0.0065
+  }
+}

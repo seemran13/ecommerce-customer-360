@@ -1,0 +1,74 @@
+# Local dev stack: 3-broker Kafka (KRaft), MySQL, HBase (+Thrift), Spark, Airflow.  docker compose up -d
+x-feed-producer: &feed-producer
+  build:
+    context: ..
+    dockerfile: infra/Dockerfile.producers
+  working_dir: /opt/customer360
+  volumes: ["..:/opt/customer360"]
+  environment:
+    KAFKA_BOOTSTRAP: "kafka1:9092,kafka2:9092,kafka3:9092"
+    C360_REPLAY_CLOCK_FILE: /opt/customer360/.c360_replay_clock.json
+  depends_on: [kafka1, kafka2, kafka3]
+  restart: unless-stopped
+
+x-kafka: &kafka
+  image: apache/kafka:3.7.0
+  environment: &kenv
+    KAFKA_PROCESS_ROLES: broker,controller
+    KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka1:9093,2@kafka2:9093,3@kafka3:9093
+    KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+    KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,INTERNAL:PLAINTEXT,EXTERNAL:PLAINTEXT
+    KAFKA_INTER_BROKER_LISTENER_NAME: INTERNAL
+    KAFKA_DEFAULT_REPLICATION_FACTOR: 3
+    KAFKA_MIN_INSYNC_REPLICAS: 2
+    KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 3
+    KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 3
+    KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 2
+    CLUSTER_ID: "capstone-c360-cluster-01"
+services:
+  kafka1: {<<: *kafka, container_name: kafka1, ports: ["9092:9094"], environment: {<<: *kenv, KAFKA_NODE_ID: 1, KAFKA_LISTENERS: "CONTROLLER://:9093,INTERNAL://:9092,EXTERNAL://:9094", KAFKA_ADVERTISED_LISTENERS: "INTERNAL://kafka1:9092,EXTERNAL://localhost:9092"}}
+  kafka2: {<<: *kafka, container_name: kafka2, ports: ["9093:9094"], environment: {<<: *kenv, KAFKA_NODE_ID: 2, KAFKA_LISTENERS: "CONTROLLER://:9093,INTERNAL://:9092,EXTERNAL://:9094", KAFKA_ADVERTISED_LISTENERS: "INTERNAL://kafka2:9092,EXTERNAL://localhost:9093"}}
+  kafka3: {<<: *kafka, container_name: kafka3, ports: ["9094:9094"], environment: {<<: *kenv, KAFKA_NODE_ID: 3, KAFKA_LISTENERS: "CONTROLLER://:9093,INTERNAL://:9092,EXTERNAL://:9094", KAFKA_ADVERTISED_LISTENERS: "INTERNAL://kafka3:9092,EXTERNAL://localhost:9094"}}
+  mysql:
+    image: mysql:8.0
+    environment: {MYSQL_ROOT_PASSWORD: root}
+    command: --local-infile=1
+    ports: ["3306:3306"]
+  # Public feed/replay producers are opt-in so a basic local stack stays light.
+  # Start them with: docker compose --profile live-feeds up -d
+  bluesky-producer:
+    <<: *feed-producer
+    profiles: ["live-feeds"]
+    command: ["python3", "/opt/customer360/ingestion/bluesky_producer.py"]
+    environment:
+      KAFKA_BOOTSTRAP: "kafka1:9092,kafka2:9092,kafka3:9092"
+      BRANDS: "amazon,flipkart,myntra,nykaa,zomato,swiggy"
+  weather-producer:
+    <<: *feed-producer
+    profiles: ["live-feeds"]
+    command: ["python3", "/opt/customer360/ingestion/openmeteo_producer.py"]
+  clickstream-replay:
+    <<: *feed-producer
+    profiles: ["live-feeds"]
+    command: ["python3", "/opt/customer360/ingestion/replay_producer.py", "--src", "/opt/customer360/sample_data/weblogs", "--speedup", "100", "--loop"]
+  watermark-tick-producer:
+    <<: *feed-producer
+    profiles: ["live-feeds"]
+    depends_on: [kafka1, kafka2, kafka3, clickstream-replay]
+    command: ["python3", "/opt/customer360/ingestion/heartbeat_producer.py"]
+  hbase:
+    image: harisekhon/hbase:2.1
+    container_name: hbase
+    ports: ["16010:16010", "9090:9090", "2181:2181"]
+  spark:
+    image: bitnami/spark:3.5
+    volumes: ["..:/opt/customer360", "ckpt:/checkpoints"]
+    environment: {SPARK_MODE: master}
+    ports: ["8080:8080"]
+  airflow:
+    profiles: ["orchestration"]
+    image: apache/airflow:2.9.3
+    command: standalone
+    volumes: ["../airflow/dags:/opt/airflow/dags", "..:/opt/customer360"]
+    ports: ["8088:8080"]
+volumes: {ckpt: {}}

@@ -1,0 +1,10 @@
+# Non-destructive schema provisioning for Customer360.
+# Creates the table with pre-splits when absent; when it exists, only adds/normalizes families.
+if !exists 'customer_360'
+  create 'customer_360', {NAME => 'profile', VERSIONS => 1}, {NAME => 'metrics', VERSIONS => 1}, {NAME => 'cart', VERSIONS => 1}, SPLITS => ['0000012500','0000025000','0000037500','0000050000','0000062500','0000075000','0000087500','0000100000','0000112500','0000125000','0000137500','0000150000','0000162500','0000175000','0000187500']
+else
+  alter 'customer_360', {NAME => 'profile', VERSIONS => 1}
+  alter 'customer_360', {NAME => 'metrics', VERSIONS => 1}
+  alter 'customer_360', {NAME => 'cart', VERSIONS => 1}
+end
+describe 'customer_360'

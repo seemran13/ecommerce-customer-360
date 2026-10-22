@@ -1,0 +1,47 @@
+{
+  "best_k": 5,
+  "silhouette_by_k": {
+    "3": 0.4482,
+    "4": 0.4867,
+    "5": 0.505,
+    "6": 0.4631,
+    "7": 0.4588
+  },
+  "segments": {
+    "Promising": {
+      "n": 74822,
+      "ltv": 726.43,
+      "orders": 1.93,
+      "recency": 155.43,
+      "abandon": 0.0
+    },
+    "Window-Shoppers-2": {
+      "n": 48273,
+      "ltv": 0.0,
+      "orders": 0.0,
+      "recency": 637.93,
+      "abandon": 0.0
+    },
+    "Loyal": {
+      "n": 29869,
+      "ltv": 932.65,
+      "orders": 2.41,
+      "recency": 152.78,
+      "abandon": 0.82
+    },
+    "Champions": {
+      "n": 38561,
+      "ltv": 2827.96,
+      "orders": 8.25,
+      "recency": 39.31,
+      "abandon": 0.24
+    },
+    "Window-Shoppers": {
+      "n": 8475,
+      "ltv": 0.01,
+      "orders": 0.0,
+      "recency": 637.79,
+      "abandon": 0.94
+    }
+  }
+}

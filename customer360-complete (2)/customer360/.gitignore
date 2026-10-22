@@ -1,0 +1,12 @@
+data/
+data_small/
+*.pkl
+rag/index*/
+gen_full.log
+train_full.log
+.c360_replay_clock.json
+.c360_replay_clock.json.tmp
+data_small_run*/
+data_full_run*/
+
+data_small_final_*/

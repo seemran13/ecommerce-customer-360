@@ -1,0 +1,17 @@
+{
+  "sessions": 699980,
+  "cart_sessions": 277754,
+  "abandoned_sessions": 94218,
+  "abandonment_rate": 0.3392,
+  "abandoned_cart_value": 25629137.0,
+  "alerts_within_stream": 94173,
+  "model_delay_p50_s": 15.0,
+  "model_delay_p95_s": 35.0,
+  "model_delay_p99_s": 370.0,
+  "model_delay_max_s": 1240.0,
+  "share_over_60s_without_heartbeat": 0.0325,
+  "model_delay_with_heartbeat_s": "10-15",
+  "sla_60s_p95_without_heartbeat": true,
+  "sla_60s_with_heartbeat": true,
+  "window_probe_carts_10min": 16
+}

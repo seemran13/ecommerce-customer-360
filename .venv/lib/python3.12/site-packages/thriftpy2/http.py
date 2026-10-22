@@ -1,0 +1,396 @@
+"""
+# Run server:
+>>> import thriftpy2
+>>> from thriftpy2.http import make_server
+>>> pingpong = thriftpy2.load("pingpong.thrift")
+>>>
+>>> class Dispatcher(object):
+>>>     def ping(self):
+>>>         return "pong"
+
+>>> server = make_server(pingpong.PingService, Dispatcher(),
+                         host='127.0.0.1', port=6000)
+>>> server.serve()
+
+# Run client:
+>>> import thriftpy2
+>>> from thriftpy2.http import make_client
+>>> pingpong = thriftpy2.load("pingpong.thrift")
+>>> client = make_client(pingpong.PingService, host='127.0.0.1', port=6000)
+>>> client.ping()
+
+# Run HTTPS client with unverified SSL context for TESTING ONLY purpose:
+>>> import ssl
+>>> ssl_context_factory = ssl._create_unverified_context
+>>> client = make_client(pingpong.PingService, host='example.com', port=443,
+...                      scheme="https",
+...                      ssl_context_factory=ssl_context_factory)
+>>> client.ping()
+"""
+
+import http.client as http_client
+import http.server as http_server
+import os
+import socket
+import ssl
+import sys
+import types
+import urllib.parse
+from contextlib import contextmanager
+from io import BytesIO
+from typing import (BinaryIO, Callable, Dict, Generator, Optional,
+                    Tuple, Type)
+
+from thriftpy2.protocol import TBinaryProtocolFactory
+from thriftpy2.protocol.base import TProtocolFactory
+from thriftpy2.server import TServer
+from thriftpy2.thrift import TClient, TProcessor
+from thriftpy2.transport import TBufferedTransportFactory, TMemoryBuffer
+from thriftpy2.transport.base import TTransportFactory, TTransportBase
+
+HTTP_URI = '{scheme}://{host}:{port}{path}'
+DEFAULT_HTTP_CLIENT_TIMEOUT_MS = 30000  # 30 seconds
+
+
+class TFileObjectTransport(TTransportBase):
+    """Wraps a file-like object to make it work as a Thrift transport."""
+
+    def __init__(self, fileobj: BinaryIO) -> None:
+        self.fileobj = fileobj
+
+    def isOpen(self) -> bool:
+        return True
+
+    def close(self) -> None:
+        self.fileobj.close()
+
+    def read(self, sz: int) -> bytes:
+        return self.fileobj.read(sz)
+
+    def write(self, buf: bytes) -> None:
+        self.fileobj.write(buf)
+
+    def flush(self) -> None:
+        self.fileobj.flush()
+
+
+class ResponseException(Exception):
+    """Allows handlers to override the HTTP response
+
+    Normally, THttpServer always sends a 200 response.  If a handler wants
+    to override this behavior (e.g., to simulate a misconfigured or
+    overloaded web server during testing), it can raise a ResponseException.
+    The function passed to the constructor will be called with the
+    RequestHandler as its only argument.
+    """
+    def __init__(self, handler: Callable[[http_server.BaseHTTPRequestHandler], None]
+                 ) -> None:
+        self.handler = handler
+
+
+class THttpHeaderFactory(object):
+    """Default header factory return no custom headers
+    """
+    def __init__(self, headers: Optional[Dict[str, str]] = None) -> None:
+        """Initialize a header factory
+        @param headers(dict)
+            A dictionary of static headers the factory generates
+        """
+        if headers:
+            self.__headers = headers
+        else:
+            self.__headers = dict()
+
+    def get_headers(self) -> Dict[str, str]:
+        return self.__headers
+
+
+class THttpServer(TServer):
+    """A simple HTTP-based Thrift server
+    This class is not very performant, but it is useful (for example) for
+    acting as a mock version of an Apache-based PHP Thrift endpoint.
+    """
+    def __init__(self,
+                 processor: TProcessor,
+                 server_address: Tuple[str, int],
+                 itrans_factory: TTransportFactory,
+                 iprot_factory: TProtocolFactory,
+                 server_class: Type[http_server.HTTPServer] = http_server.HTTPServer
+                 ) -> None:
+        """Set up protocol factories and HTTP server.
+        See http.server for server_address.
+        See TServer for protocol factories.
+        """
+        TServer.__init__(self, processor, trans=None,
+                         itrans_factory=itrans_factory,
+                         iprot_factory=iprot_factory,
+                         otrans_factory=None, oprot_factory=None)
+
+        thttpserver = self
+
+        class RequestHandler(http_server.BaseHTTPRequestHandler):
+            # Don't care about the request path.
+
+            def do_POST(self):
+                # Don't care about the request path.
+                # Pre-read all of the data into a BytesIO. Buffered transport
+                # was previously configured to read everything on the first
+                # consumption, but that was a hack relying on the internal
+                # mechanism and prevents other transports from working, so
+                # replicate that properly to prevent timeout issues
+                content_len = int(self.headers['Content-Length'])
+                buf = BytesIO(self.rfile.read(content_len))
+                itrans = TFileObjectTransport(buf)
+                itrans = thttpserver.itrans_factory.get_transport(itrans)
+                iprot = thttpserver.iprot_factory.get_protocol(itrans)
+
+                otrans = TMemoryBuffer()
+                oprot = thttpserver.oprot_factory.get_protocol(otrans)
+                try:
+                    thttpserver.processor.process(iprot, oprot)
+                except ResponseException as exn:
+                    exn.handler(self)
+                else:
+                    self.send_response(200)
+                    self.send_header("content-type", "application/x-thrift")
+                    self.end_headers()
+                    self.wfile.write(otrans.getvalue())
+
+        self.httpd = server_class(server_address, RequestHandler)
+
+    def serve(self) -> None:
+        self.httpd.serve_forever()
+
+
+class THttpClient(TTransportBase):
+    """Http implementation of TTransport base.
+    """
+
+    def __init__(self, uri: str, timeout: Optional[int] = None,
+                 ssl_context_factory: Optional[Callable[[], ssl.SSLContext]] = None,
+                 http_header_factory: Optional[THttpHeaderFactory] = None,
+                 keep_alive: bool = False
+                 ) -> None:
+        """Initialize a HTTP Socket.
+
+        @param uri(str)    The http_scheme:://host:port/path to connect to.
+        @param timeout   timeout in ms
+        @param keep_alive(bool)
+            Reuse the underlying connection between requests instead of
+            resetting it before each request.
+        """
+        parsed = urllib.parse.urlparse(uri)
+        self.scheme = parsed.scheme
+        assert self.scheme in ('http', 'https')
+        if self.scheme == 'http':
+            self.port = parsed.port or http_client.HTTP_PORT
+        elif self.scheme == 'https':
+            self.port = parsed.port or http_client.HTTPS_PORT
+        host = parsed.hostname
+        assert host is not None
+        self.host: str = host
+        self.path = parsed.path
+        if parsed.query:
+            self.path += '?%s' % parsed.query
+        self.__wbuf = BytesIO()
+        self.__http = None
+        self._http_header_factory = http_header_factory or THttpHeaderFactory()
+        self.__timeout = None
+        if timeout:
+            self.setTimeout(timeout)
+        self._ssl_context_factory = ssl_context_factory
+        self._keep_alive = keep_alive
+
+    def open(self) -> None:
+        if self.scheme == "https":
+            ssl_context = self._ssl_context_factory() \
+                if self._ssl_context_factory else None
+            self.__http = http_client.HTTPSConnection(self.host, self.port,
+                                                      context=ssl_context)
+        else:
+            self.__http = http_client.HTTPConnection(self.host, self.port)
+
+    def close(self) -> None:
+        if self.__http is not None:
+            self.__http.close()
+        self.__http = None
+
+    def isOpen(self) -> bool:
+        return self.__http is not None
+
+    def is_open(self) -> bool:
+        return self.isOpen()
+
+    def setTimeout(self, ms: int) -> None:
+        if not hasattr(socket, 'getdefaulttimeout'):
+            raise NotImplementedError
+
+        self.__timeout = ms / 1000.0 if (ms and ms > 0) else None
+
+    def set_timeout(self, ms: int) -> None:
+        self.setTimeout(ms)
+
+    def setCustomHeaders(self, headers: Dict[str, str]) -> None:
+        self._http_header_factory = THttpHeaderFactory(headers)
+
+    def read(self, sz: int) -> bytes:
+        content = self.response.read(sz)
+        return content
+
+    def write(self, buf: bytes) -> None:
+        self.__wbuf.write(buf)
+
+    def flush(self) -> None:
+        # Pull data out of buffer
+        # Do this before opening a new connection in case there isn't data
+        data = self.__wbuf.getvalue()
+        self.__wbuf = BytesIO()
+        if not data:  # No data to flush, ignore
+            return
+
+        if not self.isOpen():
+            self.open()
+        elif not self._keep_alive:
+            self.close()
+            self.open()
+
+        try:
+            self.__send_request(data)
+        except (http_client.CannotSendRequest,
+                http_client.RemoteDisconnected,
+                BrokenPipeError, ConnectionResetError):
+            if not self._keep_alive:
+                raise
+            # The server may have closed the kept-alive connection while
+            # it was idle; reconnect and retry once.
+            self.close()
+            self.open()
+            self.__send_request(data)
+
+    def __send_request(self, data: bytes) -> None:
+        http = self.__http
+        assert http is not None
+
+        # HTTP request
+        http.putrequest('POST', self.path, skip_host=True)
+
+        # Write headers
+        http.putheader('Host', self.host)
+        http.putheader('Content-Type', 'application/x-thrift')
+        http.putheader('Content-Length', str(len(data)))
+        custom_headers = self._http_header_factory.get_headers()
+        if (not custom_headers
+                or 'User-Agent' not in custom_headers):
+            user_agent = 'Python/THttpClient'
+            script = os.path.basename(sys.argv[0])
+            if script:
+                user_agent = '%s (%s)' % (
+                    user_agent, urllib.parse.quote(script))
+                http.putheader('User-Agent', user_agent)
+
+        if custom_headers:
+            for key, val in self._http_header_factory.get_headers().items():
+                http.putheader(key, val)
+
+        http.endheaders()
+
+        # Write payload
+        http.send(data)
+
+        # Get reply to flush the request
+        response = http.getresponse()
+        self.code, self.message, self.headers = (
+            response.status, response.msg, response.getheaders())
+        if self._keep_alive:
+            # The connection can only be reused after the previous
+            # response has been read completely, so drain it here.
+            self.response = BytesIO(response.read())
+        else:
+            self.response = response
+
+    @staticmethod
+    def __with_timeout(f):
+
+        def _f(*args, **kwargs):
+            orig_timeout = socket.getdefaulttimeout()
+            socket.setdefaulttimeout(args[0].__timeout)
+            result = None
+            try:
+                result = f(*args, **kwargs)
+            finally:
+                socket.setdefaulttimeout(orig_timeout)
+            return result
+        return _f
+
+    # Decorate if we know how to timeout
+    if hasattr(socket, 'getdefaulttimeout'):
+        flush = __with_timeout.__get__(None, object)(flush)
+
+
+def make_client(service: types.ModuleType, host: str = 'localhost',
+                port: int = 9090, path: str = '', scheme: str = 'http',
+                proto_factory: TProtocolFactory = TBinaryProtocolFactory(),
+                trans_factory: TTransportFactory = TBufferedTransportFactory(),
+                ssl_context_factory: Optional[Callable[[], ssl.SSLContext]] = None,
+                http_header_factory: Optional[THttpHeaderFactory] = None,
+                timeout: int = DEFAULT_HTTP_CLIENT_TIMEOUT_MS,
+                url: str = '', keep_alive: bool = False) -> TClient:
+    if url:
+        parsed_url = urllib.parse.urlparse(url)
+        host = parsed_url.hostname or host
+        port = parsed_url.port or port
+        scheme = parsed_url.scheme or scheme
+        path = parsed_url.path or path
+    if path and path[0] != "/":
+        # path should have `/` prefix, but we can make a compatible here.
+        path = "/" + path
+    uri = HTTP_URI.format(scheme=scheme, host=host, port=port, path=path)
+    http_socket = THttpClient(uri, timeout, ssl_context_factory,
+                              http_header_factory, keep_alive)
+    transport = trans_factory.get_transport(http_socket)
+    iprot = proto_factory.get_protocol(transport)
+    transport.open()
+    return TClient(service, iprot)
+
+
+@contextmanager
+def client_context(service: types.ModuleType, host: str = 'localhost',
+                   port: int = 9090, path: str = '', scheme: str = 'http',
+                   proto_factory: TProtocolFactory = TBinaryProtocolFactory(),
+                   trans_factory: TTransportFactory = TBufferedTransportFactory(),
+                   ssl_context_factory: Optional[Callable[[], ssl.SSLContext]] = None,
+                   http_header_factory: Optional[THttpHeaderFactory] = None,
+                   timeout: int = DEFAULT_HTTP_CLIENT_TIMEOUT_MS,
+                   url: str = '', keep_alive: bool = False
+                   ) -> Generator[TClient, None, None]:
+    if url:
+        parsed_url = urllib.parse.urlparse(url)
+        host = parsed_url.hostname or host
+        port = parsed_url.port or port
+        scheme = parsed_url.scheme or scheme
+        path = parsed_url.path or path
+    if path and path[0] != "/":
+        # path should have `/` prefix, but we can make a compatible here.
+        path = "/" + path
+    uri = HTTP_URI.format(scheme=scheme, host=host, port=port, path=path)
+    http_socket = THttpClient(uri, timeout, ssl_context_factory,
+                              http_header_factory, keep_alive)
+    transport = trans_factory.get_transport(http_socket)
+    try:
+        iprot = proto_factory.get_protocol(transport)
+        transport.open()
+        yield TClient(service, iprot)
+    finally:
+        transport.close()
+
+
+def make_server(service: types.ModuleType, handler: object,
+                host: str, port: int,
+                proto_factory: TProtocolFactory = TBinaryProtocolFactory(),
+                trans_factory: TTransportFactory = TBufferedTransportFactory()
+                ) -> THttpServer:
+    processor = TProcessor(service, handler)
+    server = THttpServer(processor, (host, port),
+                         itrans_factory=trans_factory,
+                         iprot_factory=proto_factory)
+    return server

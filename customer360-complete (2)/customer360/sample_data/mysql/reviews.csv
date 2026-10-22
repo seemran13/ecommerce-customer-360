@@ -1,0 +1,3001 @@
+review_id,customer_id,product_id,rating,review_text,review_date
+1,3595,208,4,"Good value, happy with it",2026-08-15
+2,1297,93,4,"Good value, happy with it",2026-08-15
+3,1818,310,4,"Good value, happy with it",2026-08-15
+4,1021,116,4,"Good value, happy with it",2026-08-15
+5,633,186,4,"Good value, happy with it",2026-08-15
+6,678,231,5,"Excellent product, fast delivery",2026-08-15
+7,3120,204,5,"Excellent product, fast delivery",2026-08-15
+8,3122,193,4,"Good value, happy with it",2026-08-15
+9,3089,181,5,"Excellent product, fast delivery",2026-08-15
+10,1089,248,3,"Average, does the job",2026-08-15
+11,2814,93,3,"Average, does the job",2026-08-15
+12,2720,336,5,"Excellent product, fast delivery",2026-08-15
+13,2915,377,4,"Good value, happy with it",2026-08-15
+14,2014,200,4,"Good value, happy with it",2026-08-15
+15,1508,250,4,"Good value, happy with it",2026-08-15
+16,3341,51,3,"Average, does the job",2026-08-15
+17,3994,224,5,"Excellent product, fast delivery",2026-08-15
+18,271,252,5,"Excellent product, fast delivery",2026-08-15
+19,3927,48,4,"Good value, happy with it",2026-08-15
+20,601,131,3,"Average, does the job",2026-08-15
+21,521,89,3,"Average, does the job",2026-08-15
+22,695,400,1,"Terrible, broke in a week",2026-08-15
+23,827,232,3,"Average, does the job",2026-08-15
+24,3469,154,2,Poor quality for the price,2026-08-15
+25,772,29,4,"Good value, happy with it",2026-08-15
+26,795,16,3,"Average, does the job",2026-08-15
+27,1921,332,5,"Excellent product, fast delivery",2026-08-15
+28,1859,76,1,"Terrible, broke in a week",2026-08-15
+29,2515,13,3,"Average, does the job",2026-08-15
+30,266,111,1,"Terrible, broke in a week",2026-08-15
+31,1115,230,5,"Excellent product, fast delivery",2026-08-15
+32,278,397,4,"Good value, happy with it",2026-08-15
+33,2140,179,3,"Average, does the job",2026-08-15
+34,3744,12,4,"Good value, happy with it",2026-08-15
+35,3711,95,5,"Excellent product, fast delivery",2026-08-15
+36,3654,274,4,"Good value, happy with it",2026-08-15
+37,778,295,5,"Excellent product, fast delivery",2026-08-15
+38,942,317,4,"Good value, happy with it",2026-08-15
+39,3447,270,1,"Terrible, broke in a week",2026-08-15
+40,1694,355,3,"Average, does the job",2026-08-15
+41,3059,326,5,"Excellent product, fast delivery",2026-08-15
+42,3520,373,2,Poor quality for the price,2026-08-15
+43,2573,169,4,"Good value, happy with it",2026-08-15
+44,3375,164,5,"Excellent product, fast delivery",2026-08-15
+45,3392,127,1,"Terrible, broke in a week",2026-08-15
+46,1269,396,4,"Good value, happy with it",2026-08-15
+47,3131,71,5,"Excellent product, fast delivery",2026-08-15
+48,2960,196,4,"Good value, happy with it",2026-08-15
+49,1489,241,3,"Average, does the job",2026-08-15
+50,2436,16,3,"Average, does the job",2026-08-15
+51,3067,172,5,"Excellent product, fast delivery",2026-08-15
+52,1891,158,1,"Terrible, broke in a week",2026-08-15
+53,1554,258,5,"Excellent product, fast delivery",2026-08-15
+54,293,147,5,"Excellent product, fast delivery",2026-08-15
+55,2593,355,5,"Excellent product, fast delivery",2026-08-15
+56,1425,248,5,"Excellent product, fast delivery",2026-08-15
+57,1395,13,3,"Average, does the job",2026-08-15
+58,49,60,4,"Good value, happy with it",2026-08-15
+59,3342,18,5,"Excellent product, fast delivery",2026-08-15
+60,2563,360,4,"Good value, happy with it",2026-08-15
+61,2997,105,5,"Excellent product, fast delivery",2026-08-15
+62,1951,78,3,"Average, does the job",2026-08-15
+63,2101,68,2,Poor quality for the price,2026-08-15
+64,838,321,4,"Good value, happy with it",2026-08-15
+65,2126,282,2,Poor quality for the price,2026-08-15
+66,1451,368,5,"Excellent product, fast delivery",2026-08-15
+67,3872,47,4,"Good value, happy with it",2026-08-15
+68,2521,273,4,"Good value, happy with it",2026-08-15
+69,2291,125,1,"Terrible, broke in a week",2026-08-15
+70,914,175,5,"Excellent product, fast delivery",2026-08-15
+71,3160,2,4,"Good value, happy with it",2026-08-15
+72,2059,391,3,"Average, does the job",2026-08-15
+73,340,332,4,"Good value, happy with it",2026-08-15
+74,3159,253,2,Poor quality for the price,2026-08-15
+75,923,375,4,"Good value, happy with it",2026-08-15
+76,1695,101,5,"Excellent product, fast delivery",2026-08-15
+77,598,94,4,"Good value, happy with it",2026-08-15
+78,1739,93,4,"Good value, happy with it",2026-08-15
+79,1831,229,4,"Good value, happy with it",2026-08-15
+80,1294,108,5,"Excellent product, fast delivery",2026-08-15
+81,681,225,4,"Good value, happy with it",2026-08-15
+82,481,49,5,"Excellent product, fast delivery",2026-08-15
+83,428,208,5,"Excellent product, fast delivery",2026-08-15
+84,167,252,3,"Average, does the job",2026-08-15
+85,3075,121,4,"Good value, happy with it",2026-08-15
+86,3357,68,5,"Excellent product, fast delivery",2026-08-15
+87,2936,223,5,"Excellent product, fast delivery",2026-08-15
+88,2007,160,4,"Good value, happy with it",2026-08-15
+89,3584,359,1,"Terrible, broke in a week",2026-08-15
+90,1312,15,4,"Good value, happy with it",2026-08-15
+91,3355,271,3,"Average, does the job",2026-08-15
+92,2862,377,5,"Excellent product, fast delivery",2026-08-15
+93,1468,302,3,"Average, does the job",2026-08-15
+94,3714,247,4,"Good value, happy with it",2026-08-15
+95,3045,95,5,"Excellent product, fast delivery",2026-08-15
+96,1185,65,5,"Excellent product, fast delivery",2026-08-15
+97,582,32,4,"Good value, happy with it",2026-08-15
+98,3147,203,4,"Good value, happy with it",2026-08-15
+99,1595,317,5,"Excellent product, fast delivery",2026-08-15
+100,2348,349,5,"Excellent product, fast delivery",2026-08-15
+101,2730,215,4,"Good value, happy with it",2026-08-15
+102,2117,80,4,"Good value, happy with it",2026-08-15
+103,3664,190,5,"Excellent product, fast delivery",2026-08-15
+104,2087,306,4,"Good value, happy with it",2026-08-15
+105,2252,286,2,Poor quality for the price,2026-08-15
+106,906,79,2,Poor quality for the price,2026-08-15
+107,2791,160,4,"Good value, happy with it",2026-08-15
+108,1634,385,4,"Good value, happy with it",2026-08-15
+109,1657,211,4,"Good value, happy with it",2026-08-15
+110,1623,92,1,"Terrible, broke in a week",2026-08-15
+111,489,10,5,"Excellent product, fast delivery",2026-08-15
+112,348,33,4,"Good value, happy with it",2026-08-15
+113,1742,253,4,"Good value, happy with it",2026-08-15
+114,894,379,5,"Excellent product, fast delivery",2026-08-15
+115,473,72,4,"Good value, happy with it",2026-08-15
+116,3328,37,5,"Excellent product, fast delivery",2026-08-15
+117,2939,20,4,"Good value, happy with it",2026-08-15
+118,1539,40,4,"Good value, happy with it",2026-08-15
+119,1554,217,1,"Terrible, broke in a week",2026-08-15
+120,3034,234,4,"Good value, happy with it",2026-08-15
+121,1561,21,4,"Good value, happy with it",2026-08-15
+122,1802,389,4,"Good value, happy with it",2026-08-15
+123,619,393,3,"Average, does the job",2026-08-15
+124,11,259,1,"Terrible, broke in a week",2026-08-15
+125,3309,285,3,"Average, does the job",2026-08-15
+126,2013,396,4,"Good value, happy with it",2026-08-15
+127,1653,131,4,"Good value, happy with it",2026-08-15
+128,3818,34,5,"Excellent product, fast delivery",2026-08-15
+129,2330,81,2,Poor quality for the price,2026-08-15
+130,3160,396,1,"Terrible, broke in a week",2026-08-15
+131,3694,303,3,"Average, does the job",2026-08-15
+132,3574,357,3,"Average, does the job",2026-08-15
+133,2846,34,3,"Average, does the job",2026-08-15
+134,936,161,3,"Average, does the job",2026-08-15
+135,3031,393,5,"Excellent product, fast delivery",2026-08-15
+136,2602,161,5,"Excellent product, fast delivery",2026-08-15
+137,937,246,5,"Excellent product, fast delivery",2026-08-15
+138,2927,380,5,"Excellent product, fast delivery",2026-08-15
+139,43,169,5,"Excellent product, fast delivery",2026-08-15
+140,2513,340,1,"Terrible, broke in a week",2026-08-15
+141,2137,192,5,"Excellent product, fast delivery",2026-08-15
+142,194,320,3,"Average, does the job",2026-08-15
+143,3646,140,2,Poor quality for the price,2026-08-15
+144,364,176,4,"Good value, happy with it",2026-08-15
+145,3185,240,4,"Good value, happy with it",2026-08-15
+146,1138,299,3,"Average, does the job",2026-08-15
+147,352,368,3,"Average, does the job",2026-08-15
+148,1081,223,5,"Excellent product, fast delivery",2026-08-15
+149,758,85,5,"Excellent product, fast delivery",2026-08-15
+150,743,20,2,Poor quality for the price,2026-08-15
+151,477,125,5,"Excellent product, fast delivery",2026-08-15
+152,1376,267,5,"Excellent product, fast delivery",2026-08-15
+153,2085,327,5,"Excellent product, fast delivery",2026-08-15
+154,2465,18,4,"Good value, happy with it",2026-08-15
+155,2078,182,4,"Good value, happy with it",2026-08-15
+156,1672,201,3,"Average, does the job",2026-08-15
+157,2282,111,3,"Average, does the job",2026-08-15
+158,1736,293,4,"Good value, happy with it",2026-08-15
+159,420,359,5,"Excellent product, fast delivery",2026-08-15
+160,473,346,1,"Terrible, broke in a week",2026-08-15
+161,2257,5,4,"Good value, happy with it",2026-08-15
+162,598,69,4,"Good value, happy with it",2026-08-15
+163,3440,42,5,"Excellent product, fast delivery",2026-08-15
+164,1637,75,3,"Average, does the job",2026-08-15
+165,522,399,4,"Good value, happy with it",2026-08-15
+166,2725,245,4,"Good value, happy with it",2026-08-15
+167,1814,146,4,"Good value, happy with it",2026-08-15
+168,3516,198,5,"Excellent product, fast delivery",2026-08-15
+169,841,341,5,"Excellent product, fast delivery",2026-08-15
+170,3282,179,4,"Good value, happy with it",2026-08-15
+171,1908,116,4,"Good value, happy with it",2026-08-15
+172,3446,203,5,"Excellent product, fast delivery",2026-08-15
+173,2706,301,5,"Excellent product, fast delivery",2026-08-15
+174,1131,384,1,"Terrible, broke in a week",2026-08-15
+175,3162,361,4,"Good value, happy with it",2026-08-15
+176,2667,188,5,"Excellent product, fast delivery",2026-08-15
+177,2989,244,5,"Excellent product, fast delivery",2026-08-15
+178,988,313,3,"Average, does the job",2026-08-15
+179,3579,280,4,"Good value, happy with it",2026-08-15
+180,1735,33,4,"Good value, happy with it",2026-08-15
+181,1812,222,3,"Average, does the job",2026-08-15
+182,1338,54,5,"Excellent product, fast delivery",2026-08-15
+183,1060,142,5,"Excellent product, fast delivery",2026-08-15
+184,2608,340,3,"Average, does the job",2026-08-15
+185,488,98,2,Poor quality for the price,2026-08-15
+186,1981,18,3,"Average, does the job",2026-08-15
+187,3834,225,5,"Excellent product, fast delivery",2026-08-15
+188,227,50,4,"Good value, happy with it",2026-08-15
+189,3742,200,5,"Excellent product, fast delivery",2026-08-15
+190,542,96,3,"Average, does the job",2026-08-15
+191,587,101,5,"Excellent product, fast delivery",2026-08-15
+192,2622,242,5,"Excellent product, fast delivery",2026-08-15
+193,2297,171,4,"Good value, happy with it",2026-08-15
+194,3855,320,2,Poor quality for the price,2026-08-15
+195,3391,199,3,"Average, does the job",2026-08-15
+196,1587,216,4,"Good value, happy with it",2026-08-15
+197,2563,300,3,"Average, does the job",2026-08-15
+198,773,303,1,"Terrible, broke in a week",2026-08-15
+199,3386,223,5,"Excellent product, fast delivery",2026-08-15
+200,466,3,3,"Average, does the job",2026-08-15
+201,1056,320,5,"Excellent product, fast delivery",2026-08-15
+202,3467,23,5,"Excellent product, fast delivery",2026-08-15
+203,1277,144,1,"Terrible, broke in a week",2026-08-15
+204,2216,45,3,"Average, does the job",2026-08-15
+205,1335,244,4,"Good value, happy with it",2026-08-15
+206,543,50,5,"Excellent product, fast delivery",2026-08-15
+207,991,342,1,"Terrible, broke in a week",2026-08-15
+208,1789,246,4,"Good value, happy with it",2026-08-15
+209,3437,285,5,"Excellent product, fast delivery",2026-08-15
+210,1862,247,4,"Good value, happy with it",2026-08-15
+211,3120,52,3,"Average, does the job",2026-08-15
+212,3486,71,2,Poor quality for the price,2026-08-15
+213,2420,344,4,"Good value, happy with it",2026-08-15
+214,136,346,5,"Excellent product, fast delivery",2026-08-15
+215,1714,92,3,"Average, does the job",2026-08-15
+216,752,175,2,Poor quality for the price,2026-08-15
+217,3748,144,5,"Excellent product, fast delivery",2026-08-15
+218,868,75,5,"Excellent product, fast delivery",2026-08-15
+219,2165,378,3,"Average, does the job",2026-08-15
+220,3732,241,3,"Average, does the job",2026-08-15
+221,1249,214,3,"Average, does the job",2026-08-15
+222,1310,207,2,Poor quality for the price,2026-08-15
+223,3233,49,5,"Excellent product, fast delivery",2026-08-15
+224,1765,188,5,"Excellent product, fast delivery",2026-08-15
+225,2519,90,4,"Good value, happy with it",2026-08-15
+226,2760,136,5,"Excellent product, fast delivery",2026-08-15
+227,1294,163,5,"Excellent product, fast delivery",2026-08-15
+228,1825,22,4,"Good value, happy with it",2026-08-15
+229,2202,47,5,"Excellent product, fast delivery",2026-08-15
+230,3349,216,5,"Excellent product, fast delivery",2026-08-15
+231,2440,388,3,"Average, does the job",2026-08-15
+232,3757,88,5,"Excellent product, fast delivery",2026-08-15
+233,1028,400,5,"Excellent product, fast delivery",2026-08-15
+234,2254,121,5,"Excellent product, fast delivery",2026-08-15
+235,3315,97,3,"Average, does the job",2026-08-15
+236,3458,322,3,"Average, does the job",2026-08-15
+237,48,236,3,"Average, does the job",2026-08-15
+238,541,290,5,"Excellent product, fast delivery",2026-08-15
+239,2124,355,5,"Excellent product, fast delivery",2026-08-15
+240,1141,379,4,"Good value, happy with it",2026-08-15
+241,3949,235,5,"Excellent product, fast delivery",2026-08-15
+242,1084,56,2,Poor quality for the price,2026-08-15
+243,751,266,4,"Good value, happy with it",2026-08-15
+244,3879,167,3,"Average, does the job",2026-08-15
+245,1931,201,5,"Excellent product, fast delivery",2026-08-15
+246,2900,26,3,"Average, does the job",2026-08-15
+247,1296,285,3,"Average, does the job",2026-08-15
+248,152,119,5,"Excellent product, fast delivery",2026-08-15
+249,1047,239,4,"Good value, happy with it",2026-08-15
+250,1862,162,4,"Good value, happy with it",2026-08-15
+251,835,357,1,"Terrible, broke in a week",2026-08-15
+252,2752,14,4,"Good value, happy with it",2026-08-15
+253,178,84,3,"Average, does the job",2026-08-15
+254,2571,389,5,"Excellent product, fast delivery",2026-08-15
+255,3897,8,5,"Excellent product, fast delivery",2026-08-15
+256,685,166,5,"Excellent product, fast delivery",2026-08-15
+257,886,171,4,"Good value, happy with it",2026-08-15
+258,2072,192,5,"Excellent product, fast delivery",2026-08-15
+259,2567,229,3,"Average, does the job",2026-08-15
+260,1119,107,4,"Good value, happy with it",2026-08-15
+261,3695,329,4,"Good value, happy with it",2026-08-15
+262,2909,12,4,"Good value, happy with it",2026-08-15
+263,2244,377,4,"Good value, happy with it",2026-08-15
+264,2326,23,4,"Good value, happy with it",2026-08-15
+265,2109,345,4,"Good value, happy with it",2026-08-15
+266,1025,35,4,"Good value, happy with it",2026-08-15
+267,2448,284,4,"Good value, happy with it",2026-08-15
+268,1715,358,4,"Good value, happy with it",2026-08-15
+269,2137,72,5,"Excellent product, fast delivery",2026-08-15
+270,1373,329,2,Poor quality for the price,2026-08-15
+271,2724,383,4,"Good value, happy with it",2026-08-15
+272,1612,153,1,"Terrible, broke in a week",2026-08-15
+273,2868,255,4,"Good value, happy with it",2026-08-15
+274,2713,70,4,"Good value, happy with it",2026-08-15
+275,2460,225,1,"Terrible, broke in a week",2026-08-15
+276,3807,260,4,"Good value, happy with it",2026-08-15
+277,1090,95,4,"Good value, happy with it",2026-08-15
+278,3721,281,3,"Average, does the job",2026-08-15
+279,2891,400,5,"Excellent product, fast delivery",2026-08-15
+280,3306,3,4,"Good value, happy with it",2026-08-15
+281,480,38,3,"Average, does the job",2026-08-15
+282,627,222,3,"Average, does the job",2026-08-15
+283,2903,256,1,"Terrible, broke in a week",2026-08-15
+284,2962,97,4,"Good value, happy with it",2026-08-15
+285,3417,188,1,"Terrible, broke in a week",2026-08-15
+286,197,297,5,"Excellent product, fast delivery",2026-08-15
+287,1130,193,1,"Terrible, broke in a week",2026-08-15
+288,3492,51,2,Poor quality for the price,2026-08-15
+289,1739,95,5,"Excellent product, fast delivery",2026-08-15
+290,1696,358,4,"Good value, happy with it",2026-08-15
+291,3835,269,5,"Excellent product, fast delivery",2026-08-15
+292,3696,70,4,"Good value, happy with it",2026-08-15
+293,2619,139,5,"Excellent product, fast delivery",2026-08-15
+294,2676,8,4,"Good value, happy with it",2026-08-15
+295,2934,341,5,"Excellent product, fast delivery",2026-08-15
+296,2136,40,5,"Excellent product, fast delivery",2026-08-15
+297,2476,375,4,"Good value, happy with it",2026-08-15
+298,2572,219,2,Poor quality for the price,2026-08-15
+299,3218,68,5,"Excellent product, fast delivery",2026-08-15
+300,410,377,4,"Good value, happy with it",2026-08-15
+301,2658,185,4,"Good value, happy with it",2026-08-15
+302,1609,181,3,"Average, does the job",2026-08-15
+303,1512,252,4,"Good value, happy with it",2026-08-15
+304,2196,127,2,Poor quality for the price,2026-08-15
+305,3987,45,5,"Excellent product, fast delivery",2026-08-15
+306,2547,244,3,"Average, does the job",2026-08-15
+307,891,330,1,"Terrible, broke in a week",2026-08-15
+308,1627,81,5,"Excellent product, fast delivery",2026-08-15
+309,3042,58,5,"Excellent product, fast delivery",2026-08-15
+310,1114,222,5,"Excellent product, fast delivery",2026-08-15
+311,2400,273,5,"Excellent product, fast delivery",2026-08-15
+312,1882,400,5,"Excellent product, fast delivery",2026-08-15
+313,3292,228,1,"Terrible, broke in a week",2026-08-15
+314,1821,289,5,"Excellent product, fast delivery",2026-08-15
+315,3279,181,5,"Excellent product, fast delivery",2026-08-15
+316,240,264,5,"Excellent product, fast delivery",2026-08-15
+317,311,288,5,"Excellent product, fast delivery",2026-08-15
+318,1613,24,3,"Average, does the job",2026-08-15
+319,832,240,3,"Average, does the job",2026-08-15
+320,546,107,5,"Excellent product, fast delivery",2026-08-15
+321,487,35,4,"Good value, happy with it",2026-08-15
+322,2410,393,5,"Excellent product, fast delivery",2026-08-15
+323,1344,188,5,"Excellent product, fast delivery",2026-08-15
+324,2841,349,5,"Excellent product, fast delivery",2026-08-15
+325,3090,318,4,"Good value, happy with it",2026-08-15
+326,2157,159,5,"Excellent product, fast delivery",2026-08-15
+327,530,380,2,Poor quality for the price,2026-08-15
+328,3447,317,3,"Average, does the job",2026-08-15
+329,1582,168,4,"Good value, happy with it",2026-08-15
+330,2831,17,4,"Good value, happy with it",2026-08-15
+331,3276,173,4,"Good value, happy with it",2026-08-15
+332,2120,264,3,"Average, does the job",2026-08-15
+333,2415,396,4,"Good value, happy with it",2026-08-15
+334,1067,257,1,"Terrible, broke in a week",2026-08-15
+335,3864,237,1,"Terrible, broke in a week",2026-08-15
+336,711,163,4,"Good value, happy with it",2026-08-15
+337,2712,378,5,"Excellent product, fast delivery",2026-08-15
+338,3405,156,4,"Good value, happy with it",2026-08-15
+339,1013,274,5,"Excellent product, fast delivery",2026-08-15
+340,722,382,4,"Good value, happy with it",2026-08-15
+341,1600,313,1,"Terrible, broke in a week",2026-08-15
+342,3328,221,3,"Average, does the job",2026-08-15
+343,1330,126,4,"Good value, happy with it",2026-08-15
+344,179,131,4,"Good value, happy with it",2026-08-15
+345,1533,89,4,"Good value, happy with it",2026-08-15
+346,3755,364,5,"Excellent product, fast delivery",2026-08-15
+347,1189,360,4,"Good value, happy with it",2026-08-15
+348,3477,94,5,"Excellent product, fast delivery",2026-08-15
+349,46,119,5,"Excellent product, fast delivery",2026-08-15
+350,2769,75,4,"Good value, happy with it",2026-08-15
+351,1748,31,5,"Excellent product, fast delivery",2026-08-15
+352,1237,75,5,"Excellent product, fast delivery",2026-08-15
+353,2558,324,4,"Good value, happy with it",2026-08-15
+354,2779,33,5,"Excellent product, fast delivery",2026-08-15
+355,3114,24,3,"Average, does the job",2026-08-15
+356,729,190,4,"Good value, happy with it",2026-08-15
+357,2908,388,4,"Good value, happy with it",2026-08-15
+358,2075,257,4,"Good value, happy with it",2026-08-15
+359,1086,104,5,"Excellent product, fast delivery",2026-08-15
+360,3398,103,2,Poor quality for the price,2026-08-15
+361,832,71,4,"Good value, happy with it",2026-08-15
+362,3378,161,3,"Average, does the job",2026-08-15
+363,2269,379,4,"Good value, happy with it",2026-08-15
+364,2347,319,2,Poor quality for the price,2026-08-15
+365,378,219,4,"Good value, happy with it",2026-08-15
+366,3787,193,3,"Average, does the job",2026-08-15
+367,2763,292,1,"Terrible, broke in a week",2026-08-15
+368,2629,226,3,"Average, does the job",2026-08-15
+369,118,269,5,"Excellent product, fast delivery",2026-08-15
+370,101,46,5,"Excellent product, fast delivery",2026-08-15
+371,2702,177,5,"Excellent product, fast delivery",2026-08-15
+372,3316,12,5,"Excellent product, fast delivery",2026-08-15
+373,3217,210,2,Poor quality for the price,2026-08-15
+374,1937,48,4,"Good value, happy with it",2026-08-15
+375,3027,294,4,"Good value, happy with it",2026-08-15
+376,942,266,5,"Excellent product, fast delivery",2026-08-15
+377,2035,187,5,"Excellent product, fast delivery",2026-08-15
+378,127,94,5,"Excellent product, fast delivery",2026-08-15
+379,3094,139,4,"Good value, happy with it",2026-08-15
+380,2306,396,5,"Excellent product, fast delivery",2026-08-15
+381,104,41,4,"Good value, happy with it",2026-08-15
+382,2636,17,4,"Good value, happy with it",2026-08-15
+383,148,105,4,"Good value, happy with it",2026-08-15
+384,2429,198,5,"Excellent product, fast delivery",2026-08-15
+385,3200,21,3,"Average, does the job",2026-08-15
+386,818,279,3,"Average, does the job",2026-08-15
+387,242,273,5,"Excellent product, fast delivery",2026-08-15
+388,114,37,3,"Average, does the job",2026-08-15
+389,3498,157,4,"Good value, happy with it",2026-08-15
+390,325,318,4,"Good value, happy with it",2026-08-15
+391,788,50,4,"Good value, happy with it",2026-08-15
+392,3871,366,1,"Terrible, broke in a week",2026-08-15
+393,1539,202,1,"Terrible, broke in a week",2026-08-15
+394,637,265,1,"Terrible, broke in a week",2026-08-15
+395,3133,111,3,"Average, does the job",2026-08-15
+396,1407,141,4,"Good value, happy with it",2026-08-15
+397,388,231,4,"Good value, happy with it",2026-08-15
+398,1216,77,4,"Good value, happy with it",2026-08-15
+399,871,66,5,"Excellent product, fast delivery",2026-08-15
+400,2075,49,4,"Good value, happy with it",2026-08-15
+401,651,10,4,"Good value, happy with it",2026-08-15
+402,68,301,5,"Excellent product, fast delivery",2026-08-15
+403,1043,299,3,"Average, does the job",2026-08-15
+404,3636,219,3,"Average, does the job",2026-08-15
+405,1524,120,4,"Good value, happy with it",2026-08-15
+406,2320,140,5,"Excellent product, fast delivery",2026-08-15
+407,2451,53,3,"Average, does the job",2026-08-15
+408,2822,41,5,"Excellent product, fast delivery",2026-08-15
+409,2707,23,3,"Average, does the job",2026-08-15
+410,1038,303,5,"Excellent product, fast delivery",2026-08-15
+411,3173,68,4,"Good value, happy with it",2026-08-15
+412,979,86,4,"Good value, happy with it",2026-08-15
+413,2384,195,5,"Excellent product, fast delivery",2026-08-15
+414,2407,382,5,"Excellent product, fast delivery",2026-08-15
+415,1471,135,1,"Terrible, broke in a week",2026-08-15
+416,2830,230,5,"Excellent product, fast delivery",2026-08-15
+417,3342,227,5,"Excellent product, fast delivery",2026-08-15
+418,1250,321,4,"Good value, happy with it",2026-08-15
+419,3413,162,3,"Average, does the job",2026-08-15
+420,340,292,4,"Good value, happy with it",2026-08-15
+421,2326,358,4,"Good value, happy with it",2026-08-15
+422,3568,82,5,"Excellent product, fast delivery",2026-08-15
+423,3956,147,5,"Excellent product, fast delivery",2026-08-15
+424,3707,156,3,"Average, does the job",2026-08-15
+425,1416,97,3,"Average, does the job",2026-08-15
+426,2287,228,4,"Good value, happy with it",2026-08-15
+427,2159,302,3,"Average, does the job",2026-08-15
+428,370,282,3,"Average, does the job",2026-08-15
+429,1666,384,3,"Average, does the job",2026-08-15
+430,1904,236,5,"Excellent product, fast delivery",2026-08-15
+431,3465,86,4,"Good value, happy with it",2026-08-15
+432,992,301,4,"Good value, happy with it",2026-08-15
+433,610,174,4,"Good value, happy with it",2026-08-15
+434,3908,197,4,"Good value, happy with it",2026-08-15
+435,307,248,4,"Good value, happy with it",2026-08-15
+436,2716,267,5,"Excellent product, fast delivery",2026-08-15
+437,870,89,3,"Average, does the job",2026-08-15
+438,2704,147,5,"Excellent product, fast delivery",2026-08-15
+439,1880,362,5,"Excellent product, fast delivery",2026-08-15
+440,3842,102,5,"Excellent product, fast delivery",2026-08-15
+441,2559,183,5,"Excellent product, fast delivery",2026-08-15
+442,3609,51,4,"Good value, happy with it",2026-08-15
+443,771,249,4,"Good value, happy with it",2026-08-15
+444,2609,82,3,"Average, does the job",2026-08-15
+445,3113,257,3,"Average, does the job",2026-08-15
+446,1481,332,3,"Average, does the job",2026-08-15
+447,1239,50,5,"Excellent product, fast delivery",2026-08-15
+448,3389,131,5,"Excellent product, fast delivery",2026-08-15
+449,2773,111,4,"Good value, happy with it",2026-08-15
+450,1912,219,1,"Terrible, broke in a week",2026-08-15
+451,1134,263,5,"Excellent product, fast delivery",2026-08-15
+452,347,238,4,"Good value, happy with it",2026-08-15
+453,1582,271,4,"Good value, happy with it",2026-08-15
+454,1034,267,1,"Terrible, broke in a week",2026-08-15
+455,2866,269,5,"Excellent product, fast delivery",2026-08-15
+456,720,339,4,"Good value, happy with it",2026-08-15
+457,3943,216,5,"Excellent product, fast delivery",2026-08-15
+458,1938,142,4,"Good value, happy with it",2026-08-15
+459,3783,182,4,"Good value, happy with it",2026-08-15
+460,994,286,4,"Good value, happy with it",2026-08-15
+461,3554,28,5,"Excellent product, fast delivery",2026-08-15
+462,166,162,3,"Average, does the job",2026-08-15
+463,555,107,5,"Excellent product, fast delivery",2026-08-15
+464,3361,221,3,"Average, does the job",2026-08-15
+465,2476,170,3,"Average, does the job",2026-08-15
+466,763,337,5,"Excellent product, fast delivery",2026-08-15
+467,312,30,3,"Average, does the job",2026-08-15
+468,3813,390,5,"Excellent product, fast delivery",2026-08-15
+469,3751,201,3,"Average, does the job",2026-08-15
+470,944,230,5,"Excellent product, fast delivery",2026-08-15
+471,3669,66,5,"Excellent product, fast delivery",2026-08-15
+472,2968,169,4,"Good value, happy with it",2026-08-15
+473,2188,166,4,"Good value, happy with it",2026-08-15
+474,697,363,4,"Good value, happy with it",2026-08-15
+475,2522,385,4,"Good value, happy with it",2026-08-15
+476,901,252,2,Poor quality for the price,2026-08-15
+477,2250,356,3,"Average, does the job",2026-08-15
+478,1633,84,3,"Average, does the job",2026-08-15
+479,3555,239,5,"Excellent product, fast delivery",2026-08-15
+480,1253,95,5,"Excellent product, fast delivery",2026-08-15
+481,1402,383,5,"Excellent product, fast delivery",2026-08-15
+482,668,239,3,"Average, does the job",2026-08-15
+483,1458,325,5,"Excellent product, fast delivery",2026-08-15
+484,1572,330,5,"Excellent product, fast delivery",2026-08-15
+485,1661,292,5,"Excellent product, fast delivery",2026-08-15
+486,634,181,5,"Excellent product, fast delivery",2026-08-15
+487,2076,104,5,"Excellent product, fast delivery",2026-08-15
+488,1149,155,3,"Average, does the job",2026-08-15
+489,1033,216,4,"Good value, happy with it",2026-08-15
+490,3104,90,1,"Terrible, broke in a week",2026-08-15
+491,18,201,4,"Good value, happy with it",2026-08-15
+492,1858,321,4,"Good value, happy with it",2026-08-15
+493,2852,9,3,"Average, does the job",2026-08-15
+494,2780,200,5,"Excellent product, fast delivery",2026-08-15
+495,1539,227,5,"Excellent product, fast delivery",2026-08-15
+496,896,254,5,"Excellent product, fast delivery",2026-08-15
+497,273,201,5,"Excellent product, fast delivery",2026-08-15
+498,1279,361,2,Poor quality for the price,2026-08-15
+499,2226,266,3,"Average, does the job",2026-08-15
+500,1103,5,2,Poor quality for the price,2026-08-15
+501,1045,151,4,"Good value, happy with it",2026-08-15
+502,1437,192,5,"Excellent product, fast delivery",2026-08-15
+503,3309,143,2,Poor quality for the price,2026-08-15
+504,2000,167,1,"Terrible, broke in a week",2026-08-15
+505,1199,253,4,"Good value, happy with it",2026-08-15
+506,2317,343,5,"Excellent product, fast delivery",2026-08-15
+507,1815,74,4,"Good value, happy with it",2026-08-15
+508,2301,189,1,"Terrible, broke in a week",2026-08-15
+509,3339,118,5,"Excellent product, fast delivery",2026-08-15
+510,1299,6,1,"Terrible, broke in a week",2026-08-15
+511,1907,156,5,"Excellent product, fast delivery",2026-08-15
+512,2911,47,5,"Excellent product, fast delivery",2026-08-15
+513,3755,219,4,"Good value, happy with it",2026-08-15
+514,1708,85,4,"Good value, happy with it",2026-08-15
+515,694,163,5,"Excellent product, fast delivery",2026-08-15
+516,2392,94,5,"Excellent product, fast delivery",2026-08-15
+517,3435,229,5,"Excellent product, fast delivery",2026-08-15
+518,962,305,3,"Average, does the job",2026-08-15
+519,1055,51,5,"Excellent product, fast delivery",2026-08-15
+520,1798,317,3,"Average, does the job",2026-08-15
+521,766,138,5,"Excellent product, fast delivery",2026-08-15
+522,2189,142,5,"Excellent product, fast delivery",2026-08-15
+523,3182,69,5,"Excellent product, fast delivery",2026-08-15
+524,1905,180,1,"Terrible, broke in a week",2026-08-15
+525,858,139,5,"Excellent product, fast delivery",2026-08-15
+526,870,182,5,"Excellent product, fast delivery",2026-08-15
+527,3228,20,5,"Excellent product, fast delivery",2026-08-15
+528,1912,141,5,"Excellent product, fast delivery",2026-08-15
+529,2730,273,4,"Good value, happy with it",2026-08-15
+530,3675,93,4,"Good value, happy with it",2026-08-15
+531,2750,218,5,"Excellent product, fast delivery",2026-08-15
+532,2480,333,5,"Excellent product, fast delivery",2026-08-15
+533,2691,42,5,"Excellent product, fast delivery",2026-08-15
+534,2759,361,5,"Excellent product, fast delivery",2026-08-15
+535,3138,236,3,"Average, does the job",2026-08-15
+536,3711,268,3,"Average, does the job",2026-08-15
+537,895,391,5,"Excellent product, fast delivery",2026-08-15
+538,1272,385,2,Poor quality for the price,2026-08-15
+539,3536,155,5,"Excellent product, fast delivery",2026-08-15
+540,3033,68,4,"Good value, happy with it",2026-08-15
+541,3073,68,5,"Excellent product, fast delivery",2026-08-15
+542,832,366,5,"Excellent product, fast delivery",2026-08-15
+543,2343,111,2,Poor quality for the price,2026-08-15
+544,3638,7,5,"Excellent product, fast delivery",2026-08-15
+545,2770,262,2,Poor quality for the price,2026-08-15
+546,2067,107,3,"Average, does the job",2026-08-15
+547,2476,130,3,"Average, does the job",2026-08-15
+548,1703,112,4,"Good value, happy with it",2026-08-15
+549,2976,305,3,"Average, does the job",2026-08-15
+550,1098,82,1,"Terrible, broke in a week",2026-08-15
+551,3746,240,1,"Terrible, broke in a week",2026-08-15
+552,3724,249,4,"Good value, happy with it",2026-08-15
+553,2,320,5,"Excellent product, fast delivery",2026-08-15
+554,59,52,5,"Excellent product, fast delivery",2026-08-15
+555,2060,333,1,"Terrible, broke in a week",2026-08-15
+556,2786,269,5,"Excellent product, fast delivery",2026-08-15
+557,2469,2,5,"Excellent product, fast delivery",2026-08-15
+558,3611,229,4,"Good value, happy with it",2026-08-15
+559,3473,72,2,Poor quality for the price,2026-08-15
+560,3380,340,3,"Average, does the job",2026-08-15
+561,3280,181,4,"Good value, happy with it",2026-08-15
+562,1611,198,5,"Excellent product, fast delivery",2026-08-15
+563,419,257,4,"Good value, happy with it",2026-08-15
+564,3194,156,4,"Good value, happy with it",2026-08-15
+565,712,64,4,"Good value, happy with it",2026-08-15
+566,3647,290,5,"Excellent product, fast delivery",2026-08-15
+567,2502,52,3,"Average, does the job",2026-08-15
+568,3834,131,5,"Excellent product, fast delivery",2026-08-15
+569,3033,66,2,Poor quality for the price,2026-08-15
+570,2842,234,3,"Average, does the job",2026-08-15
+571,2161,120,3,"Average, does the job",2026-08-15
+572,3325,208,4,"Good value, happy with it",2026-08-15
+573,1601,280,3,"Average, does the job",2026-08-15
+574,1503,309,3,"Average, does the job",2026-08-15
+575,909,152,4,"Good value, happy with it",2026-08-15
+576,1163,45,5,"Excellent product, fast delivery",2026-08-15
+577,1262,187,5,"Excellent product, fast delivery",2026-08-15
+578,2285,236,3,"Average, does the job",2026-08-15
+579,2467,255,5,"Excellent product, fast delivery",2026-08-15
+580,1165,113,4,"Good value, happy with it",2026-08-15
+581,2554,164,5,"Excellent product, fast delivery",2026-08-15
+582,567,152,1,"Terrible, broke in a week",2026-08-15
+583,2590,231,2,Poor quality for the price,2026-08-15
+584,608,71,1,"Terrible, broke in a week",2026-08-15
+585,144,70,4,"Good value, happy with it",2026-08-15
+586,2372,313,4,"Good value, happy with it",2026-08-15
+587,1406,129,5,"Excellent product, fast delivery",2026-08-15
+588,2367,177,1,"Terrible, broke in a week",2026-08-15
+589,3381,342,1,"Terrible, broke in a week",2026-08-15
+590,1617,383,1,"Terrible, broke in a week",2026-08-15
+591,199,163,5,"Excellent product, fast delivery",2026-08-15
+592,1826,224,4,"Good value, happy with it",2026-08-15
+593,2095,288,3,"Average, does the job",2026-08-15
+594,2785,173,5,"Excellent product, fast delivery",2026-08-15
+595,3918,67,4,"Good value, happy with it",2026-08-15
+596,1071,352,4,"Good value, happy with it",2026-08-15
+597,1531,340,5,"Excellent product, fast delivery",2026-08-15
+598,1645,340,5,"Excellent product, fast delivery",2026-08-15
+599,2080,188,2,Poor quality for the price,2026-08-15
+600,101,264,1,"Terrible, broke in a week",2026-08-15
+601,406,73,3,"Average, does the job",2026-08-15
+602,2539,71,1,"Terrible, broke in a week",2026-08-15
+603,2066,147,3,"Average, does the job",2026-08-15
+604,2416,240,4,"Good value, happy with it",2026-08-15
+605,1805,299,4,"Good value, happy with it",2026-08-15
+606,107,150,3,"Average, does the job",2026-08-15
+607,782,155,1,"Terrible, broke in a week",2026-08-15
+608,2632,222,4,"Good value, happy with it",2026-08-15
+609,1804,379,5,"Excellent product, fast delivery",2026-08-15
+610,1087,258,1,"Terrible, broke in a week",2026-08-15
+611,1748,231,3,"Average, does the job",2026-08-15
+612,2378,119,5,"Excellent product, fast delivery",2026-08-15
+613,1327,60,5,"Excellent product, fast delivery",2026-08-15
+614,1251,74,5,"Excellent product, fast delivery",2026-08-15
+615,2797,375,4,"Good value, happy with it",2026-08-15
+616,3280,171,2,Poor quality for the price,2026-08-15
+617,3893,340,4,"Good value, happy with it",2026-08-15
+618,1859,206,5,"Excellent product, fast delivery",2026-08-15
+619,3752,309,5,"Excellent product, fast delivery",2026-08-15
+620,932,249,4,"Good value, happy with it",2026-08-15
+621,222,227,4,"Good value, happy with it",2026-08-15
+622,3089,95,5,"Excellent product, fast delivery",2026-08-15
+623,1568,226,4,"Good value, happy with it",2026-08-15
+624,70,282,3,"Average, does the job",2026-08-15
+625,1779,111,4,"Good value, happy with it",2026-08-15
+626,3439,217,5,"Excellent product, fast delivery",2026-08-15
+627,944,364,5,"Excellent product, fast delivery",2026-08-15
+628,2968,376,5,"Excellent product, fast delivery",2026-08-15
+629,2422,249,4,"Good value, happy with it",2026-08-15
+630,3427,161,3,"Average, does the job",2026-08-15
+631,2332,160,4,"Good value, happy with it",2026-08-15
+632,2161,209,5,"Excellent product, fast delivery",2026-08-15
+633,1270,253,4,"Good value, happy with it",2026-08-15
+634,2725,319,5,"Excellent product, fast delivery",2026-08-15
+635,3343,369,4,"Good value, happy with it",2026-08-15
+636,168,49,4,"Good value, happy with it",2026-08-15
+637,1063,367,5,"Excellent product, fast delivery",2026-08-15
+638,493,201,4,"Good value, happy with it",2026-08-15
+639,1542,288,5,"Excellent product, fast delivery",2026-08-15
+640,2603,294,5,"Excellent product, fast delivery",2026-08-15
+641,774,373,4,"Good value, happy with it",2026-08-15
+642,1851,158,4,"Good value, happy with it",2026-08-15
+643,705,178,5,"Excellent product, fast delivery",2026-08-15
+644,2059,107,5,"Excellent product, fast delivery",2026-08-15
+645,3643,136,4,"Good value, happy with it",2026-08-15
+646,1672,39,5,"Excellent product, fast delivery",2026-08-15
+647,2918,253,5,"Excellent product, fast delivery",2026-08-15
+648,1949,103,5,"Excellent product, fast delivery",2026-08-15
+649,879,199,5,"Excellent product, fast delivery",2026-08-15
+650,2148,333,4,"Good value, happy with it",2026-08-15
+651,760,276,4,"Good value, happy with it",2026-08-15
+652,3890,341,4,"Good value, happy with it",2026-08-15
+653,2528,74,4,"Good value, happy with it",2026-08-15
+654,541,237,4,"Good value, happy with it",2026-08-15
+655,3286,59,5,"Excellent product, fast delivery",2026-08-15
+656,2355,137,4,"Good value, happy with it",2026-08-15
+657,2063,221,3,"Average, does the job",2026-08-15
+658,3371,385,4,"Good value, happy with it",2026-08-15
+659,350,6,2,Poor quality for the price,2026-08-15
+660,195,106,5,"Excellent product, fast delivery",2026-08-15
+661,3362,140,5,"Excellent product, fast delivery",2026-08-15
+662,356,309,4,"Good value, happy with it",2026-08-15
+663,1643,376,1,"Terrible, broke in a week",2026-08-15
+664,3940,285,5,"Excellent product, fast delivery",2026-08-15
+665,1298,235,5,"Excellent product, fast delivery",2026-08-15
+666,3259,95,4,"Good value, happy with it",2026-08-15
+667,1974,230,5,"Excellent product, fast delivery",2026-08-15
+668,3853,135,5,"Excellent product, fast delivery",2026-08-15
+669,2547,252,5,"Excellent product, fast delivery",2026-08-15
+670,3329,235,3,"Average, does the job",2026-08-15
+671,1137,166,3,"Average, does the job",2026-08-15
+672,1944,340,3,"Average, does the job",2026-08-15
+673,3711,192,4,"Good value, happy with it",2026-08-15
+674,2370,125,4,"Good value, happy with it",2026-08-15
+675,525,248,5,"Excellent product, fast delivery",2026-08-15
+676,1139,305,1,"Terrible, broke in a week",2026-08-15
+677,2127,343,5,"Excellent product, fast delivery",2026-08-15
+678,2436,74,5,"Excellent product, fast delivery",2026-08-15
+679,3516,155,5,"Excellent product, fast delivery",2026-08-15
+680,1085,278,5,"Excellent product, fast delivery",2026-08-15
+681,3419,77,4,"Good value, happy with it",2026-08-15
+682,224,387,5,"Excellent product, fast delivery",2026-08-15
+683,3647,62,3,"Average, does the job",2026-08-15
+684,1562,323,4,"Good value, happy with it",2026-08-15
+685,706,183,5,"Excellent product, fast delivery",2026-08-15
+686,942,296,5,"Excellent product, fast delivery",2026-08-15
+687,3280,380,5,"Excellent product, fast delivery",2026-08-15
+688,268,219,5,"Excellent product, fast delivery",2026-08-15
+689,1346,253,4,"Good value, happy with it",2026-08-15
+690,1555,307,1,"Terrible, broke in a week",2026-08-15
+691,778,366,4,"Good value, happy with it",2026-08-15
+692,1069,44,4,"Good value, happy with it",2026-08-15
+693,482,206,5,"Excellent product, fast delivery",2026-08-15
+694,3234,224,3,"Average, does the job",2026-08-15
+695,458,10,5,"Excellent product, fast delivery",2026-08-15
+696,3054,249,4,"Good value, happy with it",2026-08-15
+697,644,250,2,Poor quality for the price,2026-08-15
+698,3111,73,5,"Excellent product, fast delivery",2026-08-15
+699,2177,398,5,"Excellent product, fast delivery",2026-08-15
+700,3431,145,2,Poor quality for the price,2026-08-15
+701,2293,151,5,"Excellent product, fast delivery",2026-08-15
+702,3888,104,4,"Good value, happy with it",2026-08-15
+703,1892,278,4,"Good value, happy with it",2026-08-15
+704,38,239,2,Poor quality for the price,2026-08-15
+705,3396,185,5,"Excellent product, fast delivery",2026-08-15
+706,1068,37,5,"Excellent product, fast delivery",2026-08-15
+707,1555,220,4,"Good value, happy with it",2026-08-15
+708,1078,256,3,"Average, does the job",2026-08-15
+709,2377,107,3,"Average, does the job",2026-08-15
+710,556,372,5,"Excellent product, fast delivery",2026-08-15
+711,3981,119,4,"Good value, happy with it",2026-08-15
+712,2403,371,4,"Good value, happy with it",2026-08-15
+713,266,246,1,"Terrible, broke in a week",2026-08-15
+714,615,53,3,"Average, does the job",2026-08-15
+715,2274,234,4,"Good value, happy with it",2026-08-15
+716,348,251,3,"Average, does the job",2026-08-15
+717,560,230,1,"Terrible, broke in a week",2026-08-15
+718,1205,131,3,"Average, does the job",2026-08-15
+719,3153,188,4,"Good value, happy with it",2026-08-15
+720,2823,282,5,"Excellent product, fast delivery",2026-08-15
+721,60,295,4,"Good value, happy with it",2026-08-15
+722,1535,302,5,"Excellent product, fast delivery",2026-08-15
+723,1042,136,5,"Excellent product, fast delivery",2026-08-15
+724,355,356,5,"Excellent product, fast delivery",2026-08-15
+725,1514,284,5,"Excellent product, fast delivery",2026-08-15
+726,1091,271,4,"Good value, happy with it",2026-08-15
+727,2284,287,4,"Good value, happy with it",2026-08-15
+728,1312,161,5,"Excellent product, fast delivery",2026-08-15
+729,1024,314,5,"Excellent product, fast delivery",2026-08-15
+730,526,277,5,"Excellent product, fast delivery",2026-08-15
+731,3958,57,4,"Good value, happy with it",2026-08-15
+732,92,46,5,"Excellent product, fast delivery",2026-08-15
+733,2374,69,5,"Excellent product, fast delivery",2026-08-15
+734,3260,64,4,"Good value, happy with it",2026-08-15
+735,202,181,3,"Average, does the job",2026-08-15
+736,725,366,4,"Good value, happy with it",2026-08-15
+737,157,379,5,"Excellent product, fast delivery",2026-08-15
+738,616,18,5,"Excellent product, fast delivery",2026-08-15
+739,3594,177,5,"Excellent product, fast delivery",2026-08-15
+740,557,18,4,"Good value, happy with it",2026-08-15
+741,3990,356,4,"Good value, happy with it",2026-08-15
+742,2232,286,4,"Good value, happy with it",2026-08-15
+743,3756,64,5,"Excellent product, fast delivery",2026-08-15
+744,1408,59,5,"Excellent product, fast delivery",2026-08-15
+745,3042,111,4,"Good value, happy with it",2026-08-15
+746,1180,174,3,"Average, does the job",2026-08-15
+747,1931,309,2,Poor quality for the price,2026-08-15
+748,352,50,3,"Average, does the job",2026-08-15
+749,3095,306,5,"Excellent product, fast delivery",2026-08-15
+750,727,91,3,"Average, does the job",2026-08-15
+751,3551,113,5,"Excellent product, fast delivery",2026-08-15
+752,3059,166,4,"Good value, happy with it",2026-08-15
+753,2370,209,4,"Good value, happy with it",2026-08-15
+754,2217,42,3,"Average, does the job",2026-08-15
+755,3115,308,5,"Excellent product, fast delivery",2026-08-15
+756,2116,208,3,"Average, does the job",2026-08-15
+757,2950,230,5,"Excellent product, fast delivery",2026-08-15
+758,3577,248,4,"Good value, happy with it",2026-08-15
+759,1475,387,3,"Average, does the job",2026-08-15
+760,1720,353,5,"Excellent product, fast delivery",2026-08-15
+761,3578,144,3,"Average, does the job",2026-08-15
+762,3342,347,4,"Good value, happy with it",2026-08-15
+763,3343,9,3,"Average, does the job",2026-08-15
+764,2587,73,5,"Excellent product, fast delivery",2026-08-15
+765,1993,277,4,"Good value, happy with it",2026-08-15
+766,2287,287,5,"Excellent product, fast delivery",2026-08-15
+767,793,284,2,Poor quality for the price,2026-08-15
+768,2803,154,5,"Excellent product, fast delivery",2026-08-15
+769,758,377,4,"Good value, happy with it",2026-08-15
+770,1109,212,5,"Excellent product, fast delivery",2026-08-15
+771,3270,14,5,"Excellent product, fast delivery",2026-08-15
+772,3590,142,5,"Excellent product, fast delivery",2026-08-15
+773,2653,71,3,"Average, does the job",2026-08-15
+774,609,314,4,"Good value, happy with it",2026-08-15
+775,1563,226,5,"Excellent product, fast delivery",2026-08-15
+776,1781,287,1,"Terrible, broke in a week",2026-08-15
+777,2937,304,4,"Good value, happy with it",2026-08-15
+778,2988,148,4,"Good value, happy with it",2026-08-15
+779,3092,62,5,"Excellent product, fast delivery",2026-08-15
+780,664,125,1,"Terrible, broke in a week",2026-08-15
+781,497,124,5,"Excellent product, fast delivery",2026-08-15
+782,130,382,4,"Good value, happy with it",2026-08-15
+783,591,244,5,"Excellent product, fast delivery",2026-08-15
+784,1725,296,3,"Average, does the job",2026-08-15
+785,3895,229,5,"Excellent product, fast delivery",2026-08-15
+786,2371,328,3,"Average, does the job",2026-08-15
+787,214,230,2,Poor quality for the price,2026-08-15
+788,3973,261,5,"Excellent product, fast delivery",2026-08-15
+789,1187,352,5,"Excellent product, fast delivery",2026-08-15
+790,1812,167,4,"Good value, happy with it",2026-08-15
+791,1472,32,5,"Excellent product, fast delivery",2026-08-15
+792,3731,314,5,"Excellent product, fast delivery",2026-08-15
+793,2296,19,4,"Good value, happy with it",2026-08-15
+794,2028,354,5,"Excellent product, fast delivery",2026-08-15
+795,1008,145,1,"Terrible, broke in a week",2026-08-15
+796,1761,343,5,"Excellent product, fast delivery",2026-08-15
+797,3208,375,4,"Good value, happy with it",2026-08-15
+798,3995,301,4,"Good value, happy with it",2026-08-15
+799,1897,338,4,"Good value, happy with it",2026-08-15
+800,1312,387,4,"Good value, happy with it",2026-08-15
+801,3503,206,3,"Average, does the job",2026-08-15
+802,963,16,5,"Excellent product, fast delivery",2026-08-15
+803,2417,96,2,Poor quality for the price,2026-08-15
+804,814,248,5,"Excellent product, fast delivery",2026-08-15
+805,763,307,4,"Good value, happy with it",2026-08-15
+806,2296,22,4,"Good value, happy with it",2026-08-15
+807,3674,354,4,"Good value, happy with it",2026-08-15
+808,2286,221,4,"Good value, happy with it",2026-08-15
+809,3536,215,5,"Excellent product, fast delivery",2026-08-15
+810,3275,163,5,"Excellent product, fast delivery",2026-08-15
+811,2448,192,5,"Excellent product, fast delivery",2026-08-15
+812,830,170,2,Poor quality for the price,2026-08-15
+813,2459,175,1,"Terrible, broke in a week",2026-08-15
+814,2217,124,5,"Excellent product, fast delivery",2026-08-15
+815,2706,254,4,"Good value, happy with it",2026-08-15
+816,3153,81,4,"Good value, happy with it",2026-08-15
+817,2201,45,4,"Good value, happy with it",2026-08-15
+818,360,350,3,"Average, does the job",2026-08-15
+819,2642,132,5,"Excellent product, fast delivery",2026-08-15
+820,3099,235,4,"Good value, happy with it",2026-08-15
+821,2386,289,4,"Good value, happy with it",2026-08-15
+822,1516,85,1,"Terrible, broke in a week",2026-08-15
+823,1055,144,5,"Excellent product, fast delivery",2026-08-15
+824,1102,178,5,"Excellent product, fast delivery",2026-08-15
+825,2515,156,3,"Average, does the job",2026-08-15
+826,2497,224,4,"Good value, happy with it",2026-08-15
+827,2419,361,3,"Average, does the job",2026-08-15
+828,3316,327,5,"Excellent product, fast delivery",2026-08-15
+829,3472,24,3,"Average, does the job",2026-08-15
+830,694,316,5,"Excellent product, fast delivery",2026-08-15
+831,3483,13,5,"Excellent product, fast delivery",2026-08-15
+832,2403,107,5,"Excellent product, fast delivery",2026-08-15
+833,2895,147,5,"Excellent product, fast delivery",2026-08-15
+834,519,68,5,"Excellent product, fast delivery",2026-08-15
+835,996,341,4,"Good value, happy with it",2026-08-15
+836,1572,133,4,"Good value, happy with it",2026-08-15
+837,2394,118,2,Poor quality for the price,2026-08-15
+838,1382,131,5,"Excellent product, fast delivery",2026-08-15
+839,2712,33,4,"Good value, happy with it",2026-08-15
+840,2094,298,5,"Excellent product, fast delivery",2026-08-15
+841,3360,357,3,"Average, does the job",2026-08-15
+842,3631,364,5,"Excellent product, fast delivery",2026-08-15
+843,2365,118,2,Poor quality for the price,2026-08-15
+844,3234,240,3,"Average, does the job",2026-08-15
+845,1088,17,5,"Excellent product, fast delivery",2026-08-15
+846,2557,307,5,"Excellent product, fast delivery",2026-08-15
+847,2190,216,5,"Excellent product, fast delivery",2026-08-15
+848,3069,70,2,Poor quality for the price,2026-08-15
+849,1782,8,5,"Excellent product, fast delivery",2026-08-15
+850,3860,211,4,"Good value, happy with it",2026-08-15
+851,1947,227,2,Poor quality for the price,2026-08-15
+852,3423,211,4,"Good value, happy with it",2026-08-15
+853,3704,279,2,Poor quality for the price,2026-08-15
+854,942,201,4,"Good value, happy with it",2026-08-15
+855,3350,305,5,"Excellent product, fast delivery",2026-08-15
+856,2490,380,3,"Average, does the job",2026-08-15
+857,526,13,4,"Good value, happy with it",2026-08-15
+858,1548,164,4,"Good value, happy with it",2026-08-15
+859,849,218,5,"Excellent product, fast delivery",2026-08-15
+860,582,349,3,"Average, does the job",2026-08-15
+861,3095,164,3,"Average, does the job",2026-08-15
+862,3856,210,5,"Excellent product, fast delivery",2026-08-15
+863,661,396,1,"Terrible, broke in a week",2026-08-15
+864,3282,283,5,"Excellent product, fast delivery",2026-08-15
+865,1764,138,5,"Excellent product, fast delivery",2026-08-15
+866,2311,145,5,"Excellent product, fast delivery",2026-08-15
+867,62,95,3,"Average, does the job",2026-08-15
+868,2864,58,5,"Excellent product, fast delivery",2026-08-15
+869,3213,333,4,"Good value, happy with it",2026-08-15
+870,3044,79,5,"Excellent product, fast delivery",2026-08-15
+871,602,308,5,"Excellent product, fast delivery",2026-08-15
+872,3509,97,4,"Good value, happy with it",2026-08-15
+873,1068,84,5,"Excellent product, fast delivery",2026-08-15
+874,929,260,3,"Average, does the job",2026-08-15
+875,3821,368,3,"Average, does the job",2026-08-15
+876,2628,176,4,"Good value, happy with it",2026-08-15
+877,3026,63,4,"Good value, happy with it",2026-08-15
+878,3410,153,4,"Good value, happy with it",2026-08-15
+879,2363,147,5,"Excellent product, fast delivery",2026-08-15
+880,3644,8,4,"Good value, happy with it",2026-08-15
+881,3622,98,5,"Excellent product, fast delivery",2026-08-15
+882,351,228,4,"Good value, happy with it",2026-08-15
+883,2461,15,5,"Excellent product, fast delivery",2026-08-15
+884,1779,173,5,"Excellent product, fast delivery",2026-08-15
+885,2830,214,5,"Excellent product, fast delivery",2026-08-15
+886,3266,80,5,"Excellent product, fast delivery",2026-08-15
+887,1208,315,5,"Excellent product, fast delivery",2026-08-15
+888,1822,123,3,"Average, does the job",2026-08-15
+889,1851,194,5,"Excellent product, fast delivery",2026-08-15
+890,403,75,5,"Excellent product, fast delivery",2026-08-15
+891,3463,158,5,"Excellent product, fast delivery",2026-08-15
+892,2176,271,4,"Good value, happy with it",2026-08-15
+893,2981,90,2,Poor quality for the price,2026-08-15
+894,586,291,4,"Good value, happy with it",2026-08-15
+895,3005,195,3,"Average, does the job",2026-08-15
+896,3338,201,2,Poor quality for the price,2026-08-15
+897,2791,2,5,"Excellent product, fast delivery",2026-08-15
+898,2869,185,4,"Good value, happy with it",2026-08-15
+899,2076,363,4,"Good value, happy with it",2026-08-15
+900,3036,374,5,"Excellent product, fast delivery",2026-08-15
+901,1686,231,3,"Average, does the job",2026-08-15
+902,3252,37,4,"Good value, happy with it",2026-08-15
+903,3661,335,5,"Excellent product, fast delivery",2026-08-15
+904,1556,162,4,"Good value, happy with it",2026-08-15
+905,3289,352,5,"Excellent product, fast delivery",2026-08-15
+906,952,332,4,"Good value, happy with it",2026-08-15
+907,3266,304,3,"Average, does the job",2026-08-15
+908,2240,1,5,"Excellent product, fast delivery",2026-08-15
+909,1817,291,4,"Good value, happy with it",2026-08-15
+910,2748,391,5,"Excellent product, fast delivery",2026-08-15
+911,3554,42,3,"Average, does the job",2026-08-15
+912,3252,295,3,"Average, does the job",2026-08-15
+913,150,218,5,"Excellent product, fast delivery",2026-08-15
+914,3351,58,3,"Average, does the job",2026-08-15
+915,3710,385,1,"Terrible, broke in a week",2026-08-15
+916,3488,300,5,"Excellent product, fast delivery",2026-08-15
+917,2171,386,3,"Average, does the job",2026-08-15
+918,1033,33,4,"Good value, happy with it",2026-08-15
+919,810,166,1,"Terrible, broke in a week",2026-08-15
+920,545,98,3,"Average, does the job",2026-08-15
+921,202,206,5,"Excellent product, fast delivery",2026-08-15
+922,1821,224,5,"Excellent product, fast delivery",2026-08-15
+923,2726,132,5,"Excellent product, fast delivery",2026-08-15
+924,2384,28,3,"Average, does the job",2026-08-15
+925,3043,183,1,"Terrible, broke in a week",2026-08-15
+926,3549,256,4,"Good value, happy with it",2026-08-15
+927,3504,376,5,"Excellent product, fast delivery",2026-08-15
+928,990,33,4,"Good value, happy with it",2026-08-15
+929,2219,127,3,"Average, does the job",2026-08-15
+930,2057,102,1,"Terrible, broke in a week",2026-08-15
+931,1257,104,4,"Good value, happy with it",2026-08-15
+932,3358,377,1,"Terrible, broke in a week",2026-08-15
+933,3387,174,5,"Excellent product, fast delivery",2026-08-15
+934,284,144,4,"Good value, happy with it",2026-08-15
+935,2811,149,5,"Excellent product, fast delivery",2026-08-15
+936,790,199,4,"Good value, happy with it",2026-08-15
+937,482,272,1,"Terrible, broke in a week",2026-08-15
+938,2358,63,4,"Good value, happy with it",2026-08-15
+939,173,64,1,"Terrible, broke in a week",2026-08-15
+940,2918,103,2,Poor quality for the price,2026-08-15
+941,1112,123,1,"Terrible, broke in a week",2026-08-15
+942,2644,291,5,"Excellent product, fast delivery",2026-08-15
+943,3821,66,5,"Excellent product, fast delivery",2026-08-15
+944,1821,307,4,"Good value, happy with it",2026-08-15
+945,147,38,4,"Good value, happy with it",2026-08-15
+946,286,85,3,"Average, does the job",2026-08-15
+947,3192,136,5,"Excellent product, fast delivery",2026-08-15
+948,3790,83,5,"Excellent product, fast delivery",2026-08-15
+949,1455,350,5,"Excellent product, fast delivery",2026-08-15
+950,1833,382,5,"Excellent product, fast delivery",2026-08-15
+951,1581,125,5,"Excellent product, fast delivery",2026-08-15
+952,2180,72,4,"Good value, happy with it",2026-08-15
+953,3010,214,5,"Excellent product, fast delivery",2026-08-15
+954,2444,37,2,Poor quality for the price,2026-08-15
+955,1495,89,5,"Excellent product, fast delivery",2026-08-15
+956,3980,264,4,"Good value, happy with it",2026-08-15
+957,1999,163,4,"Good value, happy with it",2026-08-15
+958,2095,338,5,"Excellent product, fast delivery",2026-08-15
+959,259,83,4,"Good value, happy with it",2026-08-15
+960,2300,88,4,"Good value, happy with it",2026-08-15
+961,2942,11,3,"Average, does the job",2026-08-15
+962,663,330,5,"Excellent product, fast delivery",2026-08-15
+963,155,386,4,"Good value, happy with it",2026-08-15
+964,183,260,5,"Excellent product, fast delivery",2026-08-15
+965,1798,12,4,"Good value, happy with it",2026-08-15
+966,1486,253,5,"Excellent product, fast delivery",2026-08-15
+967,2606,349,5,"Excellent product, fast delivery",2026-08-15
+968,1092,265,5,"Excellent product, fast delivery",2026-08-15
+969,3726,229,4,"Good value, happy with it",2026-08-15
+970,868,354,4,"Good value, happy with it",2026-08-15
+971,1250,376,5,"Excellent product, fast delivery",2026-08-15
+972,3690,351,4,"Good value, happy with it",2026-08-15
+973,3609,363,1,"Terrible, broke in a week",2026-08-15
+974,767,331,5,"Excellent product, fast delivery",2026-08-15
+975,3254,378,4,"Good value, happy with it",2026-08-15
+976,1016,207,5,"Excellent product, fast delivery",2026-08-15
+977,3599,174,4,"Good value, happy with it",2026-08-15
+978,1260,311,5,"Excellent product, fast delivery",2026-08-15
+979,2310,282,4,"Good value, happy with it",2026-08-15
+980,965,156,2,Poor quality for the price,2026-08-15
+981,1387,214,4,"Good value, happy with it",2026-08-15
+982,3930,91,3,"Average, does the job",2026-08-15
+983,1811,171,5,"Excellent product, fast delivery",2026-08-15
+984,342,354,4,"Good value, happy with it",2026-08-15
+985,2813,15,5,"Excellent product, fast delivery",2026-08-15
+986,3047,189,5,"Excellent product, fast delivery",2026-08-15
+987,1861,289,5,"Excellent product, fast delivery",2026-08-15
+988,1128,84,4,"Good value, happy with it",2026-08-15
+989,2873,265,3,"Average, does the job",2026-08-15
+990,2138,397,5,"Excellent product, fast delivery",2026-08-15
+991,3711,166,5,"Excellent product, fast delivery",2026-08-15
+992,629,201,3,"Average, does the job",2026-08-15
+993,3672,290,4,"Good value, happy with it",2026-08-15
+994,24,27,5,"Excellent product, fast delivery",2026-08-15
+995,1014,232,5,"Excellent product, fast delivery",2026-08-15
+996,3570,293,2,Poor quality for the price,2026-08-15
+997,2949,111,3,"Average, does the job",2026-08-15
+998,3756,27,5,"Excellent product, fast delivery",2026-08-15
+999,2408,175,5,"Excellent product, fast delivery",2026-08-15
+1000,802,165,4,"Good value, happy with it",2026-08-15
+1001,3864,40,3,"Average, does the job",2026-08-15
+1002,3775,93,4,"Good value, happy with it",2026-08-15
+1003,1907,234,3,"Average, does the job",2026-08-15
+1004,937,75,1,"Terrible, broke in a week",2026-08-15
+1005,3291,116,5,"Excellent product, fast delivery",2026-08-15
+1006,3807,123,4,"Good value, happy with it",2026-08-15
+1007,914,6,5,"Excellent product, fast delivery",2026-08-15
+1008,791,38,4,"Good value, happy with it",2026-08-15
+1009,1625,360,2,Poor quality for the price,2026-08-15
+1010,1504,67,2,Poor quality for the price,2026-08-15
+1011,1238,400,4,"Good value, happy with it",2026-08-15
+1012,299,40,3,"Average, does the job",2026-08-15
+1013,1257,56,3,"Average, does the job",2026-08-15
+1014,1145,256,4,"Good value, happy with it",2026-08-15
+1015,3646,271,4,"Good value, happy with it",2026-08-15
+1016,1705,280,5,"Excellent product, fast delivery",2026-08-15
+1017,3596,382,5,"Excellent product, fast delivery",2026-08-15
+1018,46,53,4,"Good value, happy with it",2026-08-15
+1019,3676,242,4,"Good value, happy with it",2026-08-15
+1020,263,207,1,"Terrible, broke in a week",2026-08-15
+1021,3993,93,3,"Average, does the job",2026-08-15
+1022,3390,195,3,"Average, does the job",2026-08-15
+1023,2497,202,4,"Good value, happy with it",2026-08-15
+1024,1525,352,4,"Good value, happy with it",2026-08-15
+1025,1252,247,2,Poor quality for the price,2026-08-15
+1026,902,232,4,"Good value, happy with it",2026-08-15
+1027,3473,9,4,"Good value, happy with it",2026-08-15
+1028,1323,136,5,"Excellent product, fast delivery",2026-08-15
+1029,2452,311,4,"Good value, happy with it",2026-08-15
+1030,2206,232,4,"Good value, happy with it",2026-08-15
+1031,2953,21,5,"Excellent product, fast delivery",2026-08-15
+1032,1282,175,4,"Good value, happy with it",2026-08-15
+1033,3321,215,5,"Excellent product, fast delivery",2026-08-15
+1034,2967,113,5,"Excellent product, fast delivery",2026-08-15
+1035,1524,307,5,"Excellent product, fast delivery",2026-08-15
+1036,254,83,4,"Good value, happy with it",2026-08-15
+1037,2432,377,4,"Good value, happy with it",2026-08-15
+1038,2712,163,3,"Average, does the job",2026-08-15
+1039,3082,96,2,Poor quality for the price,2026-08-15
+1040,1486,35,3,"Average, does the job",2026-08-15
+1041,1192,361,3,"Average, does the job",2026-08-15
+1042,2749,388,4,"Good value, happy with it",2026-08-15
+1043,2490,238,4,"Good value, happy with it",2026-08-15
+1044,947,138,5,"Excellent product, fast delivery",2026-08-15
+1045,2115,308,5,"Excellent product, fast delivery",2026-08-15
+1046,2949,158,1,"Terrible, broke in a week",2026-08-15
+1047,831,55,2,Poor quality for the price,2026-08-15
+1048,980,142,5,"Excellent product, fast delivery",2026-08-15
+1049,2618,26,5,"Excellent product, fast delivery",2026-08-15
+1050,2719,378,4,"Good value, happy with it",2026-08-15
+1051,2657,287,4,"Good value, happy with it",2026-08-15
+1052,1557,113,5,"Excellent product, fast delivery",2026-08-15
+1053,2298,45,3,"Average, does the job",2026-08-15
+1054,1467,242,2,Poor quality for the price,2026-08-15
+1055,3984,275,1,"Terrible, broke in a week",2026-08-15
+1056,2836,338,4,"Good value, happy with it",2026-08-15
+1057,1977,69,3,"Average, does the job",2026-08-15
+1058,1255,262,5,"Excellent product, fast delivery",2026-08-15
+1059,3455,140,3,"Average, does the job",2026-08-15
+1060,447,325,4,"Good value, happy with it",2026-08-15
+1061,2195,247,3,"Average, does the job",2026-08-15
+1062,2132,128,3,"Average, does the job",2026-08-15
+1063,3207,76,4,"Good value, happy with it",2026-08-15
+1064,1957,160,5,"Excellent product, fast delivery",2026-08-15
+1065,2631,119,4,"Good value, happy with it",2026-08-15
+1066,3948,152,2,Poor quality for the price,2026-08-15
+1067,741,368,5,"Excellent product, fast delivery",2026-08-15
+1068,3469,142,4,"Good value, happy with it",2026-08-15
+1069,2160,341,5,"Excellent product, fast delivery",2026-08-15
+1070,607,304,3,"Average, does the job",2026-08-15
+1071,2085,61,5,"Excellent product, fast delivery",2026-08-15
+1072,2891,187,4,"Good value, happy with it",2026-08-15
+1073,2151,261,5,"Excellent product, fast delivery",2026-08-15
+1074,2498,152,5,"Excellent product, fast delivery",2026-08-15
+1075,1646,249,4,"Good value, happy with it",2026-08-15
+1076,1411,200,1,"Terrible, broke in a week",2026-08-15
+1077,1362,252,4,"Good value, happy with it",2026-08-15
+1078,2978,213,5,"Excellent product, fast delivery",2026-08-15
+1079,589,21,5,"Excellent product, fast delivery",2026-08-15
+1080,303,332,4,"Good value, happy with it",2026-08-15
+1081,1357,154,2,Poor quality for the price,2026-08-15
+1082,2108,4,5,"Excellent product, fast delivery",2026-08-15
+1083,2172,268,5,"Excellent product, fast delivery",2026-08-15
+1084,2552,309,4,"Good value, happy with it",2026-08-15
+1085,1846,176,5,"Excellent product, fast delivery",2026-08-15
+1086,2851,84,4,"Good value, happy with it",2026-08-15
+1087,1313,300,5,"Excellent product, fast delivery",2026-08-15
+1088,3739,7,2,Poor quality for the price,2026-08-15
+1089,951,54,5,"Excellent product, fast delivery",2026-08-15
+1090,3365,339,5,"Excellent product, fast delivery",2026-08-15
+1091,928,255,4,"Good value, happy with it",2026-08-15
+1092,1873,293,5,"Excellent product, fast delivery",2026-08-15
+1093,852,395,5,"Excellent product, fast delivery",2026-08-15
+1094,3703,207,5,"Excellent product, fast delivery",2026-08-15
+1095,1980,12,4,"Good value, happy with it",2026-08-15
+1096,625,8,4,"Good value, happy with it",2026-08-15
+1097,653,139,2,Poor quality for the price,2026-08-15
+1098,1887,296,4,"Good value, happy with it",2026-08-15
+1099,1654,153,5,"Excellent product, fast delivery",2026-08-15
+1100,2987,267,5,"Excellent product, fast delivery",2026-08-15
+1101,1493,155,3,"Average, does the job",2026-08-15
+1102,1102,177,5,"Excellent product, fast delivery",2026-08-15
+1103,1526,309,2,Poor quality for the price,2026-08-15
+1104,3167,330,3,"Average, does the job",2026-08-15
+1105,135,166,3,"Average, does the job",2026-08-15
+1106,266,394,3,"Average, does the job",2026-08-15
+1107,1483,138,4,"Good value, happy with it",2026-08-15
+1108,3030,122,4,"Good value, happy with it",2026-08-15
+1109,3492,77,4,"Good value, happy with it",2026-08-15
+1110,1454,314,5,"Excellent product, fast delivery",2026-08-15
+1111,2507,323,5,"Excellent product, fast delivery",2026-08-15
+1112,3490,17,5,"Excellent product, fast delivery",2026-08-15
+1113,3320,356,3,"Average, does the job",2026-08-15
+1114,1041,162,1,"Terrible, broke in a week",2026-08-15
+1115,3082,328,4,"Good value, happy with it",2026-08-15
+1116,96,100,5,"Excellent product, fast delivery",2026-08-15
+1117,3044,198,2,Poor quality for the price,2026-08-15
+1118,2407,331,4,"Good value, happy with it",2026-08-15
+1119,3374,43,5,"Excellent product, fast delivery",2026-08-15
+1120,2587,143,5,"Excellent product, fast delivery",2026-08-15
+1121,2014,298,1,"Terrible, broke in a week",2026-08-15
+1122,1502,297,5,"Excellent product, fast delivery",2026-08-15
+1123,1366,240,5,"Excellent product, fast delivery",2026-08-15
+1124,405,323,1,"Terrible, broke in a week",2026-08-15
+1125,2058,225,3,"Average, does the job",2026-08-15
+1126,3023,177,5,"Excellent product, fast delivery",2026-08-15
+1127,1437,297,4,"Good value, happy with it",2026-08-15
+1128,2386,125,5,"Excellent product, fast delivery",2026-08-15
+1129,3837,159,5,"Excellent product, fast delivery",2026-08-15
+1130,2817,235,5,"Excellent product, fast delivery",2026-08-15
+1131,1781,84,5,"Excellent product, fast delivery",2026-08-15
+1132,1650,389,2,Poor quality for the price,2026-08-15
+1133,2493,232,5,"Excellent product, fast delivery",2026-08-15
+1134,95,294,4,"Good value, happy with it",2026-08-15
+1135,3494,171,3,"Average, does the job",2026-08-15
+1136,3263,349,4,"Good value, happy with it",2026-08-15
+1137,3436,222,1,"Terrible, broke in a week",2026-08-15
+1138,3360,17,4,"Good value, happy with it",2026-08-15
+1139,1145,368,1,"Terrible, broke in a week",2026-08-15
+1140,2525,233,3,"Average, does the job",2026-08-15
+1141,3896,203,4,"Good value, happy with it",2026-08-15
+1142,3623,261,4,"Good value, happy with it",2026-08-15
+1143,1763,254,5,"Excellent product, fast delivery",2026-08-15
+1144,1809,359,2,Poor quality for the price,2026-08-15
+1145,3985,145,4,"Good value, happy with it",2026-08-15
+1146,3964,220,3,"Average, does the job",2026-08-15
+1147,2841,302,2,Poor quality for the price,2026-08-15
+1148,278,151,5,"Excellent product, fast delivery",2026-08-15
+1149,334,373,4,"Good value, happy with it",2026-08-15
+1150,3468,61,5,"Excellent product, fast delivery",2026-08-15
+1151,2352,44,4,"Good value, happy with it",2026-08-15
+1152,119,8,3,"Average, does the job",2026-08-15
+1153,1921,224,4,"Good value, happy with it",2026-08-15
+1154,3253,190,5,"Excellent product, fast delivery",2026-08-15
+1155,580,200,2,Poor quality for the price,2026-08-15
+1156,1721,33,1,"Terrible, broke in a week",2026-08-15
+1157,756,70,5,"Excellent product, fast delivery",2026-08-15
+1158,172,176,1,"Terrible, broke in a week",2026-08-15
+1159,3736,265,1,"Terrible, broke in a week",2026-08-15
+1160,3084,258,5,"Excellent product, fast delivery",2026-08-15
+1161,3827,279,5,"Excellent product, fast delivery",2026-08-15
+1162,403,248,4,"Good value, happy with it",2026-08-15
+1163,2971,125,4,"Good value, happy with it",2026-08-15
+1164,3652,282,1,"Terrible, broke in a week",2026-08-15
+1165,2538,361,4,"Good value, happy with it",2026-08-15
+1166,3466,349,4,"Good value, happy with it",2026-08-15
+1167,2561,128,4,"Good value, happy with it",2026-08-15
+1168,98,192,5,"Excellent product, fast delivery",2026-08-15
+1169,2127,157,3,"Average, does the job",2026-08-15
+1170,472,56,4,"Good value, happy with it",2026-08-15
+1171,2243,254,3,"Average, does the job",2026-08-15
+1172,3118,331,5,"Excellent product, fast delivery",2026-08-15
+1173,1801,104,3,"Average, does the job",2026-08-15
+1174,3658,118,5,"Excellent product, fast delivery",2026-08-15
+1175,33,117,1,"Terrible, broke in a week",2026-08-15
+1176,3346,212,5,"Excellent product, fast delivery",2026-08-15
+1177,1524,12,5,"Excellent product, fast delivery",2026-08-15
+1178,3677,245,3,"Average, does the job",2026-08-15
+1179,833,327,4,"Good value, happy with it",2026-08-15
+1180,2645,54,5,"Excellent product, fast delivery",2026-08-15
+1181,843,358,1,"Terrible, broke in a week",2026-08-15
+1182,1510,218,5,"Excellent product, fast delivery",2026-08-15
+1183,3352,347,3,"Average, does the job",2026-08-15
+1184,2250,156,2,Poor quality for the price,2026-08-15
+1185,1633,189,5,"Excellent product, fast delivery",2026-08-15
+1186,1426,259,3,"Average, does the job",2026-08-15
+1187,887,252,4,"Good value, happy with it",2026-08-15
+1188,547,268,5,"Excellent product, fast delivery",2026-08-15
+1189,2362,66,3,"Average, does the job",2026-08-15
+1190,3416,321,5,"Excellent product, fast delivery",2026-08-15
+1191,3116,154,5,"Excellent product, fast delivery",2026-08-15
+1192,2667,376,4,"Good value, happy with it",2026-08-15
+1193,2011,327,5,"Excellent product, fast delivery",2026-08-15
+1194,1645,283,5,"Excellent product, fast delivery",2026-08-15
+1195,1645,25,4,"Good value, happy with it",2026-08-15
+1196,286,38,5,"Excellent product, fast delivery",2026-08-15
+1197,2728,49,5,"Excellent product, fast delivery",2026-08-15
+1198,2170,217,5,"Excellent product, fast delivery",2026-08-15
+1199,2294,41,4,"Good value, happy with it",2026-08-15
+1200,1516,292,1,"Terrible, broke in a week",2026-08-15
+1201,1100,285,4,"Good value, happy with it",2026-08-15
+1202,1317,398,5,"Excellent product, fast delivery",2026-08-15
+1203,2736,381,4,"Good value, happy with it",2026-08-15
+1204,3305,226,3,"Average, does the job",2026-08-15
+1205,1384,25,5,"Excellent product, fast delivery",2026-08-15
+1206,3196,108,3,"Average, does the job",2026-08-15
+1207,2502,34,2,Poor quality for the price,2026-08-15
+1208,3754,310,5,"Excellent product, fast delivery",2026-08-15
+1209,3294,219,4,"Good value, happy with it",2026-08-15
+1210,2473,204,1,"Terrible, broke in a week",2026-08-15
+1211,1958,276,2,Poor quality for the price,2026-08-15
+1212,3256,320,5,"Excellent product, fast delivery",2026-08-15
+1213,1957,258,3,"Average, does the job",2026-08-15
+1214,3688,258,5,"Excellent product, fast delivery",2026-08-15
+1215,2953,20,4,"Good value, happy with it",2026-08-15
+1216,1091,134,1,"Terrible, broke in a week",2026-08-15
+1217,2761,368,3,"Average, does the job",2026-08-15
+1218,3632,123,3,"Average, does the job",2026-08-15
+1219,2624,58,5,"Excellent product, fast delivery",2026-08-15
+1220,1623,314,4,"Good value, happy with it",2026-08-15
+1221,724,352,5,"Excellent product, fast delivery",2026-08-15
+1222,1846,27,4,"Good value, happy with it",2026-08-15
+1223,891,209,5,"Excellent product, fast delivery",2026-08-15
+1224,2935,108,4,"Good value, happy with it",2026-08-15
+1225,1644,391,5,"Excellent product, fast delivery",2026-08-15
+1226,3650,172,4,"Good value, happy with it",2026-08-15
+1227,1549,220,4,"Good value, happy with it",2026-08-15
+1228,2655,370,4,"Good value, happy with it",2026-08-15
+1229,2413,15,5,"Excellent product, fast delivery",2026-08-15
+1230,176,329,3,"Average, does the job",2026-08-15
+1231,922,48,4,"Good value, happy with it",2026-08-15
+1232,939,241,4,"Good value, happy with it",2026-08-15
+1233,3205,342,5,"Excellent product, fast delivery",2026-08-15
+1234,1891,105,5,"Excellent product, fast delivery",2026-08-15
+1235,3420,209,5,"Excellent product, fast delivery",2026-08-15
+1236,3224,75,1,"Terrible, broke in a week",2026-08-15
+1237,3190,398,5,"Excellent product, fast delivery",2026-08-15
+1238,3779,300,4,"Good value, happy with it",2026-08-15
+1239,2466,151,5,"Excellent product, fast delivery",2026-08-15
+1240,1052,293,4,"Good value, happy with it",2026-08-15
+1241,3151,314,4,"Good value, happy with it",2026-08-15
+1242,2771,137,5,"Excellent product, fast delivery",2026-08-15
+1243,892,96,3,"Average, does the job",2026-08-15
+1244,2840,114,5,"Excellent product, fast delivery",2026-08-15
+1245,2307,354,5,"Excellent product, fast delivery",2026-08-15
+1246,311,42,5,"Excellent product, fast delivery",2026-08-15
+1247,759,137,5,"Excellent product, fast delivery",2026-08-15
+1248,2046,232,2,Poor quality for the price,2026-08-15
+1249,1640,110,5,"Excellent product, fast delivery",2026-08-15
+1250,15,180,5,"Excellent product, fast delivery",2026-08-15
+1251,3054,161,2,Poor quality for the price,2026-08-15
+1252,2495,98,2,Poor quality for the price,2026-08-15
+1253,239,135,3,"Average, does the job",2026-08-15
+1254,3141,376,5,"Excellent product, fast delivery",2026-08-15
+1255,1217,279,4,"Good value, happy with it",2026-08-15
+1256,3281,113,4,"Good value, happy with it",2026-08-15
+1257,1426,225,5,"Excellent product, fast delivery",2026-08-15
+1258,471,307,4,"Good value, happy with it",2026-08-15
+1259,2324,83,4,"Good value, happy with it",2026-08-15
+1260,1325,56,5,"Excellent product, fast delivery",2026-08-15
+1261,1529,98,2,Poor quality for the price,2026-08-15
+1262,1013,115,5,"Excellent product, fast delivery",2026-08-15
+1263,2624,156,1,"Terrible, broke in a week",2026-08-15
+1264,624,124,4,"Good value, happy with it",2026-08-15
+1265,65,170,4,"Good value, happy with it",2026-08-15
+1266,2609,169,1,"Terrible, broke in a week",2026-08-15
+1267,360,69,1,"Terrible, broke in a week",2026-08-15
+1268,3068,174,4,"Good value, happy with it",2026-08-15
+1269,3367,384,5,"Excellent product, fast delivery",2026-08-15
+1270,69,166,5,"Excellent product, fast delivery",2026-08-15
+1271,2006,264,4,"Good value, happy with it",2026-08-15
+1272,946,253,5,"Excellent product, fast delivery",2026-08-15
+1273,3571,350,1,"Terrible, broke in a week",2026-08-15
+1274,2139,268,5,"Excellent product, fast delivery",2026-08-15
+1275,1333,63,3,"Average, does the job",2026-08-15
+1276,2091,31,4,"Good value, happy with it",2026-08-15
+1277,1912,304,4,"Good value, happy with it",2026-08-15
+1278,3658,315,5,"Excellent product, fast delivery",2026-08-15
+1279,1519,314,5,"Excellent product, fast delivery",2026-08-15
+1280,3627,224,5,"Excellent product, fast delivery",2026-08-15
+1281,1226,254,5,"Excellent product, fast delivery",2026-08-15
+1282,3798,118,5,"Excellent product, fast delivery",2026-08-15
+1283,2465,144,3,"Average, does the job",2026-08-15
+1284,2703,81,3,"Average, does the job",2026-08-15
+1285,3105,136,1,"Terrible, broke in a week",2026-08-15
+1286,1488,37,5,"Excellent product, fast delivery",2026-08-15
+1287,2664,35,3,"Average, does the job",2026-08-15
+1288,352,159,4,"Good value, happy with it",2026-08-15
+1289,1604,40,5,"Excellent product, fast delivery",2026-08-15
+1290,3906,375,5,"Excellent product, fast delivery",2026-08-15
+1291,851,310,4,"Good value, happy with it",2026-08-15
+1292,383,28,5,"Excellent product, fast delivery",2026-08-15
+1293,826,65,5,"Excellent product, fast delivery",2026-08-15
+1294,335,47,3,"Average, does the job",2026-08-15
+1295,2981,135,5,"Excellent product, fast delivery",2026-08-15
+1296,2054,222,5,"Excellent product, fast delivery",2026-08-15
+1297,3522,195,1,"Terrible, broke in a week",2026-08-15
+1298,2221,100,3,"Average, does the job",2026-08-15
+1299,817,321,5,"Excellent product, fast delivery",2026-08-15
+1300,3488,310,5,"Excellent product, fast delivery",2026-08-15
+1301,2329,119,3,"Average, does the job",2026-08-15
+1302,315,346,5,"Excellent product, fast delivery",2026-08-15
+1303,282,35,3,"Average, does the job",2026-08-15
+1304,3776,170,4,"Good value, happy with it",2026-08-15
+1305,2315,394,2,Poor quality for the price,2026-08-15
+1306,2842,89,3,"Average, does the job",2026-08-15
+1307,838,112,1,"Terrible, broke in a week",2026-08-15
+1308,2848,196,4,"Good value, happy with it",2026-08-15
+1309,2048,108,5,"Excellent product, fast delivery",2026-08-15
+1310,3063,282,1,"Terrible, broke in a week",2026-08-15
+1311,2716,241,3,"Average, does the job",2026-08-15
+1312,1903,353,5,"Excellent product, fast delivery",2026-08-15
+1313,3774,155,4,"Good value, happy with it",2026-08-15
+1314,3923,316,2,Poor quality for the price,2026-08-15
+1315,460,124,1,"Terrible, broke in a week",2026-08-15
+1316,161,81,2,Poor quality for the price,2026-08-15
+1317,2088,129,5,"Excellent product, fast delivery",2026-08-15
+1318,3233,229,5,"Excellent product, fast delivery",2026-08-15
+1319,1721,17,5,"Excellent product, fast delivery",2026-08-15
+1320,1171,150,5,"Excellent product, fast delivery",2026-08-15
+1321,2011,85,4,"Good value, happy with it",2026-08-15
+1322,2790,250,4,"Good value, happy with it",2026-08-15
+1323,2416,299,5,"Excellent product, fast delivery",2026-08-15
+1324,1926,239,5,"Excellent product, fast delivery",2026-08-15
+1325,301,1,4,"Good value, happy with it",2026-08-15
+1326,82,209,2,Poor quality for the price,2026-08-15
+1327,291,222,5,"Excellent product, fast delivery",2026-08-15
+1328,2108,155,4,"Good value, happy with it",2026-08-15
+1329,68,16,5,"Excellent product, fast delivery",2026-08-15
+1330,3686,139,1,"Terrible, broke in a week",2026-08-15
+1331,2118,232,3,"Average, does the job",2026-08-15
+1332,497,239,4,"Good value, happy with it",2026-08-15
+1333,2743,327,4,"Good value, happy with it",2026-08-15
+1334,2170,80,5,"Excellent product, fast delivery",2026-08-15
+1335,1880,279,1,"Terrible, broke in a week",2026-08-15
+1336,1124,134,2,Poor quality for the price,2026-08-15
+1337,1442,117,4,"Good value, happy with it",2026-08-15
+1338,2537,260,5,"Excellent product, fast delivery",2026-08-15
+1339,722,274,5,"Excellent product, fast delivery",2026-08-15
+1340,2369,282,5,"Excellent product, fast delivery",2026-08-15
+1341,2600,207,5,"Excellent product, fast delivery",2026-08-15
+1342,423,328,5,"Excellent product, fast delivery",2026-08-15
+1343,3554,210,5,"Excellent product, fast delivery",2026-08-15
+1344,2421,65,5,"Excellent product, fast delivery",2026-08-15
+1345,1442,395,4,"Good value, happy with it",2026-08-15
+1346,2363,222,4,"Good value, happy with it",2026-08-15
+1347,1349,351,5,"Excellent product, fast delivery",2026-08-15
+1348,1179,220,3,"Average, does the job",2026-08-15
+1349,3157,72,5,"Excellent product, fast delivery",2026-08-15
+1350,2090,19,5,"Excellent product, fast delivery",2026-08-15
+1351,3832,304,2,Poor quality for the price,2026-08-15
+1352,2380,265,4,"Good value, happy with it",2026-08-15
+1353,3044,126,4,"Good value, happy with it",2026-08-15
+1354,2700,131,4,"Good value, happy with it",2026-08-15
+1355,3044,213,4,"Good value, happy with it",2026-08-15
+1356,3370,15,4,"Good value, happy with it",2026-08-15
+1357,995,314,5,"Excellent product, fast delivery",2026-08-15
+1358,689,23,5,"Excellent product, fast delivery",2026-08-15
+1359,3895,23,5,"Excellent product, fast delivery",2026-08-15
+1360,449,203,3,"Average, does the job",2026-08-15
+1361,2520,136,3,"Average, does the job",2026-08-15
+1362,1121,295,4,"Good value, happy with it",2026-08-15
+1363,704,7,5,"Excellent product, fast delivery",2026-08-15
+1364,148,58,5,"Excellent product, fast delivery",2026-08-15
+1365,1759,309,5,"Excellent product, fast delivery",2026-08-15
+1366,1045,321,4,"Good value, happy with it",2026-08-15
+1367,3592,71,5,"Excellent product, fast delivery",2026-08-15
+1368,3430,246,5,"Excellent product, fast delivery",2026-08-15
+1369,2230,239,5,"Excellent product, fast delivery",2026-08-15
+1370,1173,220,5,"Excellent product, fast delivery",2026-08-15
+1371,2162,132,5,"Excellent product, fast delivery",2026-08-15
+1372,1157,314,2,Poor quality for the price,2026-08-15
+1373,1282,158,4,"Good value, happy with it",2026-08-15
+1374,3451,54,3,"Average, does the job",2026-08-15
+1375,465,216,1,"Terrible, broke in a week",2026-08-15
+1376,285,87,3,"Average, does the job",2026-08-15
+1377,329,54,5,"Excellent product, fast delivery",2026-08-15
+1378,1136,41,5,"Excellent product, fast delivery",2026-08-15
+1379,3414,317,4,"Good value, happy with it",2026-08-15
+1380,3926,45,4,"Good value, happy with it",2026-08-15
+1381,1866,204,1,"Terrible, broke in a week",2026-08-15
+1382,2474,119,5,"Excellent product, fast delivery",2026-08-15
+1383,632,377,4,"Good value, happy with it",2026-08-15
+1384,1149,130,3,"Average, does the job",2026-08-15
+1385,3276,237,1,"Terrible, broke in a week",2026-08-15
+1386,2498,220,5,"Excellent product, fast delivery",2026-08-15
+1387,2428,91,1,"Terrible, broke in a week",2026-08-15
+1388,845,296,4,"Good value, happy with it",2026-08-15
+1389,1716,241,5,"Excellent product, fast delivery",2026-08-15
+1390,2227,85,5,"Excellent product, fast delivery",2026-08-15
+1391,2208,242,4,"Good value, happy with it",2026-08-15
+1392,3908,371,2,Poor quality for the price,2026-08-15
+1393,2820,115,5,"Excellent product, fast delivery",2026-08-15
+1394,1025,347,2,Poor quality for the price,2026-08-15
+1395,796,377,1,"Terrible, broke in a week",2026-08-15
+1396,2099,87,1,"Terrible, broke in a week",2026-08-15
+1397,3487,230,3,"Average, does the job",2026-08-15
+1398,525,274,2,Poor quality for the price,2026-08-15
+1399,321,201,4,"Good value, happy with it",2026-08-15
+1400,1319,101,3,"Average, does the job",2026-08-15
+1401,1165,357,5,"Excellent product, fast delivery",2026-08-15
+1402,2404,178,4,"Good value, happy with it",2026-08-15
+1403,2188,132,4,"Good value, happy with it",2026-08-15
+1404,3471,378,4,"Good value, happy with it",2026-08-15
+1405,2444,129,4,"Good value, happy with it",2026-08-15
+1406,3870,393,5,"Excellent product, fast delivery",2026-08-15
+1407,472,206,2,Poor quality for the price,2026-08-15
+1408,188,332,2,Poor quality for the price,2026-08-15
+1409,3007,329,5,"Excellent product, fast delivery",2026-08-15
+1410,2566,124,4,"Good value, happy with it",2026-08-15
+1411,1440,22,2,Poor quality for the price,2026-08-15
+1412,3202,3,4,"Good value, happy with it",2026-08-15
+1413,3608,66,4,"Good value, happy with it",2026-08-15
+1414,1789,148,5,"Excellent product, fast delivery",2026-08-15
+1415,558,66,5,"Excellent product, fast delivery",2026-08-15
+1416,542,336,4,"Good value, happy with it",2026-08-15
+1417,3144,274,5,"Excellent product, fast delivery",2026-08-15
+1418,1252,231,4,"Good value, happy with it",2026-08-15
+1419,1178,169,2,Poor quality for the price,2026-08-15
+1420,148,167,3,"Average, does the job",2026-08-15
+1421,519,289,5,"Excellent product, fast delivery",2026-08-15
+1422,3494,69,5,"Excellent product, fast delivery",2026-08-15
+1423,2726,87,5,"Excellent product, fast delivery",2026-08-15
+1424,3127,261,5,"Excellent product, fast delivery",2026-08-15
+1425,2823,381,3,"Average, does the job",2026-08-15
+1426,1110,269,4,"Good value, happy with it",2026-08-15
+1427,837,160,3,"Average, does the job",2026-08-15
+1428,2828,18,3,"Average, does the job",2026-08-15
+1429,2924,1,3,"Average, does the job",2026-08-15
+1430,1725,285,4,"Good value, happy with it",2026-08-15
+1431,2210,70,4,"Good value, happy with it",2026-08-15
+1432,436,253,4,"Good value, happy with it",2026-08-15
+1433,3736,139,5,"Excellent product, fast delivery",2026-08-15
+1434,3767,104,4,"Good value, happy with it",2026-08-15
+1435,1776,42,3,"Average, does the job",2026-08-15
+1436,1933,380,3,"Average, does the job",2026-08-15
+1437,67,156,4,"Good value, happy with it",2026-08-15
+1438,3741,237,2,Poor quality for the price,2026-08-15
+1439,48,294,4,"Good value, happy with it",2026-08-15
+1440,287,139,4,"Good value, happy with it",2026-08-15
+1441,3851,270,3,"Average, does the job",2026-08-15
+1442,3187,364,1,"Terrible, broke in a week",2026-08-15
+1443,885,262,5,"Excellent product, fast delivery",2026-08-15
+1444,1623,51,5,"Excellent product, fast delivery",2026-08-15
+1445,2165,109,5,"Excellent product, fast delivery",2026-08-15
+1446,3400,284,4,"Good value, happy with it",2026-08-15
+1447,3244,82,4,"Good value, happy with it",2026-08-15
+1448,904,123,3,"Average, does the job",2026-08-15
+1449,73,116,4,"Good value, happy with it",2026-08-15
+1450,1665,252,3,"Average, does the job",2026-08-15
+1451,3045,104,3,"Average, does the job",2026-08-15
+1452,788,84,5,"Excellent product, fast delivery",2026-08-15
+1453,2618,66,1,"Terrible, broke in a week",2026-08-15
+1454,2580,238,3,"Average, does the job",2026-08-15
+1455,1385,224,5,"Excellent product, fast delivery",2026-08-15
+1456,3050,230,3,"Average, does the job",2026-08-15
+1457,1671,12,1,"Terrible, broke in a week",2026-08-15
+1458,153,392,5,"Excellent product, fast delivery",2026-08-15
+1459,87,181,5,"Excellent product, fast delivery",2026-08-15
+1460,1544,225,3,"Average, does the job",2026-08-15
+1461,1497,360,5,"Excellent product, fast delivery",2026-08-15
+1462,2939,341,3,"Average, does the job",2026-08-15
+1463,374,74,4,"Good value, happy with it",2026-08-15
+1464,131,191,5,"Excellent product, fast delivery",2026-08-15
+1465,2727,320,5,"Excellent product, fast delivery",2026-08-15
+1466,850,284,5,"Excellent product, fast delivery",2026-08-15
+1467,1920,379,5,"Excellent product, fast delivery",2026-08-15
+1468,3096,306,1,"Terrible, broke in a week",2026-08-15
+1469,2718,194,4,"Good value, happy with it",2026-08-15
+1470,2066,126,1,"Terrible, broke in a week",2026-08-15
+1471,589,143,4,"Good value, happy with it",2026-08-15
+1472,2007,86,4,"Good value, happy with it",2026-08-15
+1473,1679,201,4,"Good value, happy with it",2026-08-15
+1474,1420,196,2,Poor quality for the price,2026-08-15
+1475,247,280,3,"Average, does the job",2026-08-15
+1476,2676,83,4,"Good value, happy with it",2026-08-15
+1477,203,52,1,"Terrible, broke in a week",2026-08-15
+1478,2538,259,5,"Excellent product, fast delivery",2026-08-15
+1479,3156,365,4,"Good value, happy with it",2026-08-15
+1480,2333,68,3,"Average, does the job",2026-08-15
+1481,895,339,4,"Good value, happy with it",2026-08-15
+1482,3502,271,3,"Average, does the job",2026-08-15
+1483,2352,325,4,"Good value, happy with it",2026-08-15
+1484,3749,128,4,"Good value, happy with it",2026-08-15
+1485,1176,340,4,"Good value, happy with it",2026-08-15
+1486,378,33,5,"Excellent product, fast delivery",2026-08-15
+1487,903,296,5,"Excellent product, fast delivery",2026-08-15
+1488,1722,171,2,Poor quality for the price,2026-08-15
+1489,3937,239,5,"Excellent product, fast delivery",2026-08-15
+1490,2572,189,5,"Excellent product, fast delivery",2026-08-15
+1491,1634,32,2,Poor quality for the price,2026-08-15
+1492,768,330,1,"Terrible, broke in a week",2026-08-15
+1493,3642,343,4,"Good value, happy with it",2026-08-15
+1494,3125,341,3,"Average, does the job",2026-08-15
+1495,3005,397,3,"Average, does the job",2026-08-15
+1496,1939,265,5,"Excellent product, fast delivery",2026-08-15
+1497,3076,373,3,"Average, does the job",2026-08-15
+1498,89,175,2,Poor quality for the price,2026-08-15
+1499,3910,149,5,"Excellent product, fast delivery",2026-08-15
+1500,194,271,3,"Average, does the job",2026-08-15
+1501,179,258,3,"Average, does the job",2026-08-15
+1502,2227,131,5,"Excellent product, fast delivery",2026-08-15
+1503,2464,308,5,"Excellent product, fast delivery",2026-08-15
+1504,2548,90,5,"Excellent product, fast delivery",2026-08-15
+1505,3887,226,4,"Good value, happy with it",2026-08-15
+1506,3742,378,1,"Terrible, broke in a week",2026-08-15
+1507,3358,230,5,"Excellent product, fast delivery",2026-08-15
+1508,1568,27,2,Poor quality for the price,2026-08-15
+1509,177,306,1,"Terrible, broke in a week",2026-08-15
+1510,3857,328,4,"Good value, happy with it",2026-08-15
+1511,3120,271,4,"Good value, happy with it",2026-08-15
+1512,3235,150,5,"Excellent product, fast delivery",2026-08-15
+1513,338,53,3,"Average, does the job",2026-08-15
+1514,2333,190,3,"Average, does the job",2026-08-15
+1515,3044,271,2,Poor quality for the price,2026-08-15
+1516,733,208,4,"Good value, happy with it",2026-08-15
+1517,282,212,3,"Average, does the job",2026-08-15
+1518,519,268,4,"Good value, happy with it",2026-08-15
+1519,954,252,2,Poor quality for the price,2026-08-15
+1520,2995,49,5,"Excellent product, fast delivery",2026-08-15
+1521,3155,284,5,"Excellent product, fast delivery",2026-08-15
+1522,1571,190,5,"Excellent product, fast delivery",2026-08-15
+1523,694,78,4,"Good value, happy with it",2026-08-15
+1524,3725,147,5,"Excellent product, fast delivery",2026-08-15
+1525,3782,172,4,"Good value, happy with it",2026-08-15
+1526,1454,38,4,"Good value, happy with it",2026-08-15
+1527,1915,174,5,"Excellent product, fast delivery",2026-08-15
+1528,1330,326,3,"Average, does the job",2026-08-15
+1529,1188,47,4,"Good value, happy with it",2026-08-15
+1530,665,26,5,"Excellent product, fast delivery",2026-08-15
+1531,3420,326,4,"Good value, happy with it",2026-08-15
+1532,1978,306,5,"Excellent product, fast delivery",2026-08-15
+1533,2003,248,3,"Average, does the job",2026-08-15
+1534,596,186,3,"Average, does the job",2026-08-15
+1535,1587,35,5,"Excellent product, fast delivery",2026-08-15
+1536,1391,63,4,"Good value, happy with it",2026-08-15
+1537,3929,21,2,Poor quality for the price,2026-08-15
+1538,2032,240,4,"Good value, happy with it",2026-08-15
+1539,89,81,5,"Excellent product, fast delivery",2026-08-15
+1540,3939,270,3,"Average, does the job",2026-08-15
+1541,1371,288,5,"Excellent product, fast delivery",2026-08-15
+1542,1638,68,4,"Good value, happy with it",2026-08-15
+1543,89,343,5,"Excellent product, fast delivery",2026-08-15
+1544,1589,399,1,"Terrible, broke in a week",2026-08-15
+1545,2805,350,4,"Good value, happy with it",2026-08-15
+1546,2743,41,5,"Excellent product, fast delivery",2026-08-15
+1547,705,390,4,"Good value, happy with it",2026-08-15
+1548,3008,341,2,Poor quality for the price,2026-08-15
+1549,3915,334,3,"Average, does the job",2026-08-15
+1550,1677,99,5,"Excellent product, fast delivery",2026-08-15
+1551,2853,286,5,"Excellent product, fast delivery",2026-08-15
+1552,897,179,4,"Good value, happy with it",2026-08-15
+1553,793,12,3,"Average, does the job",2026-08-15
+1554,3659,302,3,"Average, does the job",2026-08-15
+1555,3488,330,1,"Terrible, broke in a week",2026-08-15
+1556,978,99,4,"Good value, happy with it",2026-08-15
+1557,2280,178,4,"Good value, happy with it",2026-08-15
+1558,165,343,2,Poor quality for the price,2026-08-15
+1559,1669,143,4,"Good value, happy with it",2026-08-15
+1560,554,21,4,"Good value, happy with it",2026-08-15
+1561,3500,181,5,"Excellent product, fast delivery",2026-08-15
+1562,719,400,5,"Excellent product, fast delivery",2026-08-15
+1563,1668,194,3,"Average, does the job",2026-08-15
+1564,2203,20,5,"Excellent product, fast delivery",2026-08-15
+1565,2369,93,4,"Good value, happy with it",2026-08-15
+1566,374,92,3,"Average, does the job",2026-08-15
+1567,1139,64,3,"Average, does the job",2026-08-15
+1568,1075,136,4,"Good value, happy with it",2026-08-15
+1569,3315,6,5,"Excellent product, fast delivery",2026-08-15
+1570,1008,174,2,Poor quality for the price,2026-08-15
+1571,1489,318,3,"Average, does the job",2026-08-15
+1572,3358,277,5,"Excellent product, fast delivery",2026-08-15
+1573,2361,316,5,"Excellent product, fast delivery",2026-08-15
+1574,429,133,4,"Good value, happy with it",2026-08-15
+1575,859,331,1,"Terrible, broke in a week",2026-08-15
+1576,1158,146,5,"Excellent product, fast delivery",2026-08-15
+1577,3723,100,4,"Good value, happy with it",2026-08-15
+1578,2364,74,5,"Excellent product, fast delivery",2026-08-15
+1579,300,327,5,"Excellent product, fast delivery",2026-08-15
+1580,144,280,4,"Good value, happy with it",2026-08-15
+1581,1860,206,1,"Terrible, broke in a week",2026-08-15
+1582,3961,94,5,"Excellent product, fast delivery",2026-08-15
+1583,287,38,3,"Average, does the job",2026-08-15
+1584,3849,31,1,"Terrible, broke in a week",2026-08-15
+1585,299,208,5,"Excellent product, fast delivery",2026-08-15
+1586,1335,324,5,"Excellent product, fast delivery",2026-08-15
+1587,2344,292,2,Poor quality for the price,2026-08-15
+1588,2735,38,3,"Average, does the job",2026-08-15
+1589,2945,41,1,"Terrible, broke in a week",2026-08-15
+1590,1652,34,5,"Excellent product, fast delivery",2026-08-15
+1591,231,292,5,"Excellent product, fast delivery",2026-08-15
+1592,594,338,4,"Good value, happy with it",2026-08-15
+1593,3865,20,5,"Excellent product, fast delivery",2026-08-15
+1594,2205,290,5,"Excellent product, fast delivery",2026-08-15
+1595,99,170,5,"Excellent product, fast delivery",2026-08-15
+1596,498,207,3,"Average, does the job",2026-08-15
+1597,2083,138,4,"Good value, happy with it",2026-08-15
+1598,3753,377,5,"Excellent product, fast delivery",2026-08-15
+1599,125,71,4,"Good value, happy with it",2026-08-15
+1600,2745,162,4,"Good value, happy with it",2026-08-15
+1601,2218,57,4,"Good value, happy with it",2026-08-15
+1602,1914,304,1,"Terrible, broke in a week",2026-08-15
+1603,2208,91,5,"Excellent product, fast delivery",2026-08-15
+1604,3473,387,4,"Good value, happy with it",2026-08-15
+1605,835,330,4,"Good value, happy with it",2026-08-15
+1606,780,48,5,"Excellent product, fast delivery",2026-08-15
+1607,2343,322,4,"Good value, happy with it",2026-08-15
+1608,1106,40,4,"Good value, happy with it",2026-08-15
+1609,162,264,4,"Good value, happy with it",2026-08-15
+1610,1654,276,5,"Excellent product, fast delivery",2026-08-15
+1611,3569,308,3,"Average, does the job",2026-08-15
+1612,606,85,5,"Excellent product, fast delivery",2026-08-15
+1613,3883,124,1,"Terrible, broke in a week",2026-08-15
+1614,726,205,5,"Excellent product, fast delivery",2026-08-15
+1615,3345,301,4,"Good value, happy with it",2026-08-15
+1616,1213,60,5,"Excellent product, fast delivery",2026-08-15
+1617,2069,93,5,"Excellent product, fast delivery",2026-08-15
+1618,3133,147,5,"Excellent product, fast delivery",2026-08-15
+1619,2459,286,4,"Good value, happy with it",2026-08-15
+1620,1751,155,3,"Average, does the job",2026-08-15
+1621,2173,129,4,"Good value, happy with it",2026-08-15
+1622,3552,34,5,"Excellent product, fast delivery",2026-08-15
+1623,3234,211,5,"Excellent product, fast delivery",2026-08-15
+1624,3483,222,4,"Good value, happy with it",2026-08-15
+1625,2382,38,5,"Excellent product, fast delivery",2026-08-15
+1626,233,108,5,"Excellent product, fast delivery",2026-08-15
+1627,3543,387,5,"Excellent product, fast delivery",2026-08-15
+1628,1938,179,5,"Excellent product, fast delivery",2026-08-15
+1629,2543,158,2,Poor quality for the price,2026-08-15
+1630,2960,258,5,"Excellent product, fast delivery",2026-08-15
+1631,2888,21,5,"Excellent product, fast delivery",2026-08-15
+1632,987,169,5,"Excellent product, fast delivery",2026-08-15
+1633,1137,91,4,"Good value, happy with it",2026-08-15
+1634,529,313,5,"Excellent product, fast delivery",2026-08-15
+1635,941,398,5,"Excellent product, fast delivery",2026-08-15
+1636,40,275,4,"Good value, happy with it",2026-08-15
+1637,101,300,3,"Average, does the job",2026-08-15
+1638,3336,206,4,"Good value, happy with it",2026-08-15
+1639,3379,44,5,"Excellent product, fast delivery",2026-08-15
+1640,2703,176,3,"Average, does the job",2026-08-15
+1641,556,361,5,"Excellent product, fast delivery",2026-08-15
+1642,2122,218,5,"Excellent product, fast delivery",2026-08-15
+1643,3786,275,4,"Good value, happy with it",2026-08-15
+1644,923,152,4,"Good value, happy with it",2026-08-15
+1645,3895,51,2,Poor quality for the price,2026-08-15
+1646,1473,319,1,"Terrible, broke in a week",2026-08-15
+1647,2699,102,2,Poor quality for the price,2026-08-15
+1648,1892,165,5,"Excellent product, fast delivery",2026-08-15
+1649,2385,297,4,"Good value, happy with it",2026-08-15
+1650,1687,218,5,"Excellent product, fast delivery",2026-08-15
+1651,464,194,4,"Good value, happy with it",2026-08-15
+1652,730,123,5,"Excellent product, fast delivery",2026-08-15
+1653,3020,101,5,"Excellent product, fast delivery",2026-08-15
+1654,3307,297,4,"Good value, happy with it",2026-08-15
+1655,910,277,5,"Excellent product, fast delivery",2026-08-15
+1656,1715,221,5,"Excellent product, fast delivery",2026-08-15
+1657,654,341,4,"Good value, happy with it",2026-08-15
+1658,3452,282,2,Poor quality for the price,2026-08-15
+1659,3573,235,1,"Terrible, broke in a week",2026-08-15
+1660,2645,327,5,"Excellent product, fast delivery",2026-08-15
+1661,1944,333,2,Poor quality for the price,2026-08-15
+1662,177,158,4,"Good value, happy with it",2026-08-15
+1663,3791,183,5,"Excellent product, fast delivery",2026-08-15
+1664,2792,318,1,"Terrible, broke in a week",2026-08-15
+1665,2613,349,4,"Good value, happy with it",2026-08-15
+1666,318,163,5,"Excellent product, fast delivery",2026-08-15
+1667,307,214,2,Poor quality for the price,2026-08-15
+1668,2091,357,4,"Good value, happy with it",2026-08-15
+1669,2674,100,5,"Excellent product, fast delivery",2026-08-15
+1670,2159,229,5,"Excellent product, fast delivery",2026-08-15
+1671,620,251,2,Poor quality for the price,2026-08-15
+1672,131,43,3,"Average, does the job",2026-08-15
+1673,1890,121,5,"Excellent product, fast delivery",2026-08-15
+1674,355,200,3,"Average, does the job",2026-08-15
+1675,3508,166,4,"Good value, happy with it",2026-08-15
+1676,3467,266,4,"Good value, happy with it",2026-08-15
+1677,596,56,5,"Excellent product, fast delivery",2026-08-15
+1678,2054,242,3,"Average, does the job",2026-08-15
+1679,3113,303,3,"Average, does the job",2026-08-15
+1680,662,385,5,"Excellent product, fast delivery",2026-08-15
+1681,889,264,5,"Excellent product, fast delivery",2026-08-15
+1682,3364,63,4,"Good value, happy with it",2026-08-15
+1683,253,286,4,"Good value, happy with it",2026-08-15
+1684,651,333,5,"Excellent product, fast delivery",2026-08-15
+1685,2995,344,5,"Excellent product, fast delivery",2026-08-15
+1686,592,262,4,"Good value, happy with it",2026-08-15
+1687,2526,350,5,"Excellent product, fast delivery",2026-08-15
+1688,534,221,5,"Excellent product, fast delivery",2026-08-15
+1689,1117,114,3,"Average, does the job",2026-08-15
+1690,2866,98,3,"Average, does the job",2026-08-15
+1691,3518,222,5,"Excellent product, fast delivery",2026-08-15
+1692,2459,6,3,"Average, does the job",2026-08-15
+1693,1033,380,3,"Average, does the job",2026-08-15
+1694,824,216,5,"Excellent product, fast delivery",2026-08-15
+1695,538,15,3,"Average, does the job",2026-08-15
+1696,1047,192,5,"Excellent product, fast delivery",2026-08-15
+1697,2665,149,5,"Excellent product, fast delivery",2026-08-15
+1698,708,80,2,Poor quality for the price,2026-08-15
+1699,1821,114,5,"Excellent product, fast delivery",2026-08-15
+1700,3089,181,2,Poor quality for the price,2026-08-15
+1701,1754,267,4,"Good value, happy with it",2026-08-15
+1702,1480,12,5,"Excellent product, fast delivery",2026-08-15
+1703,713,329,3,"Average, does the job",2026-08-15
+1704,1856,134,5,"Excellent product, fast delivery",2026-08-15
+1705,2946,232,4,"Good value, happy with it",2026-08-15
+1706,2741,214,4,"Good value, happy with it",2026-08-15
+1707,2493,283,5,"Excellent product, fast delivery",2026-08-15
+1708,3722,311,5,"Excellent product, fast delivery",2026-08-15
+1709,1321,331,4,"Good value, happy with it",2026-08-15
+1710,1571,46,5,"Excellent product, fast delivery",2026-08-15
+1711,2968,175,3,"Average, does the job",2026-08-15
+1712,2175,141,4,"Good value, happy with it",2026-08-15
+1713,298,147,5,"Excellent product, fast delivery",2026-08-15
+1714,3106,262,5,"Excellent product, fast delivery",2026-08-15
+1715,1730,9,5,"Excellent product, fast delivery",2026-08-15
+1716,125,370,4,"Good value, happy with it",2026-08-15
+1717,988,308,5,"Excellent product, fast delivery",2026-08-15
+1718,1530,360,3,"Average, does the job",2026-08-15
+1719,2171,51,4,"Good value, happy with it",2026-08-15
+1720,3164,346,5,"Excellent product, fast delivery",2026-08-15
+1721,3860,283,1,"Terrible, broke in a week",2026-08-15
+1722,1950,221,5,"Excellent product, fast delivery",2026-08-15
+1723,3598,8,4,"Good value, happy with it",2026-08-15
+1724,2776,110,4,"Good value, happy with it",2026-08-15
+1725,2592,132,3,"Average, does the job",2026-08-15
+1726,2914,369,1,"Terrible, broke in a week",2026-08-15
+1727,1683,104,4,"Good value, happy with it",2026-08-15
+1728,2246,98,5,"Excellent product, fast delivery",2026-08-15
+1729,347,89,5,"Excellent product, fast delivery",2026-08-15
+1730,1844,199,4,"Good value, happy with it",2026-08-15
+1731,3679,62,3,"Average, does the job",2026-08-15
+1732,893,363,3,"Average, does the job",2026-08-15
+1733,229,368,4,"Good value, happy with it",2026-08-15
+1734,161,235,5,"Excellent product, fast delivery",2026-08-15
+1735,3781,253,4,"Good value, happy with it",2026-08-15
+1736,880,169,3,"Average, does the job",2026-08-15
+1737,2372,271,5,"Excellent product, fast delivery",2026-08-15
+1738,2506,334,2,Poor quality for the price,2026-08-15
+1739,2648,25,3,"Average, does the job",2026-08-15
+1740,2538,78,4,"Good value, happy with it",2026-08-15
+1741,3971,394,2,Poor quality for the price,2026-08-15
+1742,3116,287,5,"Excellent product, fast delivery",2026-08-15
+1743,1713,224,3,"Average, does the job",2026-08-15
+1744,1440,145,3,"Average, does the job",2026-08-15
+1745,335,173,3,"Average, does the job",2026-08-15
+1746,2943,244,4,"Good value, happy with it",2026-08-15
+1747,3262,6,1,"Terrible, broke in a week",2026-08-15
+1748,1266,40,4,"Good value, happy with it",2026-08-15
+1749,1020,387,5,"Excellent product, fast delivery",2026-08-15
+1750,1449,270,3,"Average, does the job",2026-08-15
+1751,83,206,5,"Excellent product, fast delivery",2026-08-15
+1752,1370,285,3,"Average, does the job",2026-08-15
+1753,3727,333,4,"Good value, happy with it",2026-08-15
+1754,3624,227,5,"Excellent product, fast delivery",2026-08-15
+1755,1733,258,4,"Good value, happy with it",2026-08-15
+1756,162,267,2,Poor quality for the price,2026-08-15
+1757,2502,183,4,"Good value, happy with it",2026-08-15
+1758,2097,294,5,"Excellent product, fast delivery",2026-08-15
+1759,927,140,2,Poor quality for the price,2026-08-15
+1760,1448,48,4,"Good value, happy with it",2026-08-15
+1761,2971,24,5,"Excellent product, fast delivery",2026-08-15
+1762,1655,263,1,"Terrible, broke in a week",2026-08-15
+1763,1282,94,5,"Excellent product, fast delivery",2026-08-15
+1764,3640,236,5,"Excellent product, fast delivery",2026-08-15
+1765,1532,55,4,"Good value, happy with it",2026-08-15
+1766,3742,56,5,"Excellent product, fast delivery",2026-08-15
+1767,60,377,2,Poor quality for the price,2026-08-15
+1768,2899,267,4,"Good value, happy with it",2026-08-15
+1769,1194,276,5,"Excellent product, fast delivery",2026-08-15
+1770,3889,213,3,"Average, does the job",2026-08-15
+1771,1118,5,5,"Excellent product, fast delivery",2026-08-15
+1772,2881,362,5,"Excellent product, fast delivery",2026-08-15
+1773,1092,104,4,"Good value, happy with it",2026-08-15
+1774,2992,195,4,"Good value, happy with it",2026-08-15
+1775,189,27,4,"Good value, happy with it",2026-08-15
+1776,44,315,5,"Excellent product, fast delivery",2026-08-15
+1777,3163,308,4,"Good value, happy with it",2026-08-15
+1778,707,280,4,"Good value, happy with it",2026-08-15
+1779,3014,382,4,"Good value, happy with it",2026-08-15
+1780,404,49,1,"Terrible, broke in a week",2026-08-15
+1781,224,191,5,"Excellent product, fast delivery",2026-08-15
+1782,469,394,5,"Excellent product, fast delivery",2026-08-15
+1783,2338,55,5,"Excellent product, fast delivery",2026-08-15
+1784,1763,300,3,"Average, does the job",2026-08-15
+1785,3068,392,2,Poor quality for the price,2026-08-15
+1786,1417,53,5,"Excellent product, fast delivery",2026-08-15
+1787,1913,172,1,"Terrible, broke in a week",2026-08-15
+1788,3202,292,2,Poor quality for the price,2026-08-15
+1789,158,339,5,"Excellent product, fast delivery",2026-08-15
+1790,1022,158,1,"Terrible, broke in a week",2026-08-15
+1791,3279,66,4,"Good value, happy with it",2026-08-15
+1792,457,152,5,"Excellent product, fast delivery",2026-08-15
+1793,3726,333,5,"Excellent product, fast delivery",2026-08-15
+1794,787,338,5,"Excellent product, fast delivery",2026-08-15
+1795,173,205,5,"Excellent product, fast delivery",2026-08-15
+1796,1277,28,4,"Good value, happy with it",2026-08-15
+1797,2437,168,5,"Excellent product, fast delivery",2026-08-15
+1798,1401,344,3,"Average, does the job",2026-08-15
+1799,940,47,4,"Good value, happy with it",2026-08-15
+1800,3864,114,5,"Excellent product, fast delivery",2026-08-15
+1801,1547,173,4,"Good value, happy with it",2026-08-15
+1802,343,333,1,"Terrible, broke in a week",2026-08-15
+1803,932,369,5,"Excellent product, fast delivery",2026-08-15
+1804,3334,122,4,"Good value, happy with it",2026-08-15
+1805,2447,345,1,"Terrible, broke in a week",2026-08-15
+1806,190,115,2,Poor quality for the price,2026-08-15
+1807,3205,286,1,"Terrible, broke in a week",2026-08-15
+1808,1244,107,3,"Average, does the job",2026-08-15
+1809,3891,101,5,"Excellent product, fast delivery",2026-08-15
+1810,3187,32,4,"Good value, happy with it",2026-08-15
+1811,3072,43,5,"Excellent product, fast delivery",2026-08-15
+1812,2502,249,5,"Excellent product, fast delivery",2026-08-15
+1813,3429,247,4,"Good value, happy with it",2026-08-15
+1814,2475,251,3,"Average, does the job",2026-08-15
+1815,1127,195,4,"Good value, happy with it",2026-08-15
+1816,3133,307,5,"Excellent product, fast delivery",2026-08-15
+1817,840,376,4,"Good value, happy with it",2026-08-15
+1818,3087,279,3,"Average, does the job",2026-08-15
+1819,1341,267,5,"Excellent product, fast delivery",2026-08-15
+1820,3846,363,3,"Average, does the job",2026-08-15
+1821,888,287,4,"Good value, happy with it",2026-08-15
+1822,3164,220,3,"Average, does the job",2026-08-15
+1823,1970,105,4,"Good value, happy with it",2026-08-15
+1824,802,242,5,"Excellent product, fast delivery",2026-08-15
+1825,1143,349,5,"Excellent product, fast delivery",2026-08-15
+1826,1107,144,3,"Average, does the job",2026-08-15
+1827,618,365,5,"Excellent product, fast delivery",2026-08-15
+1828,2369,145,1,"Terrible, broke in a week",2026-08-15
+1829,2473,132,1,"Terrible, broke in a week",2026-08-15
+1830,2696,218,5,"Excellent product, fast delivery",2026-08-15
+1831,158,324,5,"Excellent product, fast delivery",2026-08-15
+1832,316,49,1,"Terrible, broke in a week",2026-08-15
+1833,533,172,1,"Terrible, broke in a week",2026-08-15
+1834,3459,399,4,"Good value, happy with it",2026-08-15
+1835,1994,106,3,"Average, does the job",2026-08-15
+1836,3033,211,5,"Excellent product, fast delivery",2026-08-15
+1837,2658,266,4,"Good value, happy with it",2026-08-15
+1838,3796,1,5,"Excellent product, fast delivery",2026-08-15
+1839,1160,230,5,"Excellent product, fast delivery",2026-08-15
+1840,3053,201,5,"Excellent product, fast delivery",2026-08-15
+1841,1545,348,5,"Excellent product, fast delivery",2026-08-15
+1842,2306,136,5,"Excellent product, fast delivery",2026-08-15
+1843,27,297,5,"Excellent product, fast delivery",2026-08-15
+1844,365,219,4,"Good value, happy with it",2026-08-15
+1845,3963,102,4,"Good value, happy with it",2026-08-15
+1846,897,360,5,"Excellent product, fast delivery",2026-08-15
+1847,1910,337,5,"Excellent product, fast delivery",2026-08-15
+1848,1631,46,5,"Excellent product, fast delivery",2026-08-15
+1849,3113,4,4,"Good value, happy with it",2026-08-15
+1850,2567,129,3,"Average, does the job",2026-08-15
+1851,231,397,5,"Excellent product, fast delivery",2026-08-15
+1852,1761,43,3,"Average, does the job",2026-08-15
+1853,3075,69,1,"Terrible, broke in a week",2026-08-15
+1854,395,240,4,"Good value, happy with it",2026-08-15
+1855,3455,30,4,"Good value, happy with it",2026-08-15
+1856,1707,6,5,"Excellent product, fast delivery",2026-08-15
+1857,1145,8,5,"Excellent product, fast delivery",2026-08-15
+1858,2569,122,4,"Good value, happy with it",2026-08-15
+1859,1868,235,4,"Good value, happy with it",2026-08-15
+1860,2517,71,4,"Good value, happy with it",2026-08-15
+1861,902,77,3,"Average, does the job",2026-08-15
+1862,1824,312,4,"Good value, happy with it",2026-08-15
+1863,1878,376,3,"Average, does the job",2026-08-15
+1864,822,208,5,"Excellent product, fast delivery",2026-08-15
+1865,3464,51,1,"Terrible, broke in a week",2026-08-15
+1866,125,20,2,Poor quality for the price,2026-08-15
+1867,1339,202,1,"Terrible, broke in a week",2026-08-15
+1868,3329,203,1,"Terrible, broke in a week",2026-08-15
+1869,2475,43,5,"Excellent product, fast delivery",2026-08-15
+1870,1606,352,3,"Average, does the job",2026-08-15
+1871,1746,35,3,"Average, does the job",2026-08-15
+1872,2117,268,3,"Average, does the job",2026-08-15
+1873,2449,345,3,"Average, does the job",2026-08-15
+1874,3854,346,3,"Average, does the job",2026-08-15
+1875,837,13,5,"Excellent product, fast delivery",2026-08-15
+1876,972,390,3,"Average, does the job",2026-08-15
+1877,1252,17,1,"Terrible, broke in a week",2026-08-15
+1878,1709,311,5,"Excellent product, fast delivery",2026-08-15
+1879,2111,91,4,"Good value, happy with it",2026-08-15
+1880,2477,243,4,"Good value, happy with it",2026-08-15
+1881,3457,398,3,"Average, does the job",2026-08-15
+1882,1216,210,5,"Excellent product, fast delivery",2026-08-15
+1883,2602,258,3,"Average, does the job",2026-08-15
+1884,3769,371,5,"Excellent product, fast delivery",2026-08-15
+1885,1386,373,4,"Good value, happy with it",2026-08-15
+1886,448,170,5,"Excellent product, fast delivery",2026-08-15
+1887,2306,317,2,Poor quality for the price,2026-08-15
+1888,3150,133,3,"Average, does the job",2026-08-15
+1889,1308,200,4,"Good value, happy with it",2026-08-15
+1890,3740,314,2,Poor quality for the price,2026-08-15
+1891,2326,323,1,"Terrible, broke in a week",2026-08-15
+1892,3645,72,2,Poor quality for the price,2026-08-15
+1893,1513,220,3,"Average, does the job",2026-08-15
+1894,657,68,4,"Good value, happy with it",2026-08-15
+1895,1053,61,1,"Terrible, broke in a week",2026-08-15
+1896,3021,56,4,"Good value, happy with it",2026-08-15
+1897,1989,67,5,"Excellent product, fast delivery",2026-08-15
+1898,882,307,3,"Average, does the job",2026-08-15
+1899,2019,187,2,Poor quality for the price,2026-08-15
+1900,432,347,4,"Good value, happy with it",2026-08-15
+1901,1305,146,5,"Excellent product, fast delivery",2026-08-15
+1902,49,330,5,"Excellent product, fast delivery",2026-08-15
+1903,1659,288,4,"Good value, happy with it",2026-08-15
+1904,3569,167,3,"Average, does the job",2026-08-15
+1905,2263,108,5,"Excellent product, fast delivery",2026-08-15
+1906,2003,268,1,"Terrible, broke in a week",2026-08-15
+1907,1594,38,4,"Good value, happy with it",2026-08-15
+1908,3214,52,4,"Good value, happy with it",2026-08-15
+1909,2404,382,5,"Excellent product, fast delivery",2026-08-15
+1910,3981,227,2,Poor quality for the price,2026-08-15
+1911,244,22,4,"Good value, happy with it",2026-08-15
+1912,3477,392,1,"Terrible, broke in a week",2026-08-15
+1913,3022,360,5,"Excellent product, fast delivery",2026-08-15
+1914,221,376,5,"Excellent product, fast delivery",2026-08-15
+1915,3610,86,1,"Terrible, broke in a week",2026-08-15
+1916,3527,324,4,"Good value, happy with it",2026-08-15
+1917,2684,93,4,"Good value, happy with it",2026-08-15
+1918,1282,372,5,"Excellent product, fast delivery",2026-08-15
+1919,1240,238,5,"Excellent product, fast delivery",2026-08-15
+1920,2916,71,4,"Good value, happy with it",2026-08-15
+1921,3457,376,3,"Average, does the job",2026-08-15
+1922,3172,355,4,"Good value, happy with it",2026-08-15
+1923,897,282,5,"Excellent product, fast delivery",2026-08-15
+1924,3542,228,5,"Excellent product, fast delivery",2026-08-15
+1925,1878,49,4,"Good value, happy with it",2026-08-15
+1926,3828,236,4,"Good value, happy with it",2026-08-15
+1927,2000,86,4,"Good value, happy with it",2026-08-15
+1928,3245,223,5,"Excellent product, fast delivery",2026-08-15
+1929,662,205,3,"Average, does the job",2026-08-15
+1930,544,38,4,"Good value, happy with it",2026-08-15
+1931,1446,386,4,"Good value, happy with it",2026-08-15
+1932,1036,146,3,"Average, does the job",2026-08-15
+1933,525,272,4,"Good value, happy with it",2026-08-15
+1934,2652,299,2,Poor quality for the price,2026-08-15
+1935,2653,283,3,"Average, does the job",2026-08-15
+1936,277,99,5,"Excellent product, fast delivery",2026-08-15
+1937,1622,311,3,"Average, does the job",2026-08-15
+1938,753,352,5,"Excellent product, fast delivery",2026-08-15
+1939,182,86,4,"Good value, happy with it",2026-08-15
+1940,2040,197,4,"Good value, happy with it",2026-08-15
+1941,3888,216,4,"Good value, happy with it",2026-08-15
+1942,1647,322,1,"Terrible, broke in a week",2026-08-15
+1943,524,50,5,"Excellent product, fast delivery",2026-08-15
+1944,861,265,4,"Good value, happy with it",2026-08-15
+1945,3428,78,3,"Average, does the job",2026-08-15
+1946,2646,111,3,"Average, does the job",2026-08-15
+1947,65,101,4,"Good value, happy with it",2026-08-15
+1948,2775,81,5,"Excellent product, fast delivery",2026-08-15
+1949,3933,274,1,"Terrible, broke in a week",2026-08-15
+1950,1874,10,5,"Excellent product, fast delivery",2026-08-15
+1951,1730,8,5,"Excellent product, fast delivery",2026-08-15
+1952,3718,118,2,Poor quality for the price,2026-08-15
+1953,3704,122,5,"Excellent product, fast delivery",2026-08-15
+1954,1605,199,3,"Average, does the job",2026-08-15
+1955,873,73,5,"Excellent product, fast delivery",2026-08-15
+1956,455,346,5,"Excellent product, fast delivery",2026-08-15
+1957,1811,25,3,"Average, does the job",2026-08-15
+1958,1485,180,4,"Good value, happy with it",2026-08-15
+1959,1511,239,3,"Average, does the job",2026-08-15
+1960,2119,319,3,"Average, does the job",2026-08-15
+1961,3572,200,3,"Average, does the job",2026-08-15
+1962,3065,176,3,"Average, does the job",2026-08-15
+1963,2808,63,3,"Average, does the job",2026-08-15
+1964,613,209,5,"Excellent product, fast delivery",2026-08-15
+1965,2747,57,5,"Excellent product, fast delivery",2026-08-15
+1966,1862,274,3,"Average, does the job",2026-08-15
+1967,941,93,4,"Good value, happy with it",2026-08-15
+1968,1282,52,5,"Excellent product, fast delivery",2026-08-15
+1969,2855,247,1,"Terrible, broke in a week",2026-08-15
+1970,1312,239,4,"Good value, happy with it",2026-08-15
+1971,246,349,4,"Good value, happy with it",2026-08-15
+1972,1542,85,5,"Excellent product, fast delivery",2026-08-15
+1973,3847,382,2,Poor quality for the price,2026-08-15
+1974,2533,234,1,"Terrible, broke in a week",2026-08-15
+1975,3704,68,4,"Good value, happy with it",2026-08-15
+1976,406,389,5,"Excellent product, fast delivery",2026-08-15
+1977,3262,125,4,"Good value, happy with it",2026-08-15
+1978,2157,50,5,"Excellent product, fast delivery",2026-08-15
+1979,1444,166,5,"Excellent product, fast delivery",2026-08-15
+1980,197,303,4,"Good value, happy with it",2026-08-15
+1981,3637,22,2,Poor quality for the price,2026-08-15
+1982,2883,281,5,"Excellent product, fast delivery",2026-08-15
+1983,1973,354,4,"Good value, happy with it",2026-08-15
+1984,800,267,5,"Excellent product, fast delivery",2026-08-15
+1985,3777,164,4,"Good value, happy with it",2026-08-15
+1986,3563,40,5,"Excellent product, fast delivery",2026-08-15
+1987,942,320,4,"Good value, happy with it",2026-08-15
+1988,1347,64,5,"Excellent product, fast delivery",2026-08-15
+1989,2333,64,5,"Excellent product, fast delivery",2026-08-15
+1990,2475,247,5,"Excellent product, fast delivery",2026-08-15
+1991,3540,40,4,"Good value, happy with it",2026-08-15
+1992,347,100,4,"Good value, happy with it",2026-08-15
+1993,508,299,5,"Excellent product, fast delivery",2026-08-15
+1994,655,57,4,"Good value, happy with it",2026-08-15
+1995,3865,316,3,"Average, does the job",2026-08-15
+1996,2261,377,4,"Good value, happy with it",2026-08-15
+1997,425,341,4,"Good value, happy with it",2026-08-15
+1998,693,156,5,"Excellent product, fast delivery",2026-08-15
+1999,1327,156,5,"Excellent product, fast delivery",2026-08-15
+2000,3411,70,5,"Excellent product, fast delivery",2026-08-15
+2001,1271,94,4,"Good value, happy with it",2026-08-15
+2002,144,312,3,"Average, does the job",2026-08-15
+2003,1752,74,5,"Excellent product, fast delivery",2026-08-15
+2004,206,168,4,"Good value, happy with it",2026-08-15
+2005,2561,212,3,"Average, does the job",2026-08-15
+2006,2370,331,4,"Good value, happy with it",2026-08-15
+2007,2505,389,2,Poor quality for the price,2026-08-15
+2008,2200,88,3,"Average, does the job",2026-08-15
+2009,755,41,2,Poor quality for the price,2026-08-15
+2010,445,188,4,"Good value, happy with it",2026-08-15
+2011,210,163,4,"Good value, happy with it",2026-08-15
+2012,1237,73,5,"Excellent product, fast delivery",2026-08-15
+2013,1,79,4,"Good value, happy with it",2026-08-15
+2014,1101,208,5,"Excellent product, fast delivery",2026-08-15
+2015,1889,265,1,"Terrible, broke in a week",2026-08-15
+2016,3095,373,5,"Excellent product, fast delivery",2026-08-15
+2017,1112,183,1,"Terrible, broke in a week",2026-08-15
+2018,2085,248,5,"Excellent product, fast delivery",2026-08-15
+2019,3412,363,5,"Excellent product, fast delivery",2026-08-15
+2020,2151,131,1,"Terrible, broke in a week",2026-08-15
+2021,3046,173,4,"Good value, happy with it",2026-08-15
+2022,1184,173,5,"Excellent product, fast delivery",2026-08-15
+2023,650,342,3,"Average, does the job",2026-08-15
+2024,1727,91,5,"Excellent product, fast delivery",2026-08-15
+2025,539,295,4,"Good value, happy with it",2026-08-15
+2026,3723,385,4,"Good value, happy with it",2026-08-15
+2027,3402,137,3,"Average, does the job",2026-08-15
+2028,3753,82,5,"Excellent product, fast delivery",2026-08-15
+2029,1165,134,4,"Good value, happy with it",2026-08-15
+2030,2929,204,2,Poor quality for the price,2026-08-15
+2031,3549,332,3,"Average, does the job",2026-08-15
+2032,713,240,1,"Terrible, broke in a week",2026-08-15
+2033,3358,213,4,"Good value, happy with it",2026-08-15
+2034,1001,93,4,"Good value, happy with it",2026-08-15
+2035,1524,60,4,"Good value, happy with it",2026-08-15
+2036,2234,40,4,"Good value, happy with it",2026-08-15
+2037,2765,362,5,"Excellent product, fast delivery",2026-08-15
+2038,2986,292,4,"Good value, happy with it",2026-08-15
+2039,1036,348,4,"Good value, happy with it",2026-08-15
+2040,2187,340,1,"Terrible, broke in a week",2026-08-15
+2041,43,12,4,"Good value, happy with it",2026-08-15
+2042,238,160,5,"Excellent product, fast delivery",2026-08-15
+2043,1777,176,5,"Excellent product, fast delivery",2026-08-15
+2044,85,312,2,Poor quality for the price,2026-08-15
+2045,1025,64,2,Poor quality for the price,2026-08-15
+2046,3700,321,5,"Excellent product, fast delivery",2026-08-15
+2047,550,268,3,"Average, does the job",2026-08-15
+2048,2649,238,5,"Excellent product, fast delivery",2026-08-15
+2049,1242,67,2,Poor quality for the price,2026-08-15
+2050,38,249,3,"Average, does the job",2026-08-15
+2051,2282,101,3,"Average, does the job",2026-08-15
+2052,3135,363,5,"Excellent product, fast delivery",2026-08-15
+2053,1173,377,4,"Good value, happy with it",2026-08-15
+2054,3258,202,5,"Excellent product, fast delivery",2026-08-15
+2055,754,188,4,"Good value, happy with it",2026-08-15
+2056,3579,36,3,"Average, does the job",2026-08-15
+2057,3413,256,3,"Average, does the job",2026-08-15
+2058,3693,392,4,"Good value, happy with it",2026-08-15
+2059,69,8,4,"Good value, happy with it",2026-08-15
+2060,801,377,3,"Average, does the job",2026-08-15
+2061,8,260,1,"Terrible, broke in a week",2026-08-15
+2062,318,259,3,"Average, does the job",2026-08-15
+2063,2162,342,5,"Excellent product, fast delivery",2026-08-15
+2064,540,219,2,Poor quality for the price,2026-08-15
+2065,3740,399,4,"Good value, happy with it",2026-08-15
+2066,939,304,3,"Average, does the job",2026-08-15
+2067,194,284,3,"Average, does the job",2026-08-15
+2068,3152,323,1,"Terrible, broke in a week",2026-08-15
+2069,3495,118,4,"Good value, happy with it",2026-08-15
+2070,52,119,2,Poor quality for the price,2026-08-15
+2071,30,293,3,"Average, does the job",2026-08-15
+2072,512,239,5,"Excellent product, fast delivery",2026-08-15
+2073,2898,389,3,"Average, does the job",2026-08-15
+2074,3923,264,5,"Excellent product, fast delivery",2026-08-15
+2075,3484,270,5,"Excellent product, fast delivery",2026-08-15
+2076,1154,19,3,"Average, does the job",2026-08-15
+2077,2774,305,4,"Good value, happy with it",2026-08-15
+2078,1452,264,4,"Good value, happy with it",2026-08-15
+2079,1767,183,5,"Excellent product, fast delivery",2026-08-15
+2080,2649,88,4,"Good value, happy with it",2026-08-15
+2081,2353,139,5,"Excellent product, fast delivery",2026-08-15
+2082,345,346,5,"Excellent product, fast delivery",2026-08-15
+2083,3428,312,4,"Good value, happy with it",2026-08-15
+2084,1928,165,5,"Excellent product, fast delivery",2026-08-15
+2085,2786,121,4,"Good value, happy with it",2026-08-15
+2086,904,256,4,"Good value, happy with it",2026-08-15
+2087,2601,355,1,"Terrible, broke in a week",2026-08-15
+2088,3804,89,5,"Excellent product, fast delivery",2026-08-15
+2089,3862,68,5,"Excellent product, fast delivery",2026-08-15
+2090,3338,24,5,"Excellent product, fast delivery",2026-08-15
+2091,1731,377,3,"Average, does the job",2026-08-15
+2092,1987,5,5,"Excellent product, fast delivery",2026-08-15
+2093,2836,384,2,Poor quality for the price,2026-08-15
+2094,1344,252,5,"Excellent product, fast delivery",2026-08-15
+2095,2427,205,4,"Good value, happy with it",2026-08-15
+2096,3630,307,5,"Excellent product, fast delivery",2026-08-15
+2097,3041,372,5,"Excellent product, fast delivery",2026-08-15
+2098,3277,99,3,"Average, does the job",2026-08-15
+2099,2149,161,5,"Excellent product, fast delivery",2026-08-15
+2100,1529,225,3,"Average, does the job",2026-08-15
+2101,639,282,1,"Terrible, broke in a week",2026-08-15
+2102,1628,67,4,"Good value, happy with it",2026-08-15
+2103,2127,202,3,"Average, does the job",2026-08-15
+2104,2242,140,4,"Good value, happy with it",2026-08-15
+2105,78,345,1,"Terrible, broke in a week",2026-08-15
+2106,3938,272,5,"Excellent product, fast delivery",2026-08-15
+2107,2602,261,5,"Excellent product, fast delivery",2026-08-15
+2108,12,312,1,"Terrible, broke in a week",2026-08-15
+2109,1622,141,5,"Excellent product, fast delivery",2026-08-15
+2110,1603,63,5,"Excellent product, fast delivery",2026-08-15
+2111,586,151,3,"Average, does the job",2026-08-15
+2112,2989,356,5,"Excellent product, fast delivery",2026-08-15
+2113,3029,294,5,"Excellent product, fast delivery",2026-08-15
+2114,496,132,5,"Excellent product, fast delivery",2026-08-15
+2115,1683,341,5,"Excellent product, fast delivery",2026-08-15
+2116,1666,194,4,"Good value, happy with it",2026-08-15
+2117,3344,99,5,"Excellent product, fast delivery",2026-08-15
+2118,751,274,1,"Terrible, broke in a week",2026-08-15
+2119,2826,265,4,"Good value, happy with it",2026-08-15
+2120,694,105,4,"Good value, happy with it",2026-08-15
+2121,3141,147,4,"Good value, happy with it",2026-08-15
+2122,2897,156,3,"Average, does the job",2026-08-15
+2123,596,40,3,"Average, does the job",2026-08-15
+2124,3046,254,5,"Excellent product, fast delivery",2026-08-15
+2125,341,56,2,Poor quality for the price,2026-08-15
+2126,78,88,4,"Good value, happy with it",2026-08-15
+2127,1259,54,4,"Good value, happy with it",2026-08-15
+2128,2954,354,4,"Good value, happy with it",2026-08-15
+2129,1077,240,5,"Excellent product, fast delivery",2026-08-15
+2130,1730,76,4,"Good value, happy with it",2026-08-15
+2131,3992,228,5,"Excellent product, fast delivery",2026-08-15
+2132,3560,342,3,"Average, does the job",2026-08-15
+2133,862,341,3,"Average, does the job",2026-08-15
+2134,3824,199,4,"Good value, happy with it",2026-08-15
+2135,1990,85,3,"Average, does the job",2026-08-15
+2136,2655,128,2,Poor quality for the price,2026-08-15
+2137,2880,210,5,"Excellent product, fast delivery",2026-08-15
+2138,1191,227,5,"Excellent product, fast delivery",2026-08-15
+2139,870,184,5,"Excellent product, fast delivery",2026-08-15
+2140,3969,396,5,"Excellent product, fast delivery",2026-08-15
+2141,2696,336,5,"Excellent product, fast delivery",2026-08-15
+2142,458,108,4,"Good value, happy with it",2026-08-15
+2143,2182,189,5,"Excellent product, fast delivery",2026-08-15
+2144,3766,214,4,"Good value, happy with it",2026-08-15
+2145,1037,98,4,"Good value, happy with it",2026-08-15
+2146,1130,332,1,"Terrible, broke in a week",2026-08-15
+2147,3279,128,5,"Excellent product, fast delivery",2026-08-15
+2148,3738,43,5,"Excellent product, fast delivery",2026-08-15
+2149,2887,50,4,"Good value, happy with it",2026-08-15
+2150,2302,102,4,"Good value, happy with it",2026-08-15
+2151,1222,91,4,"Good value, happy with it",2026-08-15
+2152,3251,305,5,"Excellent product, fast delivery",2026-08-15
+2153,182,162,5,"Excellent product, fast delivery",2026-08-15
+2154,154,305,4,"Good value, happy with it",2026-08-15
+2155,2093,249,5,"Excellent product, fast delivery",2026-08-15
+2156,3134,276,2,Poor quality for the price,2026-08-15
+2157,1687,174,5,"Excellent product, fast delivery",2026-08-15
+2158,2852,170,5,"Excellent product, fast delivery",2026-08-15
+2159,985,314,5,"Excellent product, fast delivery",2026-08-15
+2160,3041,364,5,"Excellent product, fast delivery",2026-08-15
+2161,540,97,5,"Excellent product, fast delivery",2026-08-15
+2162,1702,35,5,"Excellent product, fast delivery",2026-08-15
+2163,2439,293,4,"Good value, happy with it",2026-08-15
+2164,3529,137,5,"Excellent product, fast delivery",2026-08-15
+2165,1581,264,4,"Good value, happy with it",2026-08-15
+2166,1089,157,1,"Terrible, broke in a week",2026-08-15
+2167,3677,85,5,"Excellent product, fast delivery",2026-08-15
+2168,1209,267,5,"Excellent product, fast delivery",2026-08-15
+2169,3236,76,4,"Good value, happy with it",2026-08-15
+2170,2149,52,5,"Excellent product, fast delivery",2026-08-15
+2171,286,372,5,"Excellent product, fast delivery",2026-08-15
+2172,257,396,5,"Excellent product, fast delivery",2026-08-15
+2173,3505,325,2,Poor quality for the price,2026-08-15
+2174,3179,47,3,"Average, does the job",2026-08-15
+2175,955,342,4,"Good value, happy with it",2026-08-15
+2176,2343,12,1,"Terrible, broke in a week",2026-08-15
+2177,3804,177,4,"Good value, happy with it",2026-08-15
+2178,747,340,4,"Good value, happy with it",2026-08-15
+2179,1740,357,2,Poor quality for the price,2026-08-15
+2180,301,132,5,"Excellent product, fast delivery",2026-08-15
+2181,2570,1,4,"Good value, happy with it",2026-08-15
+2182,2053,63,3,"Average, does the job",2026-08-15
+2183,1872,257,1,"Terrible, broke in a week",2026-08-15
+2184,435,301,4,"Good value, happy with it",2026-08-15
+2185,850,379,5,"Excellent product, fast delivery",2026-08-15
+2186,3953,187,1,"Terrible, broke in a week",2026-08-15
+2187,3633,346,5,"Excellent product, fast delivery",2026-08-15
+2188,3750,87,3,"Average, does the job",2026-08-15
+2189,2602,44,5,"Excellent product, fast delivery",2026-08-15
+2190,3060,348,4,"Good value, happy with it",2026-08-15
+2191,1755,162,5,"Excellent product, fast delivery",2026-08-15
+2192,3666,79,5,"Excellent product, fast delivery",2026-08-15
+2193,3890,37,2,Poor quality for the price,2026-08-15
+2194,3673,258,5,"Excellent product, fast delivery",2026-08-15
+2195,3134,277,2,Poor quality for the price,2026-08-15
+2196,991,158,5,"Excellent product, fast delivery",2026-08-15
+2197,638,242,5,"Excellent product, fast delivery",2026-08-15
+2198,188,95,4,"Good value, happy with it",2026-08-15
+2199,267,192,5,"Excellent product, fast delivery",2026-08-15
+2200,2252,268,2,Poor quality for the price,2026-08-15
+2201,1231,19,3,"Average, does the job",2026-08-15
+2202,3015,304,2,Poor quality for the price,2026-08-15
+2203,558,182,1,"Terrible, broke in a week",2026-08-15
+2204,1709,325,5,"Excellent product, fast delivery",2026-08-15
+2205,1802,129,5,"Excellent product, fast delivery",2026-08-15
+2206,1607,269,5,"Excellent product, fast delivery",2026-08-15
+2207,2758,97,4,"Good value, happy with it",2026-08-15
+2208,733,270,5,"Excellent product, fast delivery",2026-08-15
+2209,1105,33,5,"Excellent product, fast delivery",2026-08-15
+2210,3747,341,5,"Excellent product, fast delivery",2026-08-15
+2211,3731,245,4,"Good value, happy with it",2026-08-15
+2212,753,279,4,"Good value, happy with it",2026-08-15
+2213,1440,27,3,"Average, does the job",2026-08-15
+2214,2785,292,3,"Average, does the job",2026-08-15
+2215,2946,265,4,"Good value, happy with it",2026-08-15
+2216,578,101,5,"Excellent product, fast delivery",2026-08-15
+2217,1109,18,5,"Excellent product, fast delivery",2026-08-15
+2218,2214,353,3,"Average, does the job",2026-08-15
+2219,2983,118,5,"Excellent product, fast delivery",2026-08-15
+2220,3173,106,3,"Average, does the job",2026-08-15
+2221,3967,31,5,"Excellent product, fast delivery",2026-08-15
+2222,2218,155,3,"Average, does the job",2026-08-15
+2223,3926,152,5,"Excellent product, fast delivery",2026-08-15
+2224,2182,47,4,"Good value, happy with it",2026-08-15
+2225,1500,360,4,"Good value, happy with it",2026-08-15
+2226,2313,62,5,"Excellent product, fast delivery",2026-08-15
+2227,544,16,1,"Terrible, broke in a week",2026-08-15
+2228,1403,232,5,"Excellent product, fast delivery",2026-08-15
+2229,2090,367,1,"Terrible, broke in a week",2026-08-15
+2230,2256,38,3,"Average, does the job",2026-08-15
+2231,1941,14,4,"Good value, happy with it",2026-08-15
+2232,3456,12,4,"Good value, happy with it",2026-08-15
+2233,2513,122,5,"Excellent product, fast delivery",2026-08-15
+2234,168,184,3,"Average, does the job",2026-08-15
+2235,1043,115,5,"Excellent product, fast delivery",2026-08-15
+2236,1997,206,1,"Terrible, broke in a week",2026-08-15
+2237,510,5,1,"Terrible, broke in a week",2026-08-15
+2238,4000,228,4,"Good value, happy with it",2026-08-15
+2239,1334,336,5,"Excellent product, fast delivery",2026-08-15
+2240,2789,48,4,"Good value, happy with it",2026-08-15
+2241,621,341,1,"Terrible, broke in a week",2026-08-15
+2242,1241,160,5,"Excellent product, fast delivery",2026-08-15
+2243,3359,31,1,"Terrible, broke in a week",2026-08-15
+2244,452,231,5,"Excellent product, fast delivery",2026-08-15
+2245,1691,35,1,"Terrible, broke in a week",2026-08-15
+2246,1581,18,5,"Excellent product, fast delivery",2026-08-15
+2247,1851,222,5,"Excellent product, fast delivery",2026-08-15
+2248,2868,381,5,"Excellent product, fast delivery",2026-08-15
+2249,3675,141,3,"Average, does the job",2026-08-15
+2250,3531,360,4,"Good value, happy with it",2026-08-15
+2251,3310,238,3,"Average, does the job",2026-08-15
+2252,208,148,5,"Excellent product, fast delivery",2026-08-15
+2253,1398,118,5,"Excellent product, fast delivery",2026-08-15
+2254,3475,245,5,"Excellent product, fast delivery",2026-08-15
+2255,3616,337,4,"Good value, happy with it",2026-08-15
+2256,2587,182,3,"Average, does the job",2026-08-15
+2257,3957,215,5,"Excellent product, fast delivery",2026-08-15
+2258,3206,198,4,"Good value, happy with it",2026-08-15
+2259,16,111,3,"Average, does the job",2026-08-15
+2260,1056,15,1,"Terrible, broke in a week",2026-08-15
+2261,2741,26,3,"Average, does the job",2026-08-15
+2262,3460,19,4,"Good value, happy with it",2026-08-15
+2263,3380,341,5,"Excellent product, fast delivery",2026-08-15
+2264,2147,352,5,"Excellent product, fast delivery",2026-08-15
+2265,1497,237,5,"Excellent product, fast delivery",2026-08-15
+2266,717,317,1,"Terrible, broke in a week",2026-08-15
+2267,2906,172,5,"Excellent product, fast delivery",2026-08-15
+2268,2320,210,5,"Excellent product, fast delivery",2026-08-15
+2269,2205,6,5,"Excellent product, fast delivery",2026-08-15
+2270,3176,295,5,"Excellent product, fast delivery",2026-08-15
+2271,1223,120,2,Poor quality for the price,2026-08-15
+2272,3805,370,3,"Average, does the job",2026-08-15
+2273,2509,353,4,"Good value, happy with it",2026-08-15
+2274,584,266,2,Poor quality for the price,2026-08-15
+2275,790,139,4,"Good value, happy with it",2026-08-15
+2276,374,318,5,"Excellent product, fast delivery",2026-08-15
+2277,2943,319,2,Poor quality for the price,2026-08-15
+2278,1892,309,2,Poor quality for the price,2026-08-15
+2279,1925,44,1,"Terrible, broke in a week",2026-08-15
+2280,1861,316,5,"Excellent product, fast delivery",2026-08-15
+2281,1571,278,4,"Good value, happy with it",2026-08-15
+2282,1766,204,4,"Good value, happy with it",2026-08-15
+2283,1699,138,5,"Excellent product, fast delivery",2026-08-15
+2284,1708,158,3,"Average, does the job",2026-08-15
+2285,115,31,3,"Average, does the job",2026-08-15
+2286,2646,115,5,"Excellent product, fast delivery",2026-08-15
+2287,3036,59,1,"Terrible, broke in a week",2026-08-15
+2288,142,20,4,"Good value, happy with it",2026-08-15
+2289,1160,210,5,"Excellent product, fast delivery",2026-08-15
+2290,1337,231,4,"Good value, happy with it",2026-08-15
+2291,3173,380,3,"Average, does the job",2026-08-15
+2292,1597,192,3,"Average, does the job",2026-08-15
+2293,300,261,2,Poor quality for the price,2026-08-15
+2294,3422,68,4,"Good value, happy with it",2026-08-15
+2295,1464,293,5,"Excellent product, fast delivery",2026-08-15
+2296,706,76,5,"Excellent product, fast delivery",2026-08-15
+2297,464,241,5,"Excellent product, fast delivery",2026-08-15
+2298,2032,64,5,"Excellent product, fast delivery",2026-08-15
+2299,423,342,4,"Good value, happy with it",2026-08-15
+2300,2029,26,4,"Good value, happy with it",2026-08-15
+2301,398,123,4,"Good value, happy with it",2026-08-15
+2302,1907,294,1,"Terrible, broke in a week",2026-08-15
+2303,746,183,2,Poor quality for the price,2026-08-15
+2304,3712,322,3,"Average, does the job",2026-08-15
+2305,3406,198,5,"Excellent product, fast delivery",2026-08-15
+2306,451,189,5,"Excellent product, fast delivery",2026-08-15
+2307,2425,391,3,"Average, does the job",2026-08-15
+2308,38,2,1,"Terrible, broke in a week",2026-08-15
+2309,443,50,4,"Good value, happy with it",2026-08-15
+2310,1186,165,5,"Excellent product, fast delivery",2026-08-15
+2311,2593,352,2,Poor quality for the price,2026-08-15
+2312,1312,122,4,"Good value, happy with it",2026-08-15
+2313,2689,18,5,"Excellent product, fast delivery",2026-08-15
+2314,1554,65,5,"Excellent product, fast delivery",2026-08-15
+2315,1803,77,5,"Excellent product, fast delivery",2026-08-15
+2316,2569,391,2,Poor quality for the price,2026-08-15
+2317,3252,23,5,"Excellent product, fast delivery",2026-08-15
+2318,740,361,5,"Excellent product, fast delivery",2026-08-15
+2319,2134,113,5,"Excellent product, fast delivery",2026-08-15
+2320,2729,222,5,"Excellent product, fast delivery",2026-08-15
+2321,1286,1,4,"Good value, happy with it",2026-08-15
+2322,2888,83,5,"Excellent product, fast delivery",2026-08-15
+2323,3043,69,5,"Excellent product, fast delivery",2026-08-15
+2324,1611,287,4,"Good value, happy with it",2026-08-15
+2325,2256,84,4,"Good value, happy with it",2026-08-15
+2326,1647,323,5,"Excellent product, fast delivery",2026-08-15
+2327,1831,23,4,"Good value, happy with it",2026-08-15
+2328,3258,145,5,"Excellent product, fast delivery",2026-08-15
+2329,2299,262,5,"Excellent product, fast delivery",2026-08-15
+2330,2193,37,4,"Good value, happy with it",2026-08-15
+2331,3128,353,1,"Terrible, broke in a week",2026-08-15
+2332,1678,218,1,"Terrible, broke in a week",2026-08-15
+2333,2102,235,4,"Good value, happy with it",2026-08-15
+2334,2501,354,1,"Terrible, broke in a week",2026-08-15
+2335,83,229,1,"Terrible, broke in a week",2026-08-15
+2336,2123,269,3,"Average, does the job",2026-08-15
+2337,3137,287,5,"Excellent product, fast delivery",2026-08-15
+2338,3881,32,5,"Excellent product, fast delivery",2026-08-15
+2339,894,365,4,"Good value, happy with it",2026-08-15
+2340,1759,310,3,"Average, does the job",2026-08-15
+2341,2667,318,3,"Average, does the job",2026-08-15
+2342,1067,195,5,"Excellent product, fast delivery",2026-08-15
+2343,3796,136,2,Poor quality for the price,2026-08-15
+2344,1283,347,5,"Excellent product, fast delivery",2026-08-15
+2345,2540,362,5,"Excellent product, fast delivery",2026-08-15
+2346,86,47,4,"Good value, happy with it",2026-08-15
+2347,1724,221,4,"Good value, happy with it",2026-08-15
+2348,1119,146,5,"Excellent product, fast delivery",2026-08-15
+2349,2962,66,5,"Excellent product, fast delivery",2026-08-15
+2350,2386,47,5,"Excellent product, fast delivery",2026-08-15
+2351,2438,356,5,"Excellent product, fast delivery",2026-08-15
+2352,1279,295,5,"Excellent product, fast delivery",2026-08-15
+2353,724,193,4,"Good value, happy with it",2026-08-15
+2354,2468,391,5,"Excellent product, fast delivery",2026-08-15
+2355,1867,19,4,"Good value, happy with it",2026-08-15
+2356,1291,103,5,"Excellent product, fast delivery",2026-08-15
+2357,3298,12,4,"Good value, happy with it",2026-08-15
+2358,207,241,2,Poor quality for the price,2026-08-15
+2359,2435,262,5,"Excellent product, fast delivery",2026-08-15
+2360,887,321,3,"Average, does the job",2026-08-15
+2361,3776,393,3,"Average, does the job",2026-08-15
+2362,1666,63,5,"Excellent product, fast delivery",2026-08-15
+2363,2067,15,5,"Excellent product, fast delivery",2026-08-15
+2364,3939,363,3,"Average, does the job",2026-08-15
+2365,742,21,5,"Excellent product, fast delivery",2026-08-15
+2366,2909,184,5,"Excellent product, fast delivery",2026-08-15
+2367,1238,4,4,"Good value, happy with it",2026-08-15
+2368,340,179,1,"Terrible, broke in a week",2026-08-15
+2369,825,243,3,"Average, does the job",2026-08-15
+2370,933,98,4,"Good value, happy with it",2026-08-15
+2371,1420,139,3,"Average, does the job",2026-08-15
+2372,2298,270,4,"Good value, happy with it",2026-08-15
+2373,2794,37,4,"Good value, happy with it",2026-08-15
+2374,2524,230,4,"Good value, happy with it",2026-08-15
+2375,244,326,4,"Good value, happy with it",2026-08-15
+2376,620,322,5,"Excellent product, fast delivery",2026-08-15
+2377,2161,159,4,"Good value, happy with it",2026-08-15
+2378,2936,10,4,"Good value, happy with it",2026-08-15
+2379,2973,207,5,"Excellent product, fast delivery",2026-08-15
+2380,1922,332,5,"Excellent product, fast delivery",2026-08-15
+2381,3294,238,4,"Good value, happy with it",2026-08-15
+2382,1809,90,3,"Average, does the job",2026-08-15
+2383,1300,29,3,"Average, does the job",2026-08-15
+2384,3631,92,4,"Good value, happy with it",2026-08-15
+2385,22,202,4,"Good value, happy with it",2026-08-15
+2386,399,298,4,"Good value, happy with it",2026-08-15
+2387,2934,86,5,"Excellent product, fast delivery",2026-08-15
+2388,2398,183,4,"Good value, happy with it",2026-08-15
+2389,817,146,3,"Average, does the job",2026-08-15
+2390,1079,154,5,"Excellent product, fast delivery",2026-08-15
+2391,1733,396,5,"Excellent product, fast delivery",2026-08-15
+2392,1247,240,5,"Excellent product, fast delivery",2026-08-15
+2393,2385,91,5,"Excellent product, fast delivery",2026-08-15
+2394,318,374,5,"Excellent product, fast delivery",2026-08-15
+2395,913,201,5,"Excellent product, fast delivery",2026-08-15
+2396,1871,70,4,"Good value, happy with it",2026-08-15
+2397,759,207,5,"Excellent product, fast delivery",2026-08-15
+2398,730,21,5,"Excellent product, fast delivery",2026-08-15
+2399,2793,21,4,"Good value, happy with it",2026-08-15
+2400,2782,262,5,"Excellent product, fast delivery",2026-08-15
+2401,2749,352,5,"Excellent product, fast delivery",2026-08-15
+2402,1262,342,4,"Good value, happy with it",2026-08-15
+2403,3287,176,2,Poor quality for the price,2026-08-15
+2404,2970,2,4,"Good value, happy with it",2026-08-15
+2405,3200,91,1,"Terrible, broke in a week",2026-08-15
+2406,1085,320,5,"Excellent product, fast delivery",2026-08-15
+2407,1536,196,5,"Excellent product, fast delivery",2026-08-15
+2408,2322,175,5,"Excellent product, fast delivery",2026-08-15
+2409,1933,365,5,"Excellent product, fast delivery",2026-08-15
+2410,2576,396,1,"Terrible, broke in a week",2026-08-15
+2411,685,299,5,"Excellent product, fast delivery",2026-08-15
+2412,867,130,4,"Good value, happy with it",2026-08-15
+2413,1006,248,5,"Excellent product, fast delivery",2026-08-15
+2414,2980,94,4,"Good value, happy with it",2026-08-15
+2415,3745,130,1,"Terrible, broke in a week",2026-08-15
+2416,2243,71,4,"Good value, happy with it",2026-08-15
+2417,1322,66,5,"Excellent product, fast delivery",2026-08-15
+2418,1819,102,5,"Excellent product, fast delivery",2026-08-15
+2419,524,122,5,"Excellent product, fast delivery",2026-08-15
+2420,1435,286,4,"Good value, happy with it",2026-08-15
+2421,455,86,5,"Excellent product, fast delivery",2026-08-15
+2422,1617,136,5,"Excellent product, fast delivery",2026-08-15
+2423,1912,65,5,"Excellent product, fast delivery",2026-08-15
+2424,1374,252,4,"Good value, happy with it",2026-08-15
+2425,3994,285,5,"Excellent product, fast delivery",2026-08-15
+2426,953,257,5,"Excellent product, fast delivery",2026-08-15
+2427,612,380,4,"Good value, happy with it",2026-08-15
+2428,2457,134,5,"Excellent product, fast delivery",2026-08-15
+2429,2485,42,5,"Excellent product, fast delivery",2026-08-15
+2430,1858,314,5,"Excellent product, fast delivery",2026-08-15
+2431,2304,157,5,"Excellent product, fast delivery",2026-08-15
+2432,3513,109,5,"Excellent product, fast delivery",2026-08-15
+2433,2585,396,5,"Excellent product, fast delivery",2026-08-15
+2434,1910,58,4,"Good value, happy with it",2026-08-15
+2435,715,212,1,"Terrible, broke in a week",2026-08-15
+2436,2432,148,3,"Average, does the job",2026-08-15
+2437,1767,274,2,Poor quality for the price,2026-08-15
+2438,3927,277,4,"Good value, happy with it",2026-08-15
+2439,50,323,3,"Average, does the job",2026-08-15
+2440,3236,268,1,"Terrible, broke in a week",2026-08-15
+2441,3525,206,5,"Excellent product, fast delivery",2026-08-15
+2442,2356,329,5,"Excellent product, fast delivery",2026-08-15
+2443,1124,129,2,Poor quality for the price,2026-08-15
+2444,2922,1,5,"Excellent product, fast delivery",2026-08-15
+2445,2731,294,4,"Good value, happy with it",2026-08-15
+2446,1217,363,5,"Excellent product, fast delivery",2026-08-15
+2447,92,343,3,"Average, does the job",2026-08-15
+2448,30,95,4,"Good value, happy with it",2026-08-15
+2449,1270,364,4,"Good value, happy with it",2026-08-15
+2450,1355,303,4,"Good value, happy with it",2026-08-15
+2451,531,204,5,"Excellent product, fast delivery",2026-08-15
+2452,1159,288,5,"Excellent product, fast delivery",2026-08-15
+2453,2118,152,4,"Good value, happy with it",2026-08-15
+2454,2917,214,4,"Good value, happy with it",2026-08-15
+2455,3375,194,5,"Excellent product, fast delivery",2026-08-15
+2456,696,310,5,"Excellent product, fast delivery",2026-08-15
+2457,3898,199,5,"Excellent product, fast delivery",2026-08-15
+2458,1660,105,5,"Excellent product, fast delivery",2026-08-15
+2459,1999,154,5,"Excellent product, fast delivery",2026-08-15
+2460,255,342,3,"Average, does the job",2026-08-15
+2461,3226,369,4,"Good value, happy with it",2026-08-15
+2462,2743,122,1,"Terrible, broke in a week",2026-08-15
+2463,3542,240,5,"Excellent product, fast delivery",2026-08-15
+2464,2597,367,4,"Good value, happy with it",2026-08-15
+2465,1571,297,2,Poor quality for the price,2026-08-15
+2466,3173,205,5,"Excellent product, fast delivery",2026-08-15
+2467,574,230,5,"Excellent product, fast delivery",2026-08-15
+2468,1152,341,3,"Average, does the job",2026-08-15
+2469,125,281,5,"Excellent product, fast delivery",2026-08-15
+2470,1881,198,5,"Excellent product, fast delivery",2026-08-15
+2471,1857,397,3,"Average, does the job",2026-08-15
+2472,3187,103,3,"Average, does the job",2026-08-15
+2473,1080,159,4,"Good value, happy with it",2026-08-15
+2474,3886,151,5,"Excellent product, fast delivery",2026-08-15
+2475,1416,337,4,"Good value, happy with it",2026-08-15
+2476,1368,371,2,Poor quality for the price,2026-08-15
+2477,1184,194,5,"Excellent product, fast delivery",2026-08-15
+2478,1187,395,5,"Excellent product, fast delivery",2026-08-15
+2479,522,279,4,"Good value, happy with it",2026-08-15
+2480,1871,376,5,"Excellent product, fast delivery",2026-08-15
+2481,2322,391,4,"Good value, happy with it",2026-08-15
+2482,3516,15,5,"Excellent product, fast delivery",2026-08-15
+2483,52,239,4,"Good value, happy with it",2026-08-15
+2484,1922,56,5,"Excellent product, fast delivery",2026-08-15
+2485,2187,17,4,"Good value, happy with it",2026-08-15
+2486,3067,221,4,"Good value, happy with it",2026-08-15
+2487,1620,23,5,"Excellent product, fast delivery",2026-08-15
+2488,3410,334,2,Poor quality for the price,2026-08-15
+2489,2789,257,4,"Good value, happy with it",2026-08-15
+2490,2617,392,5,"Excellent product, fast delivery",2026-08-15
+2491,3426,196,4,"Good value, happy with it",2026-08-15
+2492,819,174,4,"Good value, happy with it",2026-08-15
+2493,1104,248,2,Poor quality for the price,2026-08-15
+2494,1528,136,2,Poor quality for the price,2026-08-15
+2495,2434,106,4,"Good value, happy with it",2026-08-15
+2496,1418,325,5,"Excellent product, fast delivery",2026-08-15
+2497,83,208,3,"Average, does the job",2026-08-15
+2498,1236,324,4,"Good value, happy with it",2026-08-15
+2499,3363,178,5,"Excellent product, fast delivery",2026-08-15
+2500,2528,4,4,"Good value, happy with it",2026-08-15
+2501,668,52,4,"Good value, happy with it",2026-08-15
+2502,3118,173,5,"Excellent product, fast delivery",2026-08-15
+2503,1110,274,5,"Excellent product, fast delivery",2026-08-15
+2504,3813,143,5,"Excellent product, fast delivery",2026-08-15
+2505,2461,153,3,"Average, does the job",2026-08-15
+2506,3821,85,4,"Good value, happy with it",2026-08-15
+2507,3823,188,1,"Terrible, broke in a week",2026-08-15
+2508,3100,173,5,"Excellent product, fast delivery",2026-08-15
+2509,531,378,5,"Excellent product, fast delivery",2026-08-15
+2510,921,107,2,Poor quality for the price,2026-08-15
+2511,2183,288,1,"Terrible, broke in a week",2026-08-15
+2512,911,58,5,"Excellent product, fast delivery",2026-08-15
+2513,973,370,1,"Terrible, broke in a week",2026-08-15
+2514,1230,217,1,"Terrible, broke in a week",2026-08-15
+2515,3752,345,2,Poor quality for the price,2026-08-15
+2516,2932,134,5,"Excellent product, fast delivery",2026-08-15
+2517,3476,306,4,"Good value, happy with it",2026-08-15
+2518,930,158,3,"Average, does the job",2026-08-15
+2519,1681,76,1,"Terrible, broke in a week",2026-08-15
+2520,3526,287,5,"Excellent product, fast delivery",2026-08-15
+2521,802,162,4,"Good value, happy with it",2026-08-15
+2522,559,128,3,"Average, does the job",2026-08-15
+2523,2711,98,4,"Good value, happy with it",2026-08-15
+2524,1738,323,4,"Good value, happy with it",2026-08-15
+2525,1834,228,4,"Good value, happy with it",2026-08-15
+2526,2078,250,4,"Good value, happy with it",2026-08-15
+2527,2304,350,5,"Excellent product, fast delivery",2026-08-15
+2528,1760,13,4,"Good value, happy with it",2026-08-15
+2529,599,232,5,"Excellent product, fast delivery",2026-08-15
+2530,3238,367,5,"Excellent product, fast delivery",2026-08-15
+2531,2117,289,4,"Good value, happy with it",2026-08-15
+2532,2247,41,4,"Good value, happy with it",2026-08-15
+2533,2748,26,5,"Excellent product, fast delivery",2026-08-15
+2534,768,18,4,"Good value, happy with it",2026-08-15
+2535,2141,66,5,"Excellent product, fast delivery",2026-08-15
+2536,329,88,4,"Good value, happy with it",2026-08-15
+2537,2019,48,5,"Excellent product, fast delivery",2026-08-15
+2538,2333,99,3,"Average, does the job",2026-08-15
+2539,2402,163,5,"Excellent product, fast delivery",2026-08-15
+2540,3326,43,5,"Excellent product, fast delivery",2026-08-15
+2541,3171,394,2,Poor quality for the price,2026-08-15
+2542,1929,268,3,"Average, does the job",2026-08-15
+2543,2123,313,4,"Good value, happy with it",2026-08-15
+2544,1620,258,2,Poor quality for the price,2026-08-15
+2545,2632,230,4,"Good value, happy with it",2026-08-15
+2546,2855,129,5,"Excellent product, fast delivery",2026-08-15
+2547,25,384,5,"Excellent product, fast delivery",2026-08-15
+2548,809,312,5,"Excellent product, fast delivery",2026-08-15
+2549,80,293,1,"Terrible, broke in a week",2026-08-15
+2550,3879,175,4,"Good value, happy with it",2026-08-15
+2551,3194,1,2,Poor quality for the price,2026-08-15
+2552,1455,3,5,"Excellent product, fast delivery",2026-08-15
+2553,876,292,4,"Good value, happy with it",2026-08-15
+2554,3877,143,4,"Good value, happy with it",2026-08-15
+2555,1063,293,5,"Excellent product, fast delivery",2026-08-15
+2556,180,318,4,"Good value, happy with it",2026-08-15
+2557,1933,136,5,"Excellent product, fast delivery",2026-08-15
+2558,1077,69,3,"Average, does the job",2026-08-15
+2559,2534,95,5,"Excellent product, fast delivery",2026-08-15
+2560,489,269,5,"Excellent product, fast delivery",2026-08-15
+2561,325,103,1,"Terrible, broke in a week",2026-08-15
+2562,3902,74,5,"Excellent product, fast delivery",2026-08-15
+2563,3761,71,1,"Terrible, broke in a week",2026-08-15
+2564,3180,104,5,"Excellent product, fast delivery",2026-08-15
+2565,1268,366,5,"Excellent product, fast delivery",2026-08-15
+2566,1961,3,3,"Average, does the job",2026-08-15
+2567,1774,317,5,"Excellent product, fast delivery",2026-08-15
+2568,2363,183,4,"Good value, happy with it",2026-08-15
+2569,3455,139,5,"Excellent product, fast delivery",2026-08-15
+2570,215,347,5,"Excellent product, fast delivery",2026-08-15
+2571,494,145,5,"Excellent product, fast delivery",2026-08-15
+2572,2911,281,4,"Good value, happy with it",2026-08-15
+2573,1007,253,1,"Terrible, broke in a week",2026-08-15
+2574,3901,144,1,"Terrible, broke in a week",2026-08-15
+2575,3516,197,4,"Good value, happy with it",2026-08-15
+2576,1588,399,5,"Excellent product, fast delivery",2026-08-15
+2577,2457,133,1,"Terrible, broke in a week",2026-08-15
+2578,2154,49,2,Poor quality for the price,2026-08-15
+2579,2015,160,3,"Average, does the job",2026-08-15
+2580,3299,269,1,"Terrible, broke in a week",2026-08-15
+2581,3335,384,5,"Excellent product, fast delivery",2026-08-15
+2582,1088,233,2,Poor quality for the price,2026-08-15
+2583,3159,256,5,"Excellent product, fast delivery",2026-08-15
+2584,288,237,4,"Good value, happy with it",2026-08-15
+2585,1655,19,4,"Good value, happy with it",2026-08-15
+2586,1151,24,5,"Excellent product, fast delivery",2026-08-15
+2587,3802,344,5,"Excellent product, fast delivery",2026-08-15
+2588,2346,8,4,"Good value, happy with it",2026-08-15
+2589,637,250,2,Poor quality for the price,2026-08-15
+2590,817,171,5,"Excellent product, fast delivery",2026-08-15
+2591,344,259,5,"Excellent product, fast delivery",2026-08-15
+2592,2913,305,2,Poor quality for the price,2026-08-15
+2593,2032,206,4,"Good value, happy with it",2026-08-15
+2594,2101,388,4,"Good value, happy with it",2026-08-15
+2595,2598,25,5,"Excellent product, fast delivery",2026-08-15
+2596,2100,317,5,"Excellent product, fast delivery",2026-08-15
+2597,3977,279,2,Poor quality for the price,2026-08-15
+2598,1972,155,5,"Excellent product, fast delivery",2026-08-15
+2599,666,386,1,"Terrible, broke in a week",2026-08-15
+2600,1534,96,5,"Excellent product, fast delivery",2026-08-15
+2601,961,104,4,"Good value, happy with it",2026-08-15
+2602,1759,146,5,"Excellent product, fast delivery",2026-08-15
+2603,955,365,5,"Excellent product, fast delivery",2026-08-15
+2604,2502,381,1,"Terrible, broke in a week",2026-08-15
+2605,81,130,5,"Excellent product, fast delivery",2026-08-15
+2606,3812,322,3,"Average, does the job",2026-08-15
+2607,1320,93,5,"Excellent product, fast delivery",2026-08-15
+2608,1297,8,4,"Good value, happy with it",2026-08-15
+2609,393,132,4,"Good value, happy with it",2026-08-15
+2610,3872,263,2,Poor quality for the price,2026-08-15
+2611,3119,140,3,"Average, does the job",2026-08-15
+2612,828,358,5,"Excellent product, fast delivery",2026-08-15
+2613,1648,226,5,"Excellent product, fast delivery",2026-08-15
+2614,2866,129,4,"Good value, happy with it",2026-08-15
+2615,2425,266,3,"Average, does the job",2026-08-15
+2616,1558,330,3,"Average, does the job",2026-08-15
+2617,3992,173,5,"Excellent product, fast delivery",2026-08-15
+2618,2474,88,5,"Excellent product, fast delivery",2026-08-15
+2619,1630,237,2,Poor quality for the price,2026-08-15
+2620,3958,74,3,"Average, does the job",2026-08-15
+2621,931,18,4,"Good value, happy with it",2026-08-15
+2622,2430,156,5,"Excellent product, fast delivery",2026-08-15
+2623,3165,118,4,"Good value, happy with it",2026-08-15
+2624,103,378,5,"Excellent product, fast delivery",2026-08-15
+2625,3424,398,4,"Good value, happy with it",2026-08-15
+2626,2585,394,5,"Excellent product, fast delivery",2026-08-15
+2627,1905,183,2,Poor quality for the price,2026-08-15
+2628,534,195,4,"Good value, happy with it",2026-08-15
+2629,1377,127,3,"Average, does the job",2026-08-15
+2630,992,239,5,"Excellent product, fast delivery",2026-08-15
+2631,1289,131,4,"Good value, happy with it",2026-08-15
+2632,157,317,5,"Excellent product, fast delivery",2026-08-15
+2633,882,62,5,"Excellent product, fast delivery",2026-08-15
+2634,30,106,4,"Good value, happy with it",2026-08-15
+2635,2160,119,1,"Terrible, broke in a week",2026-08-15
+2636,1598,234,4,"Good value, happy with it",2026-08-15
+2637,2904,25,4,"Good value, happy with it",2026-08-15
+2638,3902,146,2,Poor quality for the price,2026-08-15
+2639,2270,239,2,Poor quality for the price,2026-08-15
+2640,3457,112,5,"Excellent product, fast delivery",2026-08-15
+2641,2729,66,2,Poor quality for the price,2026-08-15
+2642,3451,158,3,"Average, does the job",2026-08-15
+2643,486,152,3,"Average, does the job",2026-08-15
+2644,1250,291,4,"Good value, happy with it",2026-08-15
+2645,654,182,4,"Good value, happy with it",2026-08-15
+2646,1184,299,5,"Excellent product, fast delivery",2026-08-15
+2647,2882,399,5,"Excellent product, fast delivery",2026-08-15
+2648,3169,127,4,"Good value, happy with it",2026-08-15
+2649,3935,249,4,"Good value, happy with it",2026-08-15
+2650,2931,294,5,"Excellent product, fast delivery",2026-08-15
+2651,1495,241,1,"Terrible, broke in a week",2026-08-15
+2652,3777,2,1,"Terrible, broke in a week",2026-08-15
+2653,3,3,3,"Average, does the job",2026-08-15
+2654,3947,363,2,Poor quality for the price,2026-08-15
+2655,761,74,5,"Excellent product, fast delivery",2026-08-15
+2656,3852,52,5,"Excellent product, fast delivery",2026-08-15
+2657,36,380,5,"Excellent product, fast delivery",2026-08-15
+2658,1980,97,4,"Good value, happy with it",2026-08-15
+2659,3215,290,5,"Excellent product, fast delivery",2026-08-15
+2660,1830,195,5,"Excellent product, fast delivery",2026-08-15
+2661,3023,399,5,"Excellent product, fast delivery",2026-08-15
+2662,3387,203,5,"Excellent product, fast delivery",2026-08-15
+2663,54,193,5,"Excellent product, fast delivery",2026-08-15
+2664,3016,40,1,"Terrible, broke in a week",2026-08-15
+2665,3712,131,4,"Good value, happy with it",2026-08-15
+2666,2927,258,3,"Average, does the job",2026-08-15
+2667,3688,18,5,"Excellent product, fast delivery",2026-08-15
+2668,474,179,5,"Excellent product, fast delivery",2026-08-15
+2669,3653,97,2,Poor quality for the price,2026-08-15
+2670,2872,314,5,"Excellent product, fast delivery",2026-08-15
+2671,2808,306,4,"Good value, happy with it",2026-08-15
+2672,3149,127,4,"Good value, happy with it",2026-08-15
+2673,1871,291,4,"Good value, happy with it",2026-08-15
+2674,1518,46,1,"Terrible, broke in a week",2026-08-15
+2675,1861,91,5,"Excellent product, fast delivery",2026-08-15
+2676,1951,359,5,"Excellent product, fast delivery",2026-08-15
+2677,1540,151,4,"Good value, happy with it",2026-08-15
+2678,900,345,4,"Good value, happy with it",2026-08-15
+2679,1630,111,4,"Good value, happy with it",2026-08-15
+2680,55,184,3,"Average, does the job",2026-08-15
+2681,3146,370,3,"Average, does the job",2026-08-15
+2682,2059,299,5,"Excellent product, fast delivery",2026-08-15
+2683,3347,373,3,"Average, does the job",2026-08-15
+2684,3098,75,4,"Good value, happy with it",2026-08-15
+2685,1677,243,5,"Excellent product, fast delivery",2026-08-15
+2686,1695,206,1,"Terrible, broke in a week",2026-08-15
+2687,2823,194,1,"Terrible, broke in a week",2026-08-15
+2688,3308,187,5,"Excellent product, fast delivery",2026-08-15
+2689,2230,171,1,"Terrible, broke in a week",2026-08-15
+2690,1539,116,4,"Good value, happy with it",2026-08-15
+2691,66,152,5,"Excellent product, fast delivery",2026-08-15
+2692,79,309,2,Poor quality for the price,2026-08-15
+2693,3794,249,3,"Average, does the job",2026-08-15
+2694,3782,195,5,"Excellent product, fast delivery",2026-08-15
+2695,2028,16,3,"Average, does the job",2026-08-15
+2696,2700,203,1,"Terrible, broke in a week",2026-08-15
+2697,1611,323,5,"Excellent product, fast delivery",2026-08-15
+2698,3502,236,4,"Good value, happy with it",2026-08-15
+2699,1049,35,2,Poor quality for the price,2026-08-15
+2700,3184,268,1,"Terrible, broke in a week",2026-08-15
+2701,81,334,4,"Good value, happy with it",2026-08-15
+2702,942,277,5,"Excellent product, fast delivery",2026-08-15
+2703,1417,88,4,"Good value, happy with it",2026-08-15
+2704,1620,293,4,"Good value, happy with it",2026-08-15
+2705,1738,118,5,"Excellent product, fast delivery",2026-08-15
+2706,1465,9,3,"Average, does the job",2026-08-15
+2707,2281,173,1,"Terrible, broke in a week",2026-08-15
+2708,2760,243,4,"Good value, happy with it",2026-08-15
+2709,51,169,4,"Good value, happy with it",2026-08-15
+2710,1270,73,4,"Good value, happy with it",2026-08-15
+2711,1461,324,5,"Excellent product, fast delivery",2026-08-15
+2712,1684,227,5,"Excellent product, fast delivery",2026-08-15
+2713,2270,372,3,"Average, does the job",2026-08-15
+2714,293,56,3,"Average, does the job",2026-08-15
+2715,3040,47,5,"Excellent product, fast delivery",2026-08-15
+2716,178,181,5,"Excellent product, fast delivery",2026-08-15
+2717,2692,214,5,"Excellent product, fast delivery",2026-08-15
+2718,1667,263,4,"Good value, happy with it",2026-08-15
+2719,1409,96,4,"Good value, happy with it",2026-08-15
+2720,3738,272,5,"Excellent product, fast delivery",2026-08-15
+2721,2944,269,4,"Good value, happy with it",2026-08-15
+2722,3424,331,5,"Excellent product, fast delivery",2026-08-15
+2723,1500,230,4,"Good value, happy with it",2026-08-15
+2724,1384,21,4,"Good value, happy with it",2026-08-15
+2725,583,360,1,"Terrible, broke in a week",2026-08-15
+2726,372,128,5,"Excellent product, fast delivery",2026-08-15
+2727,46,289,4,"Good value, happy with it",2026-08-15
+2728,1154,154,5,"Excellent product, fast delivery",2026-08-15
+2729,1772,295,1,"Terrible, broke in a week",2026-08-15
+2730,2704,220,5,"Excellent product, fast delivery",2026-08-15
+2731,208,371,4,"Good value, happy with it",2026-08-15
+2732,3479,116,5,"Excellent product, fast delivery",2026-08-15
+2733,975,373,4,"Good value, happy with it",2026-08-15
+2734,1571,260,5,"Excellent product, fast delivery",2026-08-15
+2735,2276,364,5,"Excellent product, fast delivery",2026-08-15
+2736,1567,379,4,"Good value, happy with it",2026-08-15
+2737,1435,250,4,"Good value, happy with it",2026-08-15
+2738,3972,345,4,"Good value, happy with it",2026-08-15
+2739,2681,389,2,Poor quality for the price,2026-08-15
+2740,2909,229,5,"Excellent product, fast delivery",2026-08-15
+2741,1781,163,5,"Excellent product, fast delivery",2026-08-15
+2742,1713,95,5,"Excellent product, fast delivery",2026-08-15
+2743,3231,45,2,Poor quality for the price,2026-08-15
+2744,2110,144,2,Poor quality for the price,2026-08-15
+2745,3223,243,5,"Excellent product, fast delivery",2026-08-15
+2746,1800,232,3,"Average, does the job",2026-08-15
+2747,3094,110,3,"Average, does the job",2026-08-15
+2748,1673,293,5,"Excellent product, fast delivery",2026-08-15
+2749,2178,182,5,"Excellent product, fast delivery",2026-08-15
+2750,1813,298,1,"Terrible, broke in a week",2026-08-15
+2751,3536,37,4,"Good value, happy with it",2026-08-15
+2752,1405,29,1,"Terrible, broke in a week",2026-08-15
+2753,3974,33,1,"Terrible, broke in a week",2026-08-15
+2754,3,321,5,"Excellent product, fast delivery",2026-08-15
+2755,3697,359,3,"Average, does the job",2026-08-15
+2756,2482,89,4,"Good value, happy with it",2026-08-15
+2757,689,256,3,"Average, does the job",2026-08-15
+2758,3169,117,1,"Terrible, broke in a week",2026-08-15
+2759,1392,219,3,"Average, does the job",2026-08-15
+2760,3914,7,1,"Terrible, broke in a week",2026-08-15
+2761,1364,367,1,"Terrible, broke in a week",2026-08-15
+2762,3112,234,5,"Excellent product, fast delivery",2026-08-15
+2763,1294,343,4,"Good value, happy with it",2026-08-15
+2764,531,141,4,"Good value, happy with it",2026-08-15
+2765,1325,65,5,"Excellent product, fast delivery",2026-08-15
+2766,1153,198,3,"Average, does the job",2026-08-15
+2767,1046,181,1,"Terrible, broke in a week",2026-08-15
+2768,412,102,5,"Excellent product, fast delivery",2026-08-15
+2769,2342,136,2,Poor quality for the price,2026-08-15
+2770,2839,261,5,"Excellent product, fast delivery",2026-08-15
+2771,3820,67,5,"Excellent product, fast delivery",2026-08-15
+2772,24,210,3,"Average, does the job",2026-08-15
+2773,2696,275,4,"Good value, happy with it",2026-08-15
+2774,3275,197,5,"Excellent product, fast delivery",2026-08-15
+2775,345,149,4,"Good value, happy with it",2026-08-15
+2776,1369,376,4,"Good value, happy with it",2026-08-15
+2777,3825,188,2,Poor quality for the price,2026-08-15
+2778,1836,338,5,"Excellent product, fast delivery",2026-08-15
+2779,1318,187,4,"Good value, happy with it",2026-08-15
+2780,1412,277,5,"Excellent product, fast delivery",2026-08-15
+2781,232,327,4,"Good value, happy with it",2026-08-15
+2782,3674,242,5,"Excellent product, fast delivery",2026-08-15
+2783,2226,101,2,Poor quality for the price,2026-08-15
+2784,546,299,5,"Excellent product, fast delivery",2026-08-15
+2785,1388,310,5,"Excellent product, fast delivery",2026-08-15
+2786,2295,361,5,"Excellent product, fast delivery",2026-08-15
+2787,3369,319,4,"Good value, happy with it",2026-08-15
+2788,2928,65,5,"Excellent product, fast delivery",2026-08-15
+2789,2396,144,3,"Average, does the job",2026-08-15
+2790,2371,325,5,"Excellent product, fast delivery",2026-08-15
+2791,3196,382,4,"Good value, happy with it",2026-08-15
+2792,3753,380,5,"Excellent product, fast delivery",2026-08-15
+2793,178,257,4,"Good value, happy with it",2026-08-15
+2794,1863,153,4,"Good value, happy with it",2026-08-15
+2795,2867,98,5,"Excellent product, fast delivery",2026-08-15
+2796,459,121,5,"Excellent product, fast delivery",2026-08-15
+2797,3712,133,3,"Average, does the job",2026-08-15
+2798,3094,251,5,"Excellent product, fast delivery",2026-08-15
+2799,502,227,5,"Excellent product, fast delivery",2026-08-15
+2800,3070,148,5,"Excellent product, fast delivery",2026-08-15
+2801,2873,15,5,"Excellent product, fast delivery",2026-08-15
+2802,2480,350,4,"Good value, happy with it",2026-08-15
+2803,3040,115,5,"Excellent product, fast delivery",2026-08-15
+2804,602,64,4,"Good value, happy with it",2026-08-15
+2805,145,177,5,"Excellent product, fast delivery",2026-08-15
+2806,1841,384,5,"Excellent product, fast delivery",2026-08-15
+2807,2191,299,4,"Good value, happy with it",2026-08-15
+2808,3294,330,5,"Excellent product, fast delivery",2026-08-15
+2809,1250,40,2,Poor quality for the price,2026-08-15
+2810,2689,85,5,"Excellent product, fast delivery",2026-08-15
+2811,3005,33,5,"Excellent product, fast delivery",2026-08-15
+2812,1770,372,5,"Excellent product, fast delivery",2026-08-15
+2813,316,144,5,"Excellent product, fast delivery",2026-08-15
+2814,3075,17,4,"Good value, happy with it",2026-08-15
+2815,1540,276,2,Poor quality for the price,2026-08-15
+2816,3889,143,5,"Excellent product, fast delivery",2026-08-15
+2817,1015,148,5,"Excellent product, fast delivery",2026-08-15
+2818,1706,397,5,"Excellent product, fast delivery",2026-08-15
+2819,2053,387,4,"Good value, happy with it",2026-08-15
+2820,3164,230,5,"Excellent product, fast delivery",2026-08-15
+2821,2814,337,2,Poor quality for the price,2026-08-15
+2822,1997,104,5,"Excellent product, fast delivery",2026-08-15
+2823,1108,88,3,"Average, does the job",2026-08-15
+2824,1630,217,4,"Good value, happy with it",2026-08-15
+2825,3303,225,3,"Average, does the job",2026-08-15
+2826,1630,272,3,"Average, does the job",2026-08-15
+2827,1152,394,5,"Excellent product, fast delivery",2026-08-15
+2828,1723,326,4,"Good value, happy with it",2026-08-15
+2829,515,365,2,Poor quality for the price,2026-08-15
+2830,206,285,4,"Good value, happy with it",2026-08-15
+2831,1269,289,4,"Good value, happy with it",2026-08-15
+2832,368,60,5,"Excellent product, fast delivery",2026-08-15
+2833,1686,141,1,"Terrible, broke in a week",2026-08-15
+2834,584,331,5,"Excellent product, fast delivery",2026-08-15
+2835,3516,168,4,"Good value, happy with it",2026-08-15
+2836,1677,209,5,"Excellent product, fast delivery",2026-08-15
+2837,2336,298,5,"Excellent product, fast delivery",2026-08-15
+2838,1312,14,3,"Average, does the job",2026-08-15
+2839,1558,21,5,"Excellent product, fast delivery",2026-08-15
+2840,283,326,5,"Excellent product, fast delivery",2026-08-15
+2841,3584,372,4,"Good value, happy with it",2026-08-15
+2842,2487,136,3,"Average, does the job",2026-08-15
+2843,2287,203,1,"Terrible, broke in a week",2026-08-15
+2844,1673,348,5,"Excellent product, fast delivery",2026-08-15
+2845,3189,347,2,Poor quality for the price,2026-08-15
+2846,3572,113,3,"Average, does the job",2026-08-15
+2847,3732,323,3,"Average, does the job",2026-08-15
+2848,2514,104,4,"Good value, happy with it",2026-08-15
+2849,1729,227,5,"Excellent product, fast delivery",2026-08-15
+2850,2321,68,4,"Good value, happy with it",2026-08-15
+2851,883,168,5,"Excellent product, fast delivery",2026-08-15
+2852,1130,118,4,"Good value, happy with it",2026-08-15
+2853,2852,257,5,"Excellent product, fast delivery",2026-08-15
+2854,1169,193,5,"Excellent product, fast delivery",2026-08-15
+2855,1658,164,5,"Excellent product, fast delivery",2026-08-15
+2856,1211,257,4,"Good value, happy with it",2026-08-15
+2857,3376,228,4,"Good value, happy with it",2026-08-15
+2858,2918,164,5,"Excellent product, fast delivery",2026-08-15
+2859,2967,275,5,"Excellent product, fast delivery",2026-08-15
+2860,265,358,1,"Terrible, broke in a week",2026-08-15
+2861,547,64,3,"Average, does the job",2026-08-15
+2862,2596,57,4,"Good value, happy with it",2026-08-15
+2863,2130,145,4,"Good value, happy with it",2026-08-15
+2864,1041,25,5,"Excellent product, fast delivery",2026-08-15
+2865,1015,380,2,Poor quality for the price,2026-08-15
+2866,3919,175,5,"Excellent product, fast delivery",2026-08-15
+2867,1311,88,4,"Good value, happy with it",2026-08-15
+2868,1161,166,3,"Average, does the job",2026-08-15
+2869,1125,74,4,"Good value, happy with it",2026-08-15
+2870,91,152,4,"Good value, happy with it",2026-08-15
+2871,3452,177,2,Poor quality for the price,2026-08-15
+2872,788,248,3,"Average, does the job",2026-08-15
+2873,472,341,4,"Good value, happy with it",2026-08-15
+2874,3650,162,4,"Good value, happy with it",2026-08-15
+2875,419,73,5,"Excellent product, fast delivery",2026-08-15
+2876,2663,9,3,"Average, does the job",2026-08-15
+2877,626,256,3,"Average, does the job",2026-08-15
+2878,3932,381,4,"Good value, happy with it",2026-08-15
+2879,1779,227,2,Poor quality for the price,2026-08-15
+2880,1688,61,5,"Excellent product, fast delivery",2026-08-15
+2881,2238,342,5,"Excellent product, fast delivery",2026-08-15
+2882,3039,373,5,"Excellent product, fast delivery",2026-08-15
+2883,2988,50,4,"Good value, happy with it",2026-08-15
+2884,3265,228,5,"Excellent product, fast delivery",2026-08-15
+2885,158,302,4,"Good value, happy with it",2026-08-15
+2886,3498,375,5,"Excellent product, fast delivery",2026-08-15
+2887,3380,128,5,"Excellent product, fast delivery",2026-08-15
+2888,2246,366,3,"Average, does the job",2026-08-15
+2889,257,27,4,"Good value, happy with it",2026-08-15
+2890,3559,175,3,"Average, does the job",2026-08-15
+2891,3905,249,4,"Good value, happy with it",2026-08-15
+2892,2492,301,3,"Average, does the job",2026-08-15
+2893,3890,174,4,"Good value, happy with it",2026-08-15
+2894,573,29,1,"Terrible, broke in a week",2026-08-15
+2895,153,269,4,"Good value, happy with it",2026-08-15
+2896,2354,196,5,"Excellent product, fast delivery",2026-08-15
+2897,1478,42,3,"Average, does the job",2026-08-15
+2898,3355,281,1,"Terrible, broke in a week",2026-08-15
+2899,1830,233,2,Poor quality for the price,2026-08-15
+2900,2186,208,5,"Excellent product, fast delivery",2026-08-15
+2901,1891,395,4,"Good value, happy with it",2026-08-15
+2902,2949,219,3,"Average, does the job",2026-08-15
+2903,3314,180,3,"Average, does the job",2026-08-15
+2904,1800,59,4,"Good value, happy with it",2026-08-15
+2905,268,258,4,"Good value, happy with it",2026-08-15
+2906,1200,357,1,"Terrible, broke in a week",2026-08-15
+2907,674,42,5,"Excellent product, fast delivery",2026-08-15
+2908,846,127,3,"Average, does the job",2026-08-15
+2909,1213,43,5,"Excellent product, fast delivery",2026-08-15
+2910,2108,394,1,"Terrible, broke in a week",2026-08-15
+2911,875,328,5,"Excellent product, fast delivery",2026-08-15
+2912,2864,65,1,"Terrible, broke in a week",2026-08-15
+2913,510,173,5,"Excellent product, fast delivery",2026-08-15
+2914,1138,392,4,"Good value, happy with it",2026-08-15
+2915,3401,293,4,"Good value, happy with it",2026-08-15
+2916,2545,333,4,"Good value, happy with it",2026-08-15
+2917,1141,290,2,Poor quality for the price,2026-08-15
+2918,3838,141,4,"Good value, happy with it",2026-08-15
+2919,1804,328,5,"Excellent product, fast delivery",2026-08-15
+2920,266,111,4,"Good value, happy with it",2026-08-15
+2921,1680,40,5,"Excellent product, fast delivery",2026-08-15
+2922,457,374,1,"Terrible, broke in a week",2026-08-15
+2923,1369,394,1,"Terrible, broke in a week",2026-08-15
+2924,1175,334,5,"Excellent product, fast delivery",2026-08-15
+2925,813,201,1,"Terrible, broke in a week",2026-08-15
+2926,1311,70,4,"Good value, happy with it",2026-08-15
+2927,1050,96,3,"Average, does the job",2026-08-15
+2928,980,72,2,Poor quality for the price,2026-08-15
+2929,2345,320,4,"Good value, happy with it",2026-08-15
+2930,3318,184,4,"Good value, happy with it",2026-08-15
+2931,1586,380,5,"Excellent product, fast delivery",2026-08-15
+2932,3639,83,2,Poor quality for the price,2026-08-15
+2933,2513,248,4,"Good value, happy with it",2026-08-15
+2934,3370,15,4,"Good value, happy with it",2026-08-15
+2935,2041,400,5,"Excellent product, fast delivery",2026-08-15
+2936,3558,81,4,"Good value, happy with it",2026-08-15
+2937,1121,249,3,"Average, does the job",2026-08-15
+2938,790,218,4,"Good value, happy with it",2026-08-15
+2939,1358,158,3,"Average, does the job",2026-08-15
+2940,2347,27,5,"Excellent product, fast delivery",2026-08-15
+2941,72,396,5,"Excellent product, fast delivery",2026-08-15
+2942,2287,98,4,"Good value, happy with it",2026-08-15
+2943,368,17,1,"Terrible, broke in a week",2026-08-15
+2944,3704,64,1,"Terrible, broke in a week",2026-08-15
+2945,668,229,5,"Excellent product, fast delivery",2026-08-15
+2946,870,218,1,"Terrible, broke in a week",2026-08-15
+2947,2813,33,3,"Average, does the job",2026-08-15
+2948,2050,156,5,"Excellent product, fast delivery",2026-08-15
+2949,267,318,3,"Average, does the job",2026-08-15
+2950,3919,101,5,"Excellent product, fast delivery",2026-08-15
+2951,33,395,4,"Good value, happy with it",2026-08-15
+2952,3851,8,5,"Excellent product, fast delivery",2026-08-15
+2953,1554,227,4,"Good value, happy with it",2026-08-15
+2954,2775,123,5,"Excellent product, fast delivery",2026-08-15
+2955,27,4,5,"Excellent product, fast delivery",2026-08-15
+2956,2616,256,5,"Excellent product, fast delivery",2026-08-15
+2957,144,11,5,"Excellent product, fast delivery",2026-08-15
+2958,2750,143,3,"Average, does the job",2026-08-15
+2959,2739,127,4,"Good value, happy with it",2026-08-15
+2960,1586,240,5,"Excellent product, fast delivery",2026-08-15
+2961,3087,378,4,"Good value, happy with it",2026-08-15
+2962,1851,52,2,Poor quality for the price,2026-08-15
+2963,2613,280,4,"Good value, happy with it",2026-08-15
+2964,3147,43,5,"Excellent product, fast delivery",2026-08-15
+2965,1319,176,4,"Good value, happy with it",2026-08-15
+2966,329,264,4,"Good value, happy with it",2026-08-15
+2967,3371,82,3,"Average, does the job",2026-08-15
+2968,871,94,5,"Excellent product, fast delivery",2026-08-15
+2969,1875,38,5,"Excellent product, fast delivery",2026-08-15
+2970,3155,281,5,"Excellent product, fast delivery",2026-08-15
+2971,1284,79,5,"Excellent product, fast delivery",2026-08-15
+2972,302,121,3,"Average, does the job",2026-08-15
+2973,789,152,5,"Excellent product, fast delivery",2026-08-15
+2974,1321,67,5,"Excellent product, fast delivery",2026-08-15
+2975,2407,338,5,"Excellent product, fast delivery",2026-08-15
+2976,114,37,5,"Excellent product, fast delivery",2026-08-15
+2977,808,13,4,"Good value, happy with it",2026-08-15
+2978,3228,307,5,"Excellent product, fast delivery",2026-08-15
+2979,3697,105,4,"Good value, happy with it",2026-08-15
+2980,3198,244,1,"Terrible, broke in a week",2026-08-15
+2981,2154,268,3,"Average, does the job",2026-08-15
+2982,113,131,5,"Excellent product, fast delivery",2026-08-15
+2983,1920,132,1,"Terrible, broke in a week",2026-08-15
+2984,2663,35,2,Poor quality for the price,2026-08-15
+2985,3013,259,4,"Good value, happy with it",2026-08-15
+2986,2473,92,4,"Good value, happy with it",2026-08-15
+2987,1066,338,4,"Good value, happy with it",2026-08-15
+2988,1628,3,5,"Excellent product, fast delivery",2026-08-15
+2989,2630,117,2,Poor quality for the price,2026-08-15
+2990,2903,347,5,"Excellent product, fast delivery",2026-08-15
+2991,2423,5,4,"Good value, happy with it",2026-08-15
+2992,2384,204,5,"Excellent product, fast delivery",2026-08-15
+2993,3034,103,5,"Excellent product, fast delivery",2026-08-15
+2994,1979,214,5,"Excellent product, fast delivery",2026-08-15
+2995,2651,293,5,"Excellent product, fast delivery",2026-08-15
+2996,2159,106,5,"Excellent product, fast delivery",2026-08-15
+2997,3119,267,4,"Good value, happy with it",2026-08-15
+2998,2293,359,3,"Average, does the job",2026-08-15
+2999,550,382,4,"Good value, happy with it",2026-08-15
+3000,2636,46,5,"Excellent product, fast delivery",2026-08-15

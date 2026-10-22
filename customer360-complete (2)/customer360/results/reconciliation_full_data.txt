@@ -1,0 +1,9 @@
+PASS  I1 raw == ok + malformed                                3602945 vs 3602945
+PASS  I2 ok == clean + dups                                   3566795 vs 3566795
+PASS  I2b dups removed + malformed-dups == dups injected      17702 vs 17702
+PASS  I6 generated == raw lines                               3602945 vs 3602945
+PASS  I3 purchase events matched to orders                    133171 vs 133171
+PASS  I3b purchase events lost (1360) <= malformed lines (36150) 1360 vs <= 36150
+PASS  I4 order totals == sum(items) (mismatches)              0 vs 0
+PASS  I5 gold customers == source                             200000 vs 200000
+PASS  I5 gold LTV == orders                                   191259577.9 vs 191259577.9

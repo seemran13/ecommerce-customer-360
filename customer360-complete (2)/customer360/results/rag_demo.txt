@@ -1,0 +1,5 @@
+Top themes: {'refund': 5}; sentiment mix: {'negative': 5}.
+Evidence:
+- [T0056832] I returned the item from order 117877 5 days ago but the refund has not been credited.
+- [T0119907] I returned the item from order 224205 5 days ago but the refund has not been credited.
+- [T0013283] I returned the item from order 147591 5 days ago but the refund has not been credited.

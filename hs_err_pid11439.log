@@ -1,0 +1,24 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGBUS (0x7) at pc=0x00007d1771c833ed, pid=11439, tid=11822
+#
+# JRE version: OpenJDK Runtime Environment (11.0.32.1+1) (build 11.0.32.1+1-post-1ubuntu1-24.04-Ubuntu)
+# Java VM: OpenJDK 64-Bit Server VM (11.0.32.1+1-post-1ubuntu1-24.04-Ubuntu, mixed mode, sharing, tiered, compressed oops, g1 gc, linux-amd64)
+# Problematic frame:
+# C  [libc.so.6+0x833ed]
+#
+# No core dump will be written. 
+#
+# If you would like to submit a bug report, please visit:
+#   https://bugs.launchpad.net/ubuntu/+source/openjdk-lts
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -Xmx2g -Dfile.encoding=UTF-8 -XX:+IgnoreUnrecognizedVMOptions 
+[error occurred during error reporting (printing VM option summary), id 0x7, SIGBUS (0x7) at pc=0x00007d1771d8badd]
+
+Host: 12th Gen Intel(R) Core(TM) i7-12650H, 16 cores, 7G, 

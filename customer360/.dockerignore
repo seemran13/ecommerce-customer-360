@@ -1,0 +1,15 @@
+.git
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+data/
+data_small/
+data_small_run_*/
+data_full_run_*/
+output/
+logs/
+checkpoints/
+*.log
+
+data_small_final_*/

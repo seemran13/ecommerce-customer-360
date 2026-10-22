@@ -1,0 +1,8 @@
+{
+  "raw_lines": 3602945,
+  "parsed_ok": 3566795,
+  "malformed": 36150,
+  "duplicates_removed": 17702,
+  "clean_rows": 3549093,
+  "seconds": 32.7
+}

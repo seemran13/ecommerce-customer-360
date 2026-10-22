@@ -1,0 +1,84 @@
+{
+  "run": "bash run_local.sh 0.02",
+  "status": "PASS",
+  "run_data_directory": "/tmp/c360_release_acceptance_20261020_final (ephemeral validation output; excluded from archive)",
+  "generated": {
+    "customers": 4000,
+    "products": 400,
+    "sessions": 14000,
+    "events_written_including_malformed_injection": 72018,
+    "malformed_injected": 713,
+    "duplicates_injected": 307,
+    "orders": 10417,
+    "order_items": 23974,
+    "tickets": 2400,
+    "reviews": 3000
+  },
+  "cleanse": {
+    "raw_lines": 72018,
+    "parsed_ok": 71305,
+    "malformed": 713,
+    "duplicates_removed": 307,
+    "clean_rows": 70998
+  },
+  "reconciliation": {
+    "checks_passed": 9,
+    "checks_total": 9
+  },
+  "propensity": {
+    "auc": 0.8316,
+    "f1": 0.7176,
+    "auc_target": 0.75,
+    "f1_target": 0.65,
+    "both_targets_passed": true
+  },
+  "rag": {
+    "precision_at_5": 1.0,
+    "hits": 35,
+    "total": 35,
+    "evaluation_type": "template-derived synthetic ticket questions; not independent human relevance evaluation"
+  },
+  "dashboard": {
+    "status": "PASS",
+    "file": "<run-data>/bi/dashboard.html",
+    "type": "self-contained offline HTML companion to Power BI CSV extracts; no .pbix is bundled"
+  },
+  "automated_tests": {
+    "passed": 24,
+    "failed": 0,
+    "skipped": 0,
+    "command": "C360_DATA=<generated-run-dir> python -m pytest -q tests"
+  },
+  "local_abandonment_timing_model": {
+    "p95_delay_without_replay_aware_ticks_seconds": 3450.0,
+    "share_over_60s_without_ticks": 0.6591,
+    "modeled_delay_with_replay_aware_ticks": "10-15 seconds",
+    "sla_60s_p95_without_ticks": false,
+    "sla_60s_with_ticks": true,
+    "note": "Local synthetic timing simulation only; not the live production SLA measurement."
+  },
+  "limitations": [
+    "A full scale=1.0 rerun did not finish within the available five-minute validation window; it is not marked as a pass. Historical full-scale reference metrics remain in results/.",
+    "The latest user-host run of infra/verify_live_integration.ps1 before the final package passed Kafka alert and HBase upsert, but the displayed output did not include PASS_ALERT_SLA. Rerun infra/verify_project.ps1 with this package to capture the stricter post-threshold SLA marker and HBase lookup p99.",
+    "Checkpoint restart drill and broker-kill drill have not been executed during this verification; run only during an acceptable test window.",
+    "AWS S3/Glue/Athena, a Databricks workspace, Hive/Sqoop/HDFS, Airflow DAG execution, and a Power BI .pbix deployment require the target services/workspace/credentials and are not claimed as deployed.",
+    "Recovery rate >=18% and LTV uplift >=12% require controlled business/A-B evidence and are not measured by synthetic test data."
+  ],
+  "validation_date": "2026-10-20",
+  "live_canary": {
+    "status": "PASS_ALERT_AND_HBASE_WRITE_ON_USER_HOST; STRICTER_SLA_MARKER_PENDING",
+    "evidence": [
+      "PASS_KAFKA_ALERT",
+      "PASS_HBASE_WRITE",
+      "PASS_LIVE_KAFKA_SPARK_HBASE_INTEGRATION"
+    ],
+    "post_threshold_sla_marker": "PENDING_FINAL_PACKAGE_RERUN"
+  },
+  "streaming_defaults": {
+    "master": "local[2]",
+    "driver_memory": "768m",
+    "shuffle_partitions": 4,
+    "max_offsets_per_trigger": 3000
+  },
+  "current_test_environment": "Offline validation workspace; it cannot directly operate the user's Docker Desktop engine."
+}

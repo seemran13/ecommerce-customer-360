@@ -1,0 +1,6 @@
+kafka-python==2.0.2
+websocket-client==1.8.0
+happybase==1.2.0
+pandas
+numpy
+scikit-learn

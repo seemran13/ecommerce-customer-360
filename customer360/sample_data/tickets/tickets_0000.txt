@@ -1,0 +1,7000 @@
+TICKET_ID: T0000001
+CUSTOMER_ID: 3945
+DATE: 2026-08-23 14:06:36
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000799 12 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000002
+CUSTOMER_ID: 1155
+DATE: 2026-09-05 15:25:39
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000003
+CUSTOMER_ID: 3948
+DATE: 2026-09-04 05:34:23
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 7681 has not arrived yet and the tracking has been stuck for 2 days. Please help.
+---
+TICKET_ID: T0000004
+CUSTOMER_ID: 880
+DATE: 2026-09-10 18:42:18
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7708. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000005
+CUSTOMER_ID: 3219
+DATE: 2026-07-10 22:33:15
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6070. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000006
+CUSTOMER_ID: 876
+DATE: 2026-07-24 07:01:34
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 4014! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000007
+CUSTOMER_ID: 487
+DATE: 2026-09-25 04:22:30
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5001054 has not arrived yet and the tracking has been stuck for 5 days. Please help.
+---
+TICKET_ID: T0000008
+CUSTOMER_ID: 745
+DATE: 2026-07-22 19:36:00
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001954! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000009
+CUSTOMER_ID: 1279
+DATE: 2026-09-07 21:15:18
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4222 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000010
+CUSTOMER_ID: 261
+DATE: 2026-07-28 10:29:53
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3624 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000011
+CUSTOMER_ID: 2320
+DATE: 2026-07-28 10:50:00
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000012
+CUSTOMER_ID: 2112
+DATE: 2026-09-19 11:50:14
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1038 10 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000013
+CUSTOMER_ID: 1933
+DATE: 2026-08-20 08:28:33
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5523 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000014
+CUSTOMER_ID: 250
+DATE: 2026-07-22 16:51:43
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000015
+CUSTOMER_ID: 2715
+DATE: 2026-08-13 14:43:39
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000016
+CUSTOMER_ID: 3532
+DATE: 2026-09-24 10:25:34
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5280? I paid via UPI.
+---
+TICKET_ID: T0000017
+CUSTOMER_ID: 2326
+DATE: 2026-08-06 02:42:28
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000018
+CUSTOMER_ID: 533
+DATE: 2026-07-07 22:01:54
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000019
+CUSTOMER_ID: 3115
+DATE: 2026-07-21 13:10:11
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1688 4 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000020
+CUSTOMER_ID: 3460
+DATE: 2026-07-26 03:44:13
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000021
+CUSTOMER_ID: 240
+DATE: 2026-09-23 04:19:52
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 4295! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000022
+CUSTOMER_ID: 3883
+DATE: 2026-07-16 10:27:39
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 714! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000023
+CUSTOMER_ID: 1662
+DATE: 2026-07-14 03:43:47
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 6470 has not arrived yet and the tracking has been stuck for 5 days. Please help.
+---
+TICKET_ID: T0000024
+CUSTOMER_ID: 2347
+DATE: 2026-07-23 22:18:55
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 2395 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000025
+CUSTOMER_ID: 2106
+DATE: 2026-09-04 11:38:01
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 3384 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000026
+CUSTOMER_ID: 2862
+DATE: 2026-08-26 08:07:39
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000556 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000027
+CUSTOMER_ID: 3925
+DATE: 2026-09-02 01:56:02
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5167 has not arrived yet and the tracking has been stuck for 5 days. Please help.
+---
+TICKET_ID: T0000028
+CUSTOMER_ID: 84
+DATE: 2026-09-12 11:31:57
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7357. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000029
+CUSTOMER_ID: 422
+DATE: 2026-07-05 20:04:03
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 4762 has not arrived yet and the tracking has been stuck for 6 days. Please help.
+---
+TICKET_ID: T0000030
+CUSTOMER_ID: 3454
+DATE: 2026-07-04 17:47:37
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 6483 stopped working after 9 days. It looks defective.
+---
+TICKET_ID: T0000031
+CUSTOMER_ID: 1999
+DATE: 2026-09-26 00:15:16
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4407 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000032
+CUSTOMER_ID: 2123
+DATE: 2026-09-21 17:30:29
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000033
+CUSTOMER_ID: 308
+DATE: 2026-08-03 08:26:26
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001957! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000034
+CUSTOMER_ID: 591
+DATE: 2026-08-09 15:21:36
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3021? I paid via UPI.
+---
+TICKET_ID: T0000035
+CUSTOMER_ID: 1166
+DATE: 2026-09-03 06:48:52
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 2018? I paid via UPI.
+---
+TICKET_ID: T0000036
+CUSTOMER_ID: 3588
+DATE: 2026-07-21 04:43:32
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 2717? I paid via UPI.
+---
+TICKET_ID: T0000037
+CUSTOMER_ID: 409
+DATE: 2026-09-16 10:23:13
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3649 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000038
+CUSTOMER_ID: 3628
+DATE: 2026-09-10 02:35:22
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 697 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000039
+CUSTOMER_ID: 580
+DATE: 2026-08-15 21:58:49
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 1130 has not arrived yet and the tracking has been stuck for 9 days. Please help.
+---
+TICKET_ID: T0000040
+CUSTOMER_ID: 1774
+DATE: 2026-08-03 07:46:09
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001651 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000041
+CUSTOMER_ID: 1247
+DATE: 2026-08-10 18:54:52
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000042
+CUSTOMER_ID: 645
+DATE: 2026-09-13 01:04:39
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5001117 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000043
+CUSTOMER_ID: 1286
+DATE: 2026-08-08 14:24:00
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4086 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000044
+CUSTOMER_ID: 275
+DATE: 2026-08-04 05:09:47
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000045
+CUSTOMER_ID: 333
+DATE: 2026-09-10 18:21:48
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 737 has not arrived yet and the tracking has been stuck for 9 days. Please help.
+---
+TICKET_ID: T0000046
+CUSTOMER_ID: 2093
+DATE: 2026-08-25 20:05:19
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001854 7 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000047
+CUSTOMER_ID: 2150
+DATE: 2026-07-13 03:44:37
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 6114 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000048
+CUSTOMER_ID: 2710
+DATE: 2026-07-21 16:34:00
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000049
+CUSTOMER_ID: 1321
+DATE: 2026-08-29 00:55:26
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5001959 has not arrived yet and the tracking has been stuck for 3 days. Please help.
+---
+TICKET_ID: T0000050
+CUSTOMER_ID: 3324
+DATE: 2026-09-13 15:25:52
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5002322 3 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000051
+CUSTOMER_ID: 3314
+DATE: 2026-09-11 22:31:46
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 2554! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000052
+CUSTOMER_ID: 163
+DATE: 2026-09-02 14:06:46
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6355. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000053
+CUSTOMER_ID: 385
+DATE: 2026-08-16 02:54:16
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000826 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000054
+CUSTOMER_ID: 25
+DATE: 2026-08-22 02:26:35
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000055
+CUSTOMER_ID: 14
+DATE: 2026-07-18 20:57:28
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 2269 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000056
+CUSTOMER_ID: 1686
+DATE: 2026-07-19 22:10:23
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5000806? I paid via UPI.
+---
+TICKET_ID: T0000057
+CUSTOMER_ID: 1409
+DATE: 2026-09-06 04:14:24
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000058
+CUSTOMER_ID: 2037
+DATE: 2026-07-09 17:33:34
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 1495? I paid via UPI.
+---
+TICKET_ID: T0000059
+CUSTOMER_ID: 2974
+DATE: 2026-09-13 10:47:29
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000060
+CUSTOMER_ID: 2129
+DATE: 2026-08-24 19:30:54
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000061
+CUSTOMER_ID: 1595
+DATE: 2026-07-30 23:00:25
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 1263 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000062
+CUSTOMER_ID: 3793
+DATE: 2026-07-13 04:32:03
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4564 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000063
+CUSTOMER_ID: 849
+DATE: 2026-07-31 23:07:27
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000064
+CUSTOMER_ID: 20
+DATE: 2026-08-30 10:20:42
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 784 stopped working after 5 days. It looks defective.
+---
+TICKET_ID: T0000065
+CUSTOMER_ID: 2687
+DATE: 2026-08-16 12:56:41
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 7535 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000066
+CUSTOMER_ID: 808
+DATE: 2026-07-17 10:10:06
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 3075 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000067
+CUSTOMER_ID: 722
+DATE: 2026-07-18 22:56:53
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001349 4 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000068
+CUSTOMER_ID: 1129
+DATE: 2026-07-18 09:06:28
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5002184! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000069
+CUSTOMER_ID: 785
+DATE: 2026-07-22 18:24:48
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000070
+CUSTOMER_ID: 3434
+DATE: 2026-07-05 16:20:28
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000071
+CUSTOMER_ID: 235
+DATE: 2026-09-18 23:30:38
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000072
+CUSTOMER_ID: 2021
+DATE: 2026-07-14 21:39:53
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 159 stopped working after 12 days. It looks defective.
+---
+TICKET_ID: T0000073
+CUSTOMER_ID: 696
+DATE: 2026-08-04 17:04:34
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 771 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000074
+CUSTOMER_ID: 1590
+DATE: 2026-07-26 01:18:23
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000075
+CUSTOMER_ID: 362
+DATE: 2026-09-25 20:45:46
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 3087. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000076
+CUSTOMER_ID: 397
+DATE: 2026-07-24 15:39:20
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000077
+CUSTOMER_ID: 1537
+DATE: 2026-07-24 10:02:05
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 4799 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000078
+CUSTOMER_ID: 391
+DATE: 2026-07-10 00:36:42
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000079
+CUSTOMER_ID: 3533
+DATE: 2026-07-24 02:14:51
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5909 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000080
+CUSTOMER_ID: 3597
+DATE: 2026-09-03 20:49:05
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 7634 has not arrived yet and the tracking has been stuck for 8 days. Please help.
+---
+TICKET_ID: T0000081
+CUSTOMER_ID: 3954
+DATE: 2026-08-26 08:54:23
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000082
+CUSTOMER_ID: 1118
+DATE: 2026-08-10 03:24:55
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6261. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000083
+CUSTOMER_ID: 2262
+DATE: 2026-09-11 17:31:23
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1262 7 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000084
+CUSTOMER_ID: 3372
+DATE: 2026-07-01 23:58:51
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1231 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000085
+CUSTOMER_ID: 948
+DATE: 2026-09-27 17:32:14
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4312 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000086
+CUSTOMER_ID: 3445
+DATE: 2026-07-29 07:21:46
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 2116 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000087
+CUSTOMER_ID: 2531
+DATE: 2026-08-12 18:49:31
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000088
+CUSTOMER_ID: 904
+DATE: 2026-07-12 08:17:16
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 3454. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000089
+CUSTOMER_ID: 3106
+DATE: 2026-08-08 12:26:12
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 7215! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000090
+CUSTOMER_ID: 102
+DATE: 2026-09-22 12:39:36
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 2032 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000091
+CUSTOMER_ID: 74
+DATE: 2026-08-24 15:46:05
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1856 4 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000092
+CUSTOMER_ID: 52
+DATE: 2026-07-03 23:33:32
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 7114 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000093
+CUSTOMER_ID: 820
+DATE: 2026-09-05 05:37:04
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 4350? I paid via UPI.
+---
+TICKET_ID: T0000094
+CUSTOMER_ID: 1579
+DATE: 2026-08-25 01:20:29
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000095
+CUSTOMER_ID: 1253
+DATE: 2026-09-20 20:39:33
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4661 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000096
+CUSTOMER_ID: 257
+DATE: 2026-08-23 18:50:13
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000097
+CUSTOMER_ID: 992
+DATE: 2026-07-14 20:13:13
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 2802? I paid via UPI.
+---
+TICKET_ID: T0000098
+CUSTOMER_ID: 1289
+DATE: 2026-08-27 16:31:39
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5001254? I paid via UPI.
+---
+TICKET_ID: T0000099
+CUSTOMER_ID: 2274
+DATE: 2026-08-13 18:42:11
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 1574 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000100
+CUSTOMER_ID: 3113
+DATE: 2026-08-16 19:34:08
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000101
+CUSTOMER_ID: 2798
+DATE: 2026-08-22 21:23:58
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4847. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000102
+CUSTOMER_ID: 94
+DATE: 2026-08-26 07:35:56
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 1907 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000103
+CUSTOMER_ID: 3736
+DATE: 2026-09-23 15:15:25
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5001825 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000104
+CUSTOMER_ID: 1365
+DATE: 2026-08-19 11:58:08
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000105
+CUSTOMER_ID: 775
+DATE: 2026-07-11 15:34:39
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000106
+CUSTOMER_ID: 1135
+DATE: 2026-09-13 20:06:51
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 445 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000107
+CUSTOMER_ID: 533
+DATE: 2026-08-24 06:54:44
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3162? I paid via UPI.
+---
+TICKET_ID: T0000108
+CUSTOMER_ID: 2710
+DATE: 2026-08-30 14:29:42
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 3973 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000109
+CUSTOMER_ID: 2508
+DATE: 2026-07-25 17:18:17
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5678 stopped working after 7 days. It looks defective.
+---
+TICKET_ID: T0000110
+CUSTOMER_ID: 3233
+DATE: 2026-08-03 00:18:27
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 64 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000111
+CUSTOMER_ID: 822
+DATE: 2026-08-02 01:38:20
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5001501 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000112
+CUSTOMER_ID: 2883
+DATE: 2026-07-08 12:54:59
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5000516. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000113
+CUSTOMER_ID: 2994
+DATE: 2026-09-27 22:59:12
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000114
+CUSTOMER_ID: 796
+DATE: 2026-08-13 04:08:02
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000115
+CUSTOMER_ID: 1174
+DATE: 2026-08-02 08:17:59
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 947. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000116
+CUSTOMER_ID: 3414
+DATE: 2026-08-17 02:50:32
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000117
+CUSTOMER_ID: 3093
+DATE: 2026-09-28 10:42:06
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000118
+CUSTOMER_ID: 9
+DATE: 2026-08-15 12:13:38
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000119
+CUSTOMER_ID: 2917
+DATE: 2026-07-12 08:40:55
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 1288. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000120
+CUSTOMER_ID: 2566
+DATE: 2026-09-10 00:39:26
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 7511 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000121
+CUSTOMER_ID: 815
+DATE: 2026-07-03 05:31:33
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 1528? I paid via UPI.
+---
+TICKET_ID: T0000122
+CUSTOMER_ID: 1173
+DATE: 2026-08-04 15:25:56
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000306 3 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000123
+CUSTOMER_ID: 250
+DATE: 2026-08-11 16:22:45
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 2492 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000124
+CUSTOMER_ID: 1826
+DATE: 2026-08-10 07:18:50
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 4429 5 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000125
+CUSTOMER_ID: 1961
+DATE: 2026-08-15 19:01:14
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000126
+CUSTOMER_ID: 109
+DATE: 2026-09-20 11:50:37
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000127
+CUSTOMER_ID: 1233
+DATE: 2026-08-29 13:18:15
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000128
+CUSTOMER_ID: 2537
+DATE: 2026-07-17 00:02:42
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000129
+CUSTOMER_ID: 342
+DATE: 2026-08-16 06:18:51
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 3582! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000130
+CUSTOMER_ID: 153
+DATE: 2026-08-26 16:19:02
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5002081 12 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000131
+CUSTOMER_ID: 1076
+DATE: 2026-08-29 20:14:06
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000132
+CUSTOMER_ID: 2676
+DATE: 2026-09-18 13:09:35
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000133
+CUSTOMER_ID: 1599
+DATE: 2026-07-26 13:13:38
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000134
+CUSTOMER_ID: 3684
+DATE: 2026-07-17 07:12:21
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3318? I paid via UPI.
+---
+TICKET_ID: T0000135
+CUSTOMER_ID: 3035
+DATE: 2026-08-13 21:09:00
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5001421? I paid via UPI.
+---
+TICKET_ID: T0000136
+CUSTOMER_ID: 1823
+DATE: 2026-07-12 12:42:26
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000137
+CUSTOMER_ID: 1831
+DATE: 2026-07-10 15:23:05
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5001039 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000138
+CUSTOMER_ID: 1735
+DATE: 2026-08-25 16:12:17
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1153 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000139
+CUSTOMER_ID: 3882
+DATE: 2026-07-12 07:29:07
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001245! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000140
+CUSTOMER_ID: 728
+DATE: 2026-07-02 14:56:35
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5985 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000141
+CUSTOMER_ID: 2648
+DATE: 2026-08-18 08:22:25
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000142
+CUSTOMER_ID: 3541
+DATE: 2026-09-03 08:32:49
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5000315! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000143
+CUSTOMER_ID: 376
+DATE: 2026-08-30 08:44:44
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000144
+CUSTOMER_ID: 2798
+DATE: 2026-09-29 13:05:49
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000145
+CUSTOMER_ID: 708
+DATE: 2026-08-21 05:51:27
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000146
+CUSTOMER_ID: 2949
+DATE: 2026-09-07 05:10:17
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000147
+CUSTOMER_ID: 1317
+DATE: 2026-08-12 08:38:34
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000148
+CUSTOMER_ID: 1355
+DATE: 2026-08-30 19:06:53
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4314. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000149
+CUSTOMER_ID: 1509
+DATE: 2026-08-11 19:48:33
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 4526 8 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000150
+CUSTOMER_ID: 3357
+DATE: 2026-09-28 20:46:59
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6012. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000151
+CUSTOMER_ID: 1235
+DATE: 2026-08-13 12:03:25
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000152
+CUSTOMER_ID: 3126
+DATE: 2026-07-26 12:18:57
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 2677! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000153
+CUSTOMER_ID: 1612
+DATE: 2026-07-16 14:29:26
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000154
+CUSTOMER_ID: 3479
+DATE: 2026-07-10 23:48:30
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1860! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000155
+CUSTOMER_ID: 956
+DATE: 2026-07-04 09:12:39
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5002330 stopped working after 6 days. It looks defective.
+---
+TICKET_ID: T0000156
+CUSTOMER_ID: 1102
+DATE: 2026-07-21 04:23:31
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000157
+CUSTOMER_ID: 3637
+DATE: 2026-09-26 07:17:42
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 2794 3 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000158
+CUSTOMER_ID: 2670
+DATE: 2026-07-17 11:04:16
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 255! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000159
+CUSTOMER_ID: 3167
+DATE: 2026-09-26 21:38:26
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000160
+CUSTOMER_ID: 1610
+DATE: 2026-07-20 03:35:21
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000161
+CUSTOMER_ID: 1349
+DATE: 2026-09-15 12:12:50
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5948? I paid via UPI.
+---
+TICKET_ID: T0000162
+CUSTOMER_ID: 2247
+DATE: 2026-08-05 01:51:13
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 4522 has not arrived yet and the tracking has been stuck for 3 days. Please help.
+---
+TICKET_ID: T0000163
+CUSTOMER_ID: 3029
+DATE: 2026-09-11 21:09:21
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000164
+CUSTOMER_ID: 76
+DATE: 2026-07-21 09:25:27
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 980 5 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000165
+CUSTOMER_ID: 731
+DATE: 2026-09-01 03:34:00
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5000184! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000166
+CUSTOMER_ID: 1879
+DATE: 2026-08-25 14:13:27
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 3102 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000167
+CUSTOMER_ID: 2864
+DATE: 2026-09-25 09:22:53
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3406? I paid via UPI.
+---
+TICKET_ID: T0000168
+CUSTOMER_ID: 1471
+DATE: 2026-07-29 01:09:58
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000169
+CUSTOMER_ID: 2671
+DATE: 2026-08-07 00:39:34
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001534! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000170
+CUSTOMER_ID: 1658
+DATE: 2026-08-10 18:11:58
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000171
+CUSTOMER_ID: 1790
+DATE: 2026-07-21 01:14:16
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5002053 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000172
+CUSTOMER_ID: 3253
+DATE: 2026-09-21 01:32:11
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000829 12 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000173
+CUSTOMER_ID: 3859
+DATE: 2026-09-20 20:58:26
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000174
+CUSTOMER_ID: 2336
+DATE: 2026-07-16 16:47:30
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5002279! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000175
+CUSTOMER_ID: 86
+DATE: 2026-07-21 02:16:02
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3349 7 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000176
+CUSTOMER_ID: 1682
+DATE: 2026-08-30 23:55:50
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3336? I paid via UPI.
+---
+TICKET_ID: T0000177
+CUSTOMER_ID: 3295
+DATE: 2026-08-12 06:00:55
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3266 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000178
+CUSTOMER_ID: 255
+DATE: 2026-08-17 03:29:30
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000179
+CUSTOMER_ID: 3833
+DATE: 2026-08-21 14:53:43
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000180
+CUSTOMER_ID: 1014
+DATE: 2026-07-11 06:15:21
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 6045 11 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000181
+CUSTOMER_ID: 1582
+DATE: 2026-09-01 03:34:20
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6140 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000182
+CUSTOMER_ID: 3774
+DATE: 2026-08-18 06:48:09
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4136. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000183
+CUSTOMER_ID: 57
+DATE: 2026-08-05 20:33:34
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 3145! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000184
+CUSTOMER_ID: 3845
+DATE: 2026-08-15 05:01:38
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000185
+CUSTOMER_ID: 212
+DATE: 2026-09-26 01:49:05
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 7059 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000186
+CUSTOMER_ID: 861
+DATE: 2026-07-26 18:28:28
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 1651 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000187
+CUSTOMER_ID: 1827
+DATE: 2026-07-22 22:25:49
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5000539? I paid via UPI.
+---
+TICKET_ID: T0000188
+CUSTOMER_ID: 3650
+DATE: 2026-09-16 17:30:24
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5000283! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000189
+CUSTOMER_ID: 590
+DATE: 2026-09-06 07:49:24
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5000505. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000190
+CUSTOMER_ID: 1829
+DATE: 2026-09-03 11:36:01
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001460! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000191
+CUSTOMER_ID: 1731
+DATE: 2026-09-02 11:55:54
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000192
+CUSTOMER_ID: 2780
+DATE: 2026-08-09 23:35:23
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5332 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000193
+CUSTOMER_ID: 1519
+DATE: 2026-07-28 16:51:32
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 1453 stopped working after 7 days. It looks defective.
+---
+TICKET_ID: T0000194
+CUSTOMER_ID: 1445
+DATE: 2026-08-28 09:51:22
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1048 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000195
+CUSTOMER_ID: 2613
+DATE: 2026-07-10 14:18:59
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3324 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000196
+CUSTOMER_ID: 2524
+DATE: 2026-07-26 05:04:37
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 7311 has not arrived yet and the tracking has been stuck for 11 days. Please help.
+---
+TICKET_ID: T0000197
+CUSTOMER_ID: 1735
+DATE: 2026-07-23 13:59:15
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000198
+CUSTOMER_ID: 825
+DATE: 2026-08-16 04:15:00
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5001393 stopped working after 7 days. It looks defective.
+---
+TICKET_ID: T0000199
+CUSTOMER_ID: 2303
+DATE: 2026-09-29 22:55:58
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 6233 has not arrived yet and the tracking has been stuck for 2 days. Please help.
+---
+TICKET_ID: T0000200
+CUSTOMER_ID: 2143
+DATE: 2026-08-13 19:04:22
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5000673? I paid via UPI.
+---
+TICKET_ID: T0000201
+CUSTOMER_ID: 160
+DATE: 2026-09-06 11:09:12
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4762 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000202
+CUSTOMER_ID: 3246
+DATE: 2026-09-30 21:31:00
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000203
+CUSTOMER_ID: 1241
+DATE: 2026-07-08 02:07:22
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000204
+CUSTOMER_ID: 3865
+DATE: 2026-08-16 10:22:45
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 2765 8 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000205
+CUSTOMER_ID: 76
+DATE: 2026-09-06 10:29:58
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 3295. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000206
+CUSTOMER_ID: 2802
+DATE: 2026-07-25 23:17:27
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000207
+CUSTOMER_ID: 3786
+DATE: 2026-09-05 22:56:05
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5002343 has not arrived yet and the tracking has been stuck for 12 days. Please help.
+---
+TICKET_ID: T0000208
+CUSTOMER_ID: 1773
+DATE: 2026-07-15 04:22:12
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000623 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000209
+CUSTOMER_ID: 756
+DATE: 2026-08-22 23:00:37
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000210
+CUSTOMER_ID: 726
+DATE: 2026-07-24 17:46:19
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000211
+CUSTOMER_ID: 704
+DATE: 2026-07-27 01:33:28
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000212
+CUSTOMER_ID: 3853
+DATE: 2026-07-28 23:16:18
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000213
+CUSTOMER_ID: 3374
+DATE: 2026-08-11 08:28:23
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000214
+CUSTOMER_ID: 357
+DATE: 2026-07-26 00:53:03
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 1933. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000215
+CUSTOMER_ID: 3184
+DATE: 2026-08-06 17:36:43
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 7150 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000216
+CUSTOMER_ID: 2953
+DATE: 2026-07-16 02:08:23
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001088 6 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000217
+CUSTOMER_ID: 3555
+DATE: 2026-09-12 04:58:05
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 3489 has not arrived yet and the tracking has been stuck for 6 days. Please help.
+---
+TICKET_ID: T0000218
+CUSTOMER_ID: 3299
+DATE: 2026-07-29 00:22:27
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1051! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000219
+CUSTOMER_ID: 2548
+DATE: 2026-09-13 12:24:36
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 7050 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000220
+CUSTOMER_ID: 3697
+DATE: 2026-08-15 15:11:37
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 3122! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000221
+CUSTOMER_ID: 1013
+DATE: 2026-08-16 03:08:18
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000222
+CUSTOMER_ID: 345
+DATE: 2026-09-03 14:45:01
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000223
+CUSTOMER_ID: 3924
+DATE: 2026-07-11 15:50:28
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 3459 has not arrived yet and the tracking has been stuck for 9 days. Please help.
+---
+TICKET_ID: T0000224
+CUSTOMER_ID: 891
+DATE: 2026-07-16 14:05:32
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4641 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000225
+CUSTOMER_ID: 3231
+DATE: 2026-07-31 10:32:46
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000226
+CUSTOMER_ID: 3202
+DATE: 2026-09-15 09:32:56
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5002219 7 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000227
+CUSTOMER_ID: 2442
+DATE: 2026-07-15 19:53:10
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000895 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000228
+CUSTOMER_ID: 3379
+DATE: 2026-09-02 11:35:32
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1482! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000229
+CUSTOMER_ID: 2356
+DATE: 2026-08-25 20:16:06
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3798 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000230
+CUSTOMER_ID: 3745
+DATE: 2026-07-02 14:38:48
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3717 stopped working after 12 days. It looks defective.
+---
+TICKET_ID: T0000231
+CUSTOMER_ID: 7
+DATE: 2026-09-05 11:07:54
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000232
+CUSTOMER_ID: 39
+DATE: 2026-08-29 08:26:53
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000233
+CUSTOMER_ID: 3789
+DATE: 2026-07-21 15:51:40
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000234
+CUSTOMER_ID: 1631
+DATE: 2026-07-06 01:21:54
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7310. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000235
+CUSTOMER_ID: 512
+DATE: 2026-09-20 11:52:05
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000236
+CUSTOMER_ID: 874
+DATE: 2026-08-20 03:25:49
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000237
+CUSTOMER_ID: 2832
+DATE: 2026-07-15 00:58:48
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5001577 stopped working after 12 days. It looks defective.
+---
+TICKET_ID: T0000238
+CUSTOMER_ID: 3936
+DATE: 2026-08-01 17:45:15
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 3175. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000239
+CUSTOMER_ID: 2289
+DATE: 2026-08-27 01:22:45
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000240
+CUSTOMER_ID: 2805
+DATE: 2026-07-07 07:31:20
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5939 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000241
+CUSTOMER_ID: 3023
+DATE: 2026-08-23 13:27:20
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 1815 stopped working after 7 days. It looks defective.
+---
+TICKET_ID: T0000242
+CUSTOMER_ID: 119
+DATE: 2026-08-28 07:15:43
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 1117? I paid via UPI.
+---
+TICKET_ID: T0000243
+CUSTOMER_ID: 3978
+DATE: 2026-09-05 02:29:16
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5001098 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000244
+CUSTOMER_ID: 2955
+DATE: 2026-08-02 00:13:48
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3937? I paid via UPI.
+---
+TICKET_ID: T0000245
+CUSTOMER_ID: 2045
+DATE: 2026-09-17 09:06:27
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5918 has not arrived yet and the tracking has been stuck for 13 days. Please help.
+---
+TICKET_ID: T0000246
+CUSTOMER_ID: 900
+DATE: 2026-09-25 13:06:42
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6113! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000247
+CUSTOMER_ID: 318
+DATE: 2026-08-02 20:15:38
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000248
+CUSTOMER_ID: 2023
+DATE: 2026-07-27 03:02:11
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000249
+CUSTOMER_ID: 1982
+DATE: 2026-09-03 04:07:23
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000250
+CUSTOMER_ID: 1058
+DATE: 2026-08-20 00:46:58
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000251
+CUSTOMER_ID: 3161
+DATE: 2026-08-05 03:41:29
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5000271 has not arrived yet and the tracking has been stuck for 11 days. Please help.
+---
+TICKET_ID: T0000252
+CUSTOMER_ID: 43
+DATE: 2026-08-14 04:46:52
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000253
+CUSTOMER_ID: 1487
+DATE: 2026-07-15 03:12:55
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5001080 has not arrived yet and the tracking has been stuck for 5 days. Please help.
+---
+TICKET_ID: T0000254
+CUSTOMER_ID: 3792
+DATE: 2026-09-14 15:51:32
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000255
+CUSTOMER_ID: 3582
+DATE: 2026-07-28 02:08:12
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5824 3 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000256
+CUSTOMER_ID: 2079
+DATE: 2026-08-15 00:07:25
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5288 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000257
+CUSTOMER_ID: 3199
+DATE: 2026-09-28 19:32:59
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000258
+CUSTOMER_ID: 1109
+DATE: 2026-09-20 14:27:55
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5000816? I paid via UPI.
+---
+TICKET_ID: T0000259
+CUSTOMER_ID: 1753
+DATE: 2026-09-04 07:41:47
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 7965 stopped working after 9 days. It looks defective.
+---
+TICKET_ID: T0000260
+CUSTOMER_ID: 1596
+DATE: 2026-07-14 18:09:33
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000261
+CUSTOMER_ID: 1090
+DATE: 2026-07-30 16:16:57
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4176 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000262
+CUSTOMER_ID: 2344
+DATE: 2026-07-31 14:56:37
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001699 8 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000263
+CUSTOMER_ID: 2387
+DATE: 2026-07-09 08:39:40
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 7686! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000264
+CUSTOMER_ID: 1821
+DATE: 2026-08-03 05:48:59
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000265
+CUSTOMER_ID: 1998
+DATE: 2026-07-03 15:23:52
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6038 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000266
+CUSTOMER_ID: 1935
+DATE: 2026-08-23 00:55:51
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001065 9 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000267
+CUSTOMER_ID: 532
+DATE: 2026-08-02 09:15:37
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5001094 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000268
+CUSTOMER_ID: 1797
+DATE: 2026-09-15 20:50:15
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 940? I paid via UPI.
+---
+TICKET_ID: T0000269
+CUSTOMER_ID: 2174
+DATE: 2026-09-27 15:57:00
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 2484! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000270
+CUSTOMER_ID: 2574
+DATE: 2026-09-08 12:42:29
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 2719? I paid via UPI.
+---
+TICKET_ID: T0000271
+CUSTOMER_ID: 2799
+DATE: 2026-07-06 04:27:40
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 1618 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000272
+CUSTOMER_ID: 482
+DATE: 2026-08-01 07:59:06
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1570 11 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000273
+CUSTOMER_ID: 2178
+DATE: 2026-07-04 09:12:55
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5478 6 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000274
+CUSTOMER_ID: 446
+DATE: 2026-09-21 16:37:48
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000275
+CUSTOMER_ID: 1921
+DATE: 2026-07-12 00:00:36
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5000873 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000276
+CUSTOMER_ID: 2715
+DATE: 2026-07-05 03:06:33
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5001141? I paid via UPI.
+---
+TICKET_ID: T0000277
+CUSTOMER_ID: 790
+DATE: 2026-08-30 08:24:44
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6077 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000278
+CUSTOMER_ID: 2199
+DATE: 2026-08-02 12:04:02
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000279
+CUSTOMER_ID: 483
+DATE: 2026-08-25 04:54:59
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 3641! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000280
+CUSTOMER_ID: 2335
+DATE: 2026-07-31 10:39:10
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000281
+CUSTOMER_ID: 2141
+DATE: 2026-08-19 06:06:41
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000282
+CUSTOMER_ID: 3257
+DATE: 2026-09-16 03:49:15
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000283
+CUSTOMER_ID: 2072
+DATE: 2026-08-22 12:20:10
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 7415 has not arrived yet and the tracking has been stuck for 9 days. Please help.
+---
+TICKET_ID: T0000284
+CUSTOMER_ID: 856
+DATE: 2026-08-15 16:03:50
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 4212? I paid via UPI.
+---
+TICKET_ID: T0000285
+CUSTOMER_ID: 2597
+DATE: 2026-09-07 15:19:28
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000286
+CUSTOMER_ID: 3597
+DATE: 2026-09-03 23:38:56
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000287
+CUSTOMER_ID: 336
+DATE: 2026-09-06 00:16:34
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5669 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000288
+CUSTOMER_ID: 461
+DATE: 2026-09-25 20:45:10
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000289
+CUSTOMER_ID: 371
+DATE: 2026-07-01 13:48:14
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1633! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000290
+CUSTOMER_ID: 3027
+DATE: 2026-09-25 11:51:48
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5002266! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000291
+CUSTOMER_ID: 2058
+DATE: 2026-08-05 04:44:01
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5000997 has not arrived yet and the tracking has been stuck for 10 days. Please help.
+---
+TICKET_ID: T0000292
+CUSTOMER_ID: 1145
+DATE: 2026-08-09 19:35:05
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 3464. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000293
+CUSTOMER_ID: 1864
+DATE: 2026-09-14 08:46:30
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000294
+CUSTOMER_ID: 125
+DATE: 2026-09-13 16:26:14
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000295
+CUSTOMER_ID: 2700
+DATE: 2026-09-27 17:26:18
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3275 8 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000296
+CUSTOMER_ID: 2806
+DATE: 2026-07-18 17:02:14
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 2509? I paid via UPI.
+---
+TICKET_ID: T0000297
+CUSTOMER_ID: 3135
+DATE: 2026-08-24 18:53:42
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1982 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000298
+CUSTOMER_ID: 1143
+DATE: 2026-09-01 08:01:17
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7026. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000299
+CUSTOMER_ID: 153
+DATE: 2026-09-25 04:55:48
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 434 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000300
+CUSTOMER_ID: 3451
+DATE: 2026-08-12 22:46:46
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000301
+CUSTOMER_ID: 2304
+DATE: 2026-07-09 13:08:07
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 594 4 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000302
+CUSTOMER_ID: 1415
+DATE: 2026-08-10 19:54:23
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000303
+CUSTOMER_ID: 405
+DATE: 2026-08-01 08:02:54
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 4755! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000304
+CUSTOMER_ID: 1623
+DATE: 2026-08-30 17:03:54
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5000539. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000305
+CUSTOMER_ID: 555
+DATE: 2026-08-28 20:23:24
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000306
+CUSTOMER_ID: 259
+DATE: 2026-08-02 23:23:37
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3582 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000307
+CUSTOMER_ID: 250
+DATE: 2026-08-19 12:04:11
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000308
+CUSTOMER_ID: 2089
+DATE: 2026-09-24 12:19:02
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000309
+CUSTOMER_ID: 1888
+DATE: 2026-07-04 13:33:48
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000310
+CUSTOMER_ID: 1598
+DATE: 2026-08-15 20:40:31
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 2030 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000311
+CUSTOMER_ID: 818
+DATE: 2026-07-26 11:48:54
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000001 7 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000312
+CUSTOMER_ID: 2443
+DATE: 2026-08-07 11:08:17
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5002316 stopped working after 10 days. It looks defective.
+---
+TICKET_ID: T0000313
+CUSTOMER_ID: 1230
+DATE: 2026-09-03 05:00:19
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 951 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000314
+CUSTOMER_ID: 43
+DATE: 2026-07-02 14:54:00
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000315
+CUSTOMER_ID: 2828
+DATE: 2026-09-07 06:41:58
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5602 has not arrived yet and the tracking has been stuck for 13 days. Please help.
+---
+TICKET_ID: T0000316
+CUSTOMER_ID: 778
+DATE: 2026-07-29 23:22:33
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000317
+CUSTOMER_ID: 295
+DATE: 2026-07-12 05:26:08
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3283 10 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000318
+CUSTOMER_ID: 867
+DATE: 2026-07-31 03:33:28
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 613? I paid via UPI.
+---
+TICKET_ID: T0000319
+CUSTOMER_ID: 1668
+DATE: 2026-08-11 18:32:32
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3336? I paid via UPI.
+---
+TICKET_ID: T0000320
+CUSTOMER_ID: 650
+DATE: 2026-08-25 21:29:02
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 3443! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000321
+CUSTOMER_ID: 1906
+DATE: 2026-09-25 14:10:22
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000322
+CUSTOMER_ID: 1732
+DATE: 2026-07-12 23:50:55
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5001885 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000323
+CUSTOMER_ID: 2238
+DATE: 2026-09-09 01:52:38
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5000704. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000324
+CUSTOMER_ID: 2630
+DATE: 2026-09-04 06:53:00
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6331 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000325
+CUSTOMER_ID: 3165
+DATE: 2026-08-06 15:25:24
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000326
+CUSTOMER_ID: 1525
+DATE: 2026-08-08 01:54:05
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5754 has not arrived yet and the tracking has been stuck for 6 days. Please help.
+---
+TICKET_ID: T0000327
+CUSTOMER_ID: 2803
+DATE: 2026-07-05 12:18:49
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5000428! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000328
+CUSTOMER_ID: 834
+DATE: 2026-08-22 10:20:21
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000329
+CUSTOMER_ID: 1423
+DATE: 2026-09-10 13:10:29
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000330
+CUSTOMER_ID: 2554
+DATE: 2026-09-26 18:22:33
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 706. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000331
+CUSTOMER_ID: 1631
+DATE: 2026-09-23 21:48:08
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5001462 stopped working after 10 days. It looks defective.
+---
+TICKET_ID: T0000332
+CUSTOMER_ID: 2075
+DATE: 2026-08-21 13:51:54
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000333
+CUSTOMER_ID: 1001
+DATE: 2026-08-15 18:39:00
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5000352 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000334
+CUSTOMER_ID: 940
+DATE: 2026-07-23 08:58:48
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 7985 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000335
+CUSTOMER_ID: 1601
+DATE: 2026-08-30 20:15:03
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4907 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000336
+CUSTOMER_ID: 3049
+DATE: 2026-08-21 09:47:54
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6374 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000337
+CUSTOMER_ID: 3797
+DATE: 2026-08-26 12:23:08
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6445! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000338
+CUSTOMER_ID: 1953
+DATE: 2026-07-11 09:52:39
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000339
+CUSTOMER_ID: 3926
+DATE: 2026-09-27 06:14:04
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 478 has not arrived yet and the tracking has been stuck for 9 days. Please help.
+---
+TICKET_ID: T0000340
+CUSTOMER_ID: 1480
+DATE: 2026-07-08 21:57:12
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000341
+CUSTOMER_ID: 1325
+DATE: 2026-08-11 11:21:31
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5980. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000342
+CUSTOMER_ID: 3615
+DATE: 2026-08-26 11:48:37
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000343
+CUSTOMER_ID: 1378
+DATE: 2026-08-25 02:45:00
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4793 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000344
+CUSTOMER_ID: 2316
+DATE: 2026-08-04 05:27:40
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 101 stopped working after 10 days. It looks defective.
+---
+TICKET_ID: T0000345
+CUSTOMER_ID: 3061
+DATE: 2026-07-30 01:38:26
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 151 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000346
+CUSTOMER_ID: 3101
+DATE: 2026-07-27 10:23:12
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 6851? I paid via UPI.
+---
+TICKET_ID: T0000347
+CUSTOMER_ID: 528
+DATE: 2026-09-04 02:10:19
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1635! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000348
+CUSTOMER_ID: 1047
+DATE: 2026-09-07 19:58:48
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 2390. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000349
+CUSTOMER_ID: 926
+DATE: 2026-08-15 14:58:29
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5931 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000350
+CUSTOMER_ID: 890
+DATE: 2026-07-24 03:47:57
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 2811 has not arrived yet and the tracking has been stuck for 13 days. Please help.
+---
+TICKET_ID: T0000351
+CUSTOMER_ID: 3632
+DATE: 2026-09-03 19:39:24
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001408 6 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000352
+CUSTOMER_ID: 2904
+DATE: 2026-08-11 21:38:13
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5526! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000353
+CUSTOMER_ID: 21
+DATE: 2026-08-27 17:14:16
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000354
+CUSTOMER_ID: 3520
+DATE: 2026-09-10 05:16:42
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 1307 has not arrived yet and the tracking has been stuck for 6 days. Please help.
+---
+TICKET_ID: T0000355
+CUSTOMER_ID: 1798
+DATE: 2026-08-09 00:30:35
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 783! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000356
+CUSTOMER_ID: 22
+DATE: 2026-08-18 21:29:42
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000126 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000357
+CUSTOMER_ID: 2311
+DATE: 2026-08-26 22:15:29
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6094 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000358
+CUSTOMER_ID: 3762
+DATE: 2026-07-10 10:43:07
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000359
+CUSTOMER_ID: 1608
+DATE: 2026-08-10 20:31:13
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000360
+CUSTOMER_ID: 2806
+DATE: 2026-09-04 10:08:26
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6030. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000361
+CUSTOMER_ID: 3397
+DATE: 2026-09-16 23:52:59
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 7574 has not arrived yet and the tracking has been stuck for 6 days. Please help.
+---
+TICKET_ID: T0000362
+CUSTOMER_ID: 2308
+DATE: 2026-09-26 22:06:48
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6346! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000363
+CUSTOMER_ID: 2200
+DATE: 2026-09-19 07:33:39
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000364
+CUSTOMER_ID: 2427
+DATE: 2026-09-16 13:43:01
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 2596 4 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000365
+CUSTOMER_ID: 1925
+DATE: 2026-08-06 19:54:24
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 2199? I paid via UPI.
+---
+TICKET_ID: T0000366
+CUSTOMER_ID: 955
+DATE: 2026-09-13 15:58:34
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5419? I paid via UPI.
+---
+TICKET_ID: T0000367
+CUSTOMER_ID: 1074
+DATE: 2026-07-01 14:48:57
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000368
+CUSTOMER_ID: 2411
+DATE: 2026-09-09 14:44:47
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000369
+CUSTOMER_ID: 2365
+DATE: 2026-07-02 17:33:47
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5205! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000370
+CUSTOMER_ID: 2395
+DATE: 2026-09-07 00:23:04
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4346 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000371
+CUSTOMER_ID: 3287
+DATE: 2026-07-06 15:32:34
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000372
+CUSTOMER_ID: 2647
+DATE: 2026-07-10 04:21:17
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000373
+CUSTOMER_ID: 2971
+DATE: 2026-08-04 15:03:36
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 1550. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000374
+CUSTOMER_ID: 2582
+DATE: 2026-08-26 16:38:26
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3580 6 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000375
+CUSTOMER_ID: 1123
+DATE: 2026-07-24 12:44:51
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 2165 has not arrived yet and the tracking has been stuck for 7 days. Please help.
+---
+TICKET_ID: T0000376
+CUSTOMER_ID: 2775
+DATE: 2026-09-14 21:45:37
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4348 stopped working after 10 days. It looks defective.
+---
+TICKET_ID: T0000377
+CUSTOMER_ID: 1860
+DATE: 2026-09-30 04:14:25
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 7468 stopped working after 10 days. It looks defective.
+---
+TICKET_ID: T0000378
+CUSTOMER_ID: 3988
+DATE: 2026-07-20 09:15:09
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 4388 has not arrived yet and the tracking has been stuck for 12 days. Please help.
+---
+TICKET_ID: T0000379
+CUSTOMER_ID: 3826
+DATE: 2026-08-26 21:43:55
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000380
+CUSTOMER_ID: 2795
+DATE: 2026-07-30 20:08:05
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000381
+CUSTOMER_ID: 3545
+DATE: 2026-07-22 20:11:16
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3609 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000382
+CUSTOMER_ID: 2852
+DATE: 2026-09-05 12:11:10
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001568! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000383
+CUSTOMER_ID: 318
+DATE: 2026-08-21 03:44:17
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000384
+CUSTOMER_ID: 2174
+DATE: 2026-09-05 18:04:27
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3551 stopped working after 11 days. It looks defective.
+---
+TICKET_ID: T0000385
+CUSTOMER_ID: 3135
+DATE: 2026-07-01 03:33:58
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4120 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000386
+CUSTOMER_ID: 3020
+DATE: 2026-09-24 07:33:51
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000387
+CUSTOMER_ID: 2200
+DATE: 2026-07-29 12:47:00
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000388
+CUSTOMER_ID: 3597
+DATE: 2026-09-01 13:02:33
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 6568 stopped working after 5 days. It looks defective.
+---
+TICKET_ID: T0000389
+CUSTOMER_ID: 217
+DATE: 2026-07-06 11:21:17
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3223 6 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000390
+CUSTOMER_ID: 2275
+DATE: 2026-08-25 04:57:35
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 818 stopped working after 11 days. It looks defective.
+---
+TICKET_ID: T0000391
+CUSTOMER_ID: 3176
+DATE: 2026-08-05 06:30:38
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5000574 has not arrived yet and the tracking has been stuck for 7 days. Please help.
+---
+TICKET_ID: T0000392
+CUSTOMER_ID: 1330
+DATE: 2026-07-21 19:05:05
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000084 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000393
+CUSTOMER_ID: 1803
+DATE: 2026-08-27 04:52:26
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5002051 has not arrived yet and the tracking has been stuck for 14 days. Please help.
+---
+TICKET_ID: T0000394
+CUSTOMER_ID: 3948
+DATE: 2026-08-16 12:12:13
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6525. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000395
+CUSTOMER_ID: 3397
+DATE: 2026-07-18 08:00:48
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5002004 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000396
+CUSTOMER_ID: 2828
+DATE: 2026-07-30 03:49:58
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5445. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000397
+CUSTOMER_ID: 3217
+DATE: 2026-08-26 01:30:19
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1716 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000398
+CUSTOMER_ID: 1120
+DATE: 2026-07-22 19:24:54
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5002045 10 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000399
+CUSTOMER_ID: 2442
+DATE: 2026-08-28 22:30:18
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000400
+CUSTOMER_ID: 1290
+DATE: 2026-07-01 20:48:17
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000401
+CUSTOMER_ID: 396
+DATE: 2026-07-27 18:59:56
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000402
+CUSTOMER_ID: 1332
+DATE: 2026-08-27 02:08:26
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5000027? I paid via UPI.
+---
+TICKET_ID: T0000403
+CUSTOMER_ID: 553
+DATE: 2026-07-02 19:41:07
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5001130 has not arrived yet and the tracking has been stuck for 11 days. Please help.
+---
+TICKET_ID: T0000404
+CUSTOMER_ID: 1855
+DATE: 2026-09-25 05:41:29
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000405
+CUSTOMER_ID: 1187
+DATE: 2026-08-20 04:49:22
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 2450 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000406
+CUSTOMER_ID: 709
+DATE: 2026-07-08 21:06:59
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000772 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000407
+CUSTOMER_ID: 610
+DATE: 2026-09-11 12:38:43
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 4195? I paid via UPI.
+---
+TICKET_ID: T0000408
+CUSTOMER_ID: 3931
+DATE: 2026-07-11 08:57:29
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000409
+CUSTOMER_ID: 2389
+DATE: 2026-09-03 00:44:50
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000410
+CUSTOMER_ID: 3170
+DATE: 2026-07-14 09:32:33
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 586 has not arrived yet and the tracking has been stuck for 13 days. Please help.
+---
+TICKET_ID: T0000411
+CUSTOMER_ID: 2550
+DATE: 2026-07-10 08:01:58
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000412
+CUSTOMER_ID: 1650
+DATE: 2026-08-26 06:54:30
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 7350 11 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000413
+CUSTOMER_ID: 3184
+DATE: 2026-07-15 17:53:49
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000414
+CUSTOMER_ID: 1688
+DATE: 2026-07-24 13:02:39
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4628. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000415
+CUSTOMER_ID: 3247
+DATE: 2026-07-18 18:23:47
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000416
+CUSTOMER_ID: 1536
+DATE: 2026-09-08 02:46:06
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000417
+CUSTOMER_ID: 1301
+DATE: 2026-09-03 18:35:00
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000418
+CUSTOMER_ID: 3470
+DATE: 2026-09-10 16:55:37
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 2301 4 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000419
+CUSTOMER_ID: 642
+DATE: 2026-09-04 11:07:13
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 6105 has not arrived yet and the tracking has been stuck for 9 days. Please help.
+---
+TICKET_ID: T0000420
+CUSTOMER_ID: 2605
+DATE: 2026-09-24 02:03:28
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1585 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000421
+CUSTOMER_ID: 735
+DATE: 2026-07-14 04:07:56
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 4451 has not arrived yet and the tracking has been stuck for 5 days. Please help.
+---
+TICKET_ID: T0000422
+CUSTOMER_ID: 1810
+DATE: 2026-09-19 18:26:50
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 809? I paid via UPI.
+---
+TICKET_ID: T0000423
+CUSTOMER_ID: 3687
+DATE: 2026-09-17 00:08:00
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 4394 7 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000424
+CUSTOMER_ID: 1626
+DATE: 2026-09-28 14:35:47
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000425
+CUSTOMER_ID: 3775
+DATE: 2026-07-24 21:00:16
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 1711 has not arrived yet and the tracking has been stuck for 8 days. Please help.
+---
+TICKET_ID: T0000426
+CUSTOMER_ID: 3321
+DATE: 2026-09-14 20:47:04
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000427
+CUSTOMER_ID: 546
+DATE: 2026-09-11 15:08:37
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4762. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000428
+CUSTOMER_ID: 1057
+DATE: 2026-08-01 20:48:45
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 6724 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000429
+CUSTOMER_ID: 2885
+DATE: 2026-07-28 01:54:08
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000430
+CUSTOMER_ID: 1088
+DATE: 2026-07-10 06:05:10
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 2373 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000431
+CUSTOMER_ID: 3503
+DATE: 2026-08-26 02:49:19
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5241 has not arrived yet and the tracking has been stuck for 10 days. Please help.
+---
+TICKET_ID: T0000432
+CUSTOMER_ID: 2031
+DATE: 2026-08-12 17:17:59
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 934 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000433
+CUSTOMER_ID: 1785
+DATE: 2026-09-19 01:19:10
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4653. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000434
+CUSTOMER_ID: 1139
+DATE: 2026-07-08 07:56:28
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000435
+CUSTOMER_ID: 2069
+DATE: 2026-09-26 19:44:41
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000436
+CUSTOMER_ID: 2932
+DATE: 2026-08-01 21:48:47
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 6477 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000437
+CUSTOMER_ID: 313
+DATE: 2026-07-21 13:37:51
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 36! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000438
+CUSTOMER_ID: 1947
+DATE: 2026-08-21 00:49:10
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000439
+CUSTOMER_ID: 456
+DATE: 2026-08-16 23:40:12
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000440
+CUSTOMER_ID: 264
+DATE: 2026-08-09 12:45:55
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000441
+CUSTOMER_ID: 595
+DATE: 2026-07-09 12:39:37
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000442
+CUSTOMER_ID: 3187
+DATE: 2026-08-18 18:31:03
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5559 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000443
+CUSTOMER_ID: 2500
+DATE: 2026-08-08 15:26:03
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3232 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000444
+CUSTOMER_ID: 743
+DATE: 2026-09-24 16:12:01
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 1858? I paid via UPI.
+---
+TICKET_ID: T0000445
+CUSTOMER_ID: 1297
+DATE: 2026-08-13 07:43:18
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000446
+CUSTOMER_ID: 633
+DATE: 2026-09-07 01:08:20
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000447
+CUSTOMER_ID: 3608
+DATE: 2026-08-10 09:38:44
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 631. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000448
+CUSTOMER_ID: 2799
+DATE: 2026-09-06 18:42:27
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 3445 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000449
+CUSTOMER_ID: 497
+DATE: 2026-08-21 18:05:06
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5002402. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000450
+CUSTOMER_ID: 1746
+DATE: 2026-09-27 03:52:15
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001102! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000451
+CUSTOMER_ID: 3897
+DATE: 2026-07-27 12:23:02
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5793. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000452
+CUSTOMER_ID: 1387
+DATE: 2026-09-21 03:11:01
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000453
+CUSTOMER_ID: 1884
+DATE: 2026-08-16 18:37:56
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 3850 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000454
+CUSTOMER_ID: 832
+DATE: 2026-09-16 02:14:40
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 3428! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000455
+CUSTOMER_ID: 3718
+DATE: 2026-08-01 07:30:11
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 119. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000456
+CUSTOMER_ID: 1930
+DATE: 2026-08-08 10:03:53
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 7614 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000457
+CUSTOMER_ID: 238
+DATE: 2026-07-16 09:15:58
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3429 stopped working after 13 days. It looks defective.
+---
+TICKET_ID: T0000458
+CUSTOMER_ID: 682
+DATE: 2026-08-14 14:01:24
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 2784 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000459
+CUSTOMER_ID: 608
+DATE: 2026-09-02 05:34:46
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5001851. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000460
+CUSTOMER_ID: 1284
+DATE: 2026-07-27 11:35:24
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000461
+CUSTOMER_ID: 2409
+DATE: 2026-09-12 17:11:59
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 3226. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000462
+CUSTOMER_ID: 577
+DATE: 2026-08-24 17:49:26
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6579! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000463
+CUSTOMER_ID: 495
+DATE: 2026-09-01 04:45:48
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7198. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000464
+CUSTOMER_ID: 1719
+DATE: 2026-09-06 20:19:18
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 2645 12 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000465
+CUSTOMER_ID: 639
+DATE: 2026-08-19 17:19:57
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1334 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000466
+CUSTOMER_ID: 1733
+DATE: 2026-08-21 16:08:31
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3766? I paid via UPI.
+---
+TICKET_ID: T0000467
+CUSTOMER_ID: 3142
+DATE: 2026-08-23 12:59:30
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 1088. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000468
+CUSTOMER_ID: 2064
+DATE: 2026-08-23 07:57:13
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5000606! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000469
+CUSTOMER_ID: 733
+DATE: 2026-08-22 09:11:07
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5001068 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000470
+CUSTOMER_ID: 2927
+DATE: 2026-07-08 20:55:13
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000471
+CUSTOMER_ID: 58
+DATE: 2026-08-13 11:40:09
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000472
+CUSTOMER_ID: 1983
+DATE: 2026-08-09 14:06:58
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000473
+CUSTOMER_ID: 3499
+DATE: 2026-08-17 02:17:41
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 34. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000474
+CUSTOMER_ID: 3562
+DATE: 2026-07-20 22:41:40
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5889 9 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000475
+CUSTOMER_ID: 571
+DATE: 2026-09-29 14:41:01
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5002003 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000476
+CUSTOMER_ID: 76
+DATE: 2026-08-19 01:45:20
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 2019! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000477
+CUSTOMER_ID: 54
+DATE: 2026-07-28 14:05:23
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 7833 stopped working after 9 days. It looks defective.
+---
+TICKET_ID: T0000478
+CUSTOMER_ID: 2718
+DATE: 2026-08-04 06:20:12
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000479
+CUSTOMER_ID: 3298
+DATE: 2026-07-10 14:47:57
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000480
+CUSTOMER_ID: 2197
+DATE: 2026-07-01 08:57:58
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001488 6 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000481
+CUSTOMER_ID: 1134
+DATE: 2026-07-17 03:52:03
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1437! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000482
+CUSTOMER_ID: 2626
+DATE: 2026-08-27 15:43:45
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5002341 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000483
+CUSTOMER_ID: 3449
+DATE: 2026-09-07 09:31:35
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000484
+CUSTOMER_ID: 1834
+DATE: 2026-07-17 20:51:51
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000485
+CUSTOMER_ID: 2056
+DATE: 2026-09-09 23:48:30
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000961 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000486
+CUSTOMER_ID: 3532
+DATE: 2026-09-01 03:58:53
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5142 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000487
+CUSTOMER_ID: 1732
+DATE: 2026-09-12 16:56:42
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 7271? I paid via UPI.
+---
+TICKET_ID: T0000488
+CUSTOMER_ID: 3994
+DATE: 2026-07-29 06:01:52
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 7975 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000489
+CUSTOMER_ID: 525
+DATE: 2026-09-15 08:18:18
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 4196? I paid via UPI.
+---
+TICKET_ID: T0000490
+CUSTOMER_ID: 2056
+DATE: 2026-07-29 08:05:52
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3752? I paid via UPI.
+---
+TICKET_ID: T0000491
+CUSTOMER_ID: 7
+DATE: 2026-08-22 18:39:12
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4529 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000492
+CUSTOMER_ID: 3188
+DATE: 2026-09-24 01:28:50
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000493
+CUSTOMER_ID: 3038
+DATE: 2026-07-27 22:53:06
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7793. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000494
+CUSTOMER_ID: 2570
+DATE: 2026-07-02 20:30:19
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5001443. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000495
+CUSTOMER_ID: 3322
+DATE: 2026-08-31 09:54:36
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1446 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000496
+CUSTOMER_ID: 2066
+DATE: 2026-08-08 07:39:42
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4312 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000497
+CUSTOMER_ID: 3334
+DATE: 2026-07-16 18:46:03
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000956 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000498
+CUSTOMER_ID: 917
+DATE: 2026-09-15 19:43:38
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5000478 has not arrived yet and the tracking has been stuck for 9 days. Please help.
+---
+TICKET_ID: T0000499
+CUSTOMER_ID: 3995
+DATE: 2026-08-12 17:46:33
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3125? I paid via UPI.
+---
+TICKET_ID: T0000500
+CUSTOMER_ID: 2105
+DATE: 2026-09-11 08:14:40
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000501
+CUSTOMER_ID: 227
+DATE: 2026-07-26 12:53:28
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5002376 stopped working after 13 days. It looks defective.
+---
+TICKET_ID: T0000502
+CUSTOMER_ID: 1211
+DATE: 2026-09-03 09:55:31
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000503
+CUSTOMER_ID: 229
+DATE: 2026-08-28 07:50:49
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 7544 has not arrived yet and the tracking has been stuck for 10 days. Please help.
+---
+TICKET_ID: T0000504
+CUSTOMER_ID: 2132
+DATE: 2026-09-09 04:28:55
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000505
+CUSTOMER_ID: 3837
+DATE: 2026-08-31 09:42:12
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000506
+CUSTOMER_ID: 2002
+DATE: 2026-07-16 17:01:05
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 3407 has not arrived yet and the tracking has been stuck for 5 days. Please help.
+---
+TICKET_ID: T0000507
+CUSTOMER_ID: 1573
+DATE: 2026-09-17 23:16:31
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 985 9 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000508
+CUSTOMER_ID: 3060
+DATE: 2026-07-27 17:20:53
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000509
+CUSTOMER_ID: 1170
+DATE: 2026-08-02 10:15:28
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 6524 has not arrived yet and the tracking has been stuck for 5 days. Please help.
+---
+TICKET_ID: T0000510
+CUSTOMER_ID: 27
+DATE: 2026-07-22 03:12:58
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000511
+CUSTOMER_ID: 522
+DATE: 2026-07-03 09:48:55
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 2055 stopped working after 12 days. It looks defective.
+---
+TICKET_ID: T0000512
+CUSTOMER_ID: 92
+DATE: 2026-08-13 23:32:23
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000513
+CUSTOMER_ID: 2222
+DATE: 2026-08-28 14:44:10
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000199 9 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000514
+CUSTOMER_ID: 255
+DATE: 2026-08-14 05:29:02
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 2377. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000515
+CUSTOMER_ID: 1319
+DATE: 2026-08-09 04:22:41
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5000528! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000516
+CUSTOMER_ID: 1189
+DATE: 2026-08-18 05:14:09
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6587 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000517
+CUSTOMER_ID: 3181
+DATE: 2026-09-04 03:09:16
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 7308! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000518
+CUSTOMER_ID: 2671
+DATE: 2026-07-12 02:35:22
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000519
+CUSTOMER_ID: 3575
+DATE: 2026-07-22 02:19:56
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000520
+CUSTOMER_ID: 1909
+DATE: 2026-07-11 10:33:46
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000521
+CUSTOMER_ID: 571
+DATE: 2026-09-19 07:49:31
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000522
+CUSTOMER_ID: 2794
+DATE: 2026-07-25 22:45:24
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3743 7 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000523
+CUSTOMER_ID: 1540
+DATE: 2026-08-01 05:57:34
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000524
+CUSTOMER_ID: 3366
+DATE: 2026-07-26 18:14:16
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000525
+CUSTOMER_ID: 825
+DATE: 2026-07-10 08:10:29
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 459? I paid via UPI.
+---
+TICKET_ID: T0000526
+CUSTOMER_ID: 2110
+DATE: 2026-09-05 09:33:09
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 4580 has not arrived yet and the tracking has been stuck for 2 days. Please help.
+---
+TICKET_ID: T0000527
+CUSTOMER_ID: 3621
+DATE: 2026-07-16 17:53:36
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 6014 has not arrived yet and the tracking has been stuck for 2 days. Please help.
+---
+TICKET_ID: T0000528
+CUSTOMER_ID: 2619
+DATE: 2026-09-02 08:09:51
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 6274 10 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000529
+CUSTOMER_ID: 2845
+DATE: 2026-07-07 11:01:51
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3821 14 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000530
+CUSTOMER_ID: 3531
+DATE: 2026-07-22 14:16:23
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 7621! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000531
+CUSTOMER_ID: 1618
+DATE: 2026-09-15 14:49:43
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5000012 stopped working after 9 days. It looks defective.
+---
+TICKET_ID: T0000532
+CUSTOMER_ID: 2633
+DATE: 2026-08-11 08:37:50
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5386 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000533
+CUSTOMER_ID: 2753
+DATE: 2026-09-30 18:24:18
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4456 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000534
+CUSTOMER_ID: 1203
+DATE: 2026-08-10 08:45:52
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4098. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000535
+CUSTOMER_ID: 2005
+DATE: 2026-09-15 03:38:04
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 4995 6 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000536
+CUSTOMER_ID: 167
+DATE: 2026-07-11 02:32:02
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 6135? I paid via UPI.
+---
+TICKET_ID: T0000537
+CUSTOMER_ID: 1416
+DATE: 2026-07-25 01:01:31
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000538
+CUSTOMER_ID: 2459
+DATE: 2026-07-02 05:05:00
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000539
+CUSTOMER_ID: 1527
+DATE: 2026-08-07 02:05:01
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000540
+CUSTOMER_ID: 460
+DATE: 2026-09-15 23:34:17
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001525 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000541
+CUSTOMER_ID: 2187
+DATE: 2026-09-22 21:55:20
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 7441! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000542
+CUSTOMER_ID: 797
+DATE: 2026-07-30 09:39:08
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5001514 stopped working after 9 days. It looks defective.
+---
+TICKET_ID: T0000543
+CUSTOMER_ID: 1094
+DATE: 2026-09-30 04:39:09
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000544
+CUSTOMER_ID: 1351
+DATE: 2026-09-18 08:14:53
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 986 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000545
+CUSTOMER_ID: 1978
+DATE: 2026-07-23 01:25:09
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5793? I paid via UPI.
+---
+TICKET_ID: T0000546
+CUSTOMER_ID: 1872
+DATE: 2026-08-02 20:23:32
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000547
+CUSTOMER_ID: 1053
+DATE: 2026-09-27 17:24:38
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 6074? I paid via UPI.
+---
+TICKET_ID: T0000548
+CUSTOMER_ID: 77
+DATE: 2026-07-05 16:35:28
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000549
+CUSTOMER_ID: 2248
+DATE: 2026-08-21 10:57:10
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7775. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000550
+CUSTOMER_ID: 2430
+DATE: 2026-08-09 12:58:31
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5711! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000551
+CUSTOMER_ID: 393
+DATE: 2026-07-02 09:41:18
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5246. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000552
+CUSTOMER_ID: 2408
+DATE: 2026-08-05 00:14:14
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000553
+CUSTOMER_ID: 3084
+DATE: 2026-09-25 09:56:19
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 7141 6 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000554
+CUSTOMER_ID: 3826
+DATE: 2026-08-22 18:11:57
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 7593 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000555
+CUSTOMER_ID: 2619
+DATE: 2026-08-01 12:10:38
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000556
+CUSTOMER_ID: 2336
+DATE: 2026-09-06 10:07:08
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000557
+CUSTOMER_ID: 644
+DATE: 2026-07-07 04:48:50
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000558
+CUSTOMER_ID: 559
+DATE: 2026-09-29 16:44:21
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000559
+CUSTOMER_ID: 2117
+DATE: 2026-07-30 08:52:11
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3773 stopped working after 5 days. It looks defective.
+---
+TICKET_ID: T0000560
+CUSTOMER_ID: 3345
+DATE: 2026-07-18 03:47:51
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 935! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000561
+CUSTOMER_ID: 815
+DATE: 2026-09-10 04:55:18
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000880 5 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000562
+CUSTOMER_ID: 1656
+DATE: 2026-08-26 22:48:21
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5000324 stopped working after 9 days. It looks defective.
+---
+TICKET_ID: T0000563
+CUSTOMER_ID: 1852
+DATE: 2026-08-25 08:39:05
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5000606? I paid via UPI.
+---
+TICKET_ID: T0000564
+CUSTOMER_ID: 1488
+DATE: 2026-09-20 22:56:29
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5047 stopped working after 10 days. It looks defective.
+---
+TICKET_ID: T0000565
+CUSTOMER_ID: 2354
+DATE: 2026-07-25 13:09:54
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 1699 stopped working after 5 days. It looks defective.
+---
+TICKET_ID: T0000566
+CUSTOMER_ID: 671
+DATE: 2026-09-07 04:37:53
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 993 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000567
+CUSTOMER_ID: 2369
+DATE: 2026-08-07 01:05:59
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000568
+CUSTOMER_ID: 2166
+DATE: 2026-09-26 22:32:07
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000569
+CUSTOMER_ID: 1390
+DATE: 2026-08-26 18:05:55
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 1154. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000570
+CUSTOMER_ID: 1784
+DATE: 2026-09-25 16:25:30
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000571
+CUSTOMER_ID: 406
+DATE: 2026-08-14 14:38:13
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000572
+CUSTOMER_ID: 1550
+DATE: 2026-07-29 08:36:31
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000573
+CUSTOMER_ID: 798
+DATE: 2026-07-23 02:39:36
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000574
+CUSTOMER_ID: 2750
+DATE: 2026-08-19 02:51:24
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 4730 11 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000575
+CUSTOMER_ID: 2592
+DATE: 2026-07-20 22:52:16
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 149 has not arrived yet and the tracking has been stuck for 6 days. Please help.
+---
+TICKET_ID: T0000576
+CUSTOMER_ID: 3732
+DATE: 2026-09-16 21:30:10
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000577
+CUSTOMER_ID: 3857
+DATE: 2026-07-06 14:50:08
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3465 stopped working after 9 days. It looks defective.
+---
+TICKET_ID: T0000578
+CUSTOMER_ID: 2044
+DATE: 2026-08-09 13:49:21
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 2604 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000579
+CUSTOMER_ID: 2476
+DATE: 2026-07-30 22:22:00
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 6358 has not arrived yet and the tracking has been stuck for 3 days. Please help.
+---
+TICKET_ID: T0000580
+CUSTOMER_ID: 915
+DATE: 2026-09-11 16:24:36
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3361? I paid via UPI.
+---
+TICKET_ID: T0000581
+CUSTOMER_ID: 1297
+DATE: 2026-07-25 05:05:45
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1463! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000582
+CUSTOMER_ID: 2955
+DATE: 2026-09-07 03:35:06
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5944 has not arrived yet and the tracking has been stuck for 8 days. Please help.
+---
+TICKET_ID: T0000583
+CUSTOMER_ID: 1808
+DATE: 2026-07-05 18:00:05
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000584
+CUSTOMER_ID: 1634
+DATE: 2026-07-03 17:04:54
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000585
+CUSTOMER_ID: 594
+DATE: 2026-07-30 07:07:19
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1640! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000586
+CUSTOMER_ID: 898
+DATE: 2026-08-23 21:34:56
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 2668 has not arrived yet and the tracking has been stuck for 11 days. Please help.
+---
+TICKET_ID: T0000587
+CUSTOMER_ID: 3678
+DATE: 2026-08-31 00:11:55
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 288 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000588
+CUSTOMER_ID: 3504
+DATE: 2026-09-09 02:09:06
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 240 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000589
+CUSTOMER_ID: 3640
+DATE: 2026-07-30 02:36:08
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 7389 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000590
+CUSTOMER_ID: 1344
+DATE: 2026-07-17 08:53:26
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000591
+CUSTOMER_ID: 1515
+DATE: 2026-07-17 10:42:46
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1685 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000592
+CUSTOMER_ID: 3043
+DATE: 2026-09-15 20:53:45
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 3307 has not arrived yet and the tracking has been stuck for 3 days. Please help.
+---
+TICKET_ID: T0000593
+CUSTOMER_ID: 1981
+DATE: 2026-07-12 16:13:26
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5002217 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000594
+CUSTOMER_ID: 2084
+DATE: 2026-07-28 21:08:41
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 889 has not arrived yet and the tracking has been stuck for 7 days. Please help.
+---
+TICKET_ID: T0000595
+CUSTOMER_ID: 2282
+DATE: 2026-09-11 18:53:54
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 2204 10 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000596
+CUSTOMER_ID: 2857
+DATE: 2026-09-22 17:59:42
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000597
+CUSTOMER_ID: 2094
+DATE: 2026-08-03 16:19:14
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000598
+CUSTOMER_ID: 3128
+DATE: 2026-08-26 11:53:39
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5000195. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000599
+CUSTOMER_ID: 3770
+DATE: 2026-08-15 19:05:16
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 449 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000600
+CUSTOMER_ID: 2303
+DATE: 2026-07-14 07:36:08
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 3636 has not arrived yet and the tracking has been stuck for 10 days. Please help.
+---
+TICKET_ID: T0000601
+CUSTOMER_ID: 3454
+DATE: 2026-09-07 22:24:03
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000895 6 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000602
+CUSTOMER_ID: 1583
+DATE: 2026-08-12 20:33:17
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000603
+CUSTOMER_ID: 1825
+DATE: 2026-09-11 14:42:07
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4610. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000604
+CUSTOMER_ID: 3213
+DATE: 2026-07-13 23:09:30
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000605
+CUSTOMER_ID: 596
+DATE: 2026-07-07 02:06:41
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 66! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000606
+CUSTOMER_ID: 256
+DATE: 2026-07-15 13:24:27
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 7024? I paid via UPI.
+---
+TICKET_ID: T0000607
+CUSTOMER_ID: 210
+DATE: 2026-09-09 00:01:07
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000608
+CUSTOMER_ID: 3183
+DATE: 2026-09-22 16:43:39
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 2199 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000609
+CUSTOMER_ID: 1422
+DATE: 2026-07-14 16:12:59
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000610
+CUSTOMER_ID: 3322
+DATE: 2026-08-29 19:53:46
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 2559. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000611
+CUSTOMER_ID: 2463
+DATE: 2026-07-26 03:04:26
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 7074 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000612
+CUSTOMER_ID: 985
+DATE: 2026-07-05 01:09:23
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 2294 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000613
+CUSTOMER_ID: 1754
+DATE: 2026-09-12 04:16:24
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 6881 14 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000614
+CUSTOMER_ID: 1614
+DATE: 2026-07-22 10:02:50
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000391 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000615
+CUSTOMER_ID: 3580
+DATE: 2026-08-14 18:18:43
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000616
+CUSTOMER_ID: 1265
+DATE: 2026-08-30 05:24:11
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3412? I paid via UPI.
+---
+TICKET_ID: T0000617
+CUSTOMER_ID: 2508
+DATE: 2026-07-08 08:46:28
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6493. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000618
+CUSTOMER_ID: 1857
+DATE: 2026-09-24 02:11:52
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 6635 9 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000619
+CUSTOMER_ID: 1550
+DATE: 2026-07-12 22:50:42
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000213 11 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000620
+CUSTOMER_ID: 1764
+DATE: 2026-07-22 01:01:53
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5002147! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000621
+CUSTOMER_ID: 1996
+DATE: 2026-07-24 09:59:27
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1829! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000622
+CUSTOMER_ID: 1965
+DATE: 2026-07-30 17:59:24
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 696. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000623
+CUSTOMER_ID: 273
+DATE: 2026-08-21 11:19:49
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 330 stopped working after 11 days. It looks defective.
+---
+TICKET_ID: T0000624
+CUSTOMER_ID: 1106
+DATE: 2026-09-09 03:12:35
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4493 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000625
+CUSTOMER_ID: 3570
+DATE: 2026-07-04 03:55:50
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000257 11 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000626
+CUSTOMER_ID: 3072
+DATE: 2026-08-06 23:56:46
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5871! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000627
+CUSTOMER_ID: 1440
+DATE: 2026-07-22 22:27:54
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6702 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000628
+CUSTOMER_ID: 1255
+DATE: 2026-07-11 00:39:38
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000629
+CUSTOMER_ID: 3444
+DATE: 2026-09-03 16:09:49
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000630
+CUSTOMER_ID: 204
+DATE: 2026-08-22 07:04:42
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 730! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000631
+CUSTOMER_ID: 2746
+DATE: 2026-07-06 14:22:04
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 335 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000632
+CUSTOMER_ID: 3166
+DATE: 2026-08-28 12:26:52
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 488 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000633
+CUSTOMER_ID: 113
+DATE: 2026-07-02 12:50:22
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1838 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000634
+CUSTOMER_ID: 2035
+DATE: 2026-07-12 12:13:45
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5204 has not arrived yet and the tracking has been stuck for 7 days. Please help.
+---
+TICKET_ID: T0000635
+CUSTOMER_ID: 1960
+DATE: 2026-09-09 01:37:03
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1348! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000636
+CUSTOMER_ID: 3347
+DATE: 2026-07-01 01:59:43
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 546 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000637
+CUSTOMER_ID: 2900
+DATE: 2026-07-26 04:55:59
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5001409. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000638
+CUSTOMER_ID: 1650
+DATE: 2026-07-20 13:32:48
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000401 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000639
+CUSTOMER_ID: 835
+DATE: 2026-09-10 11:21:36
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1978! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000640
+CUSTOMER_ID: 3096
+DATE: 2026-08-12 21:12:49
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000641
+CUSTOMER_ID: 1281
+DATE: 2026-07-11 11:49:39
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 1645 stopped working after 11 days. It looks defective.
+---
+TICKET_ID: T0000642
+CUSTOMER_ID: 1673
+DATE: 2026-07-08 17:20:53
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5000390 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000643
+CUSTOMER_ID: 3518
+DATE: 2026-09-01 15:57:20
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000644
+CUSTOMER_ID: 1327
+DATE: 2026-09-19 12:03:28
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5002137? I paid via UPI.
+---
+TICKET_ID: T0000645
+CUSTOMER_ID: 145
+DATE: 2026-07-24 21:32:16
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 901. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000646
+CUSTOMER_ID: 2032
+DATE: 2026-09-14 23:19:25
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000647
+CUSTOMER_ID: 3229
+DATE: 2026-07-28 19:11:14
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 121 8 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000648
+CUSTOMER_ID: 2721
+DATE: 2026-09-17 02:32:53
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1386 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000649
+CUSTOMER_ID: 65
+DATE: 2026-09-13 16:39:40
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000650
+CUSTOMER_ID: 2199
+DATE: 2026-09-29 12:09:33
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5002022 stopped working after 6 days. It looks defective.
+---
+TICKET_ID: T0000651
+CUSTOMER_ID: 2536
+DATE: 2026-09-03 10:13:48
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000652
+CUSTOMER_ID: 2918
+DATE: 2026-08-17 07:46:02
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5001759? I paid via UPI.
+---
+TICKET_ID: T0000653
+CUSTOMER_ID: 2420
+DATE: 2026-07-03 02:28:44
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 7721? I paid via UPI.
+---
+TICKET_ID: T0000654
+CUSTOMER_ID: 2708
+DATE: 2026-08-31 00:39:26
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4799 stopped working after 7 days. It looks defective.
+---
+TICKET_ID: T0000655
+CUSTOMER_ID: 2855
+DATE: 2026-09-19 09:56:11
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001332! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000656
+CUSTOMER_ID: 2466
+DATE: 2026-07-09 20:23:57
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 2537. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000657
+CUSTOMER_ID: 3037
+DATE: 2026-09-20 05:35:15
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5001230? I paid via UPI.
+---
+TICKET_ID: T0000658
+CUSTOMER_ID: 1100
+DATE: 2026-07-02 16:28:31
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5000822 has not arrived yet and the tracking has been stuck for 5 days. Please help.
+---
+TICKET_ID: T0000659
+CUSTOMER_ID: 1287
+DATE: 2026-07-04 06:35:04
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4529. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000660
+CUSTOMER_ID: 568
+DATE: 2026-09-19 16:42:13
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 305 has not arrived yet and the tracking has been stuck for 3 days. Please help.
+---
+TICKET_ID: T0000661
+CUSTOMER_ID: 2944
+DATE: 2026-08-11 21:27:39
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000662
+CUSTOMER_ID: 2341
+DATE: 2026-07-22 18:49:04
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 4433! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000663
+CUSTOMER_ID: 2251
+DATE: 2026-08-04 03:07:28
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000664
+CUSTOMER_ID: 830
+DATE: 2026-08-16 10:33:48
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000665
+CUSTOMER_ID: 1877
+DATE: 2026-09-06 09:52:10
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6009 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000666
+CUSTOMER_ID: 706
+DATE: 2026-07-15 07:44:05
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000667
+CUSTOMER_ID: 1555
+DATE: 2026-09-20 00:00:45
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000534 14 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000668
+CUSTOMER_ID: 368
+DATE: 2026-09-02 07:13:03
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000184 3 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000669
+CUSTOMER_ID: 3798
+DATE: 2026-07-22 21:49:38
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000670
+CUSTOMER_ID: 2568
+DATE: 2026-09-21 05:14:10
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4049. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000671
+CUSTOMER_ID: 951
+DATE: 2026-08-15 12:50:00
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3983 stopped working after 7 days. It looks defective.
+---
+TICKET_ID: T0000672
+CUSTOMER_ID: 1020
+DATE: 2026-07-23 21:09:50
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5002031 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000673
+CUSTOMER_ID: 1618
+DATE: 2026-08-09 20:40:11
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5001481. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000674
+CUSTOMER_ID: 3483
+DATE: 2026-08-15 16:53:01
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5552 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000675
+CUSTOMER_ID: 742
+DATE: 2026-08-19 03:48:50
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000676
+CUSTOMER_ID: 1410
+DATE: 2026-08-29 13:51:39
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5000325 has not arrived yet and the tracking has been stuck for 5 days. Please help.
+---
+TICKET_ID: T0000677
+CUSTOMER_ID: 3085
+DATE: 2026-09-09 00:03:51
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5158 stopped working after 11 days. It looks defective.
+---
+TICKET_ID: T0000678
+CUSTOMER_ID: 1642
+DATE: 2026-08-22 12:25:07
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000679
+CUSTOMER_ID: 1894
+DATE: 2026-07-11 13:04:27
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4422 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000680
+CUSTOMER_ID: 2782
+DATE: 2026-09-15 22:07:49
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5222 stopped working after 13 days. It looks defective.
+---
+TICKET_ID: T0000681
+CUSTOMER_ID: 3597
+DATE: 2026-08-02 08:56:42
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000682
+CUSTOMER_ID: 1210
+DATE: 2026-08-16 22:24:29
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4352 stopped working after 11 days. It looks defective.
+---
+TICKET_ID: T0000683
+CUSTOMER_ID: 2450
+DATE: 2026-07-02 00:03:19
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 6103? I paid via UPI.
+---
+TICKET_ID: T0000684
+CUSTOMER_ID: 119
+DATE: 2026-07-06 03:02:06
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5014 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000685
+CUSTOMER_ID: 2941
+DATE: 2026-09-17 06:14:46
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5458 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000686
+CUSTOMER_ID: 718
+DATE: 2026-08-06 10:45:27
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1484 4 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000687
+CUSTOMER_ID: 22
+DATE: 2026-08-11 16:19:10
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 2008! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000688
+CUSTOMER_ID: 931
+DATE: 2026-08-05 04:33:33
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000689
+CUSTOMER_ID: 1034
+DATE: 2026-08-31 11:10:32
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 3557 has not arrived yet and the tracking has been stuck for 12 days. Please help.
+---
+TICKET_ID: T0000690
+CUSTOMER_ID: 1841
+DATE: 2026-07-08 20:14:53
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 155 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000691
+CUSTOMER_ID: 2256
+DATE: 2026-08-29 15:20:22
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000692
+CUSTOMER_ID: 1321
+DATE: 2026-07-29 21:35:44
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4934 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000693
+CUSTOMER_ID: 2936
+DATE: 2026-09-06 10:58:00
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 851 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000694
+CUSTOMER_ID: 3892
+DATE: 2026-07-06 13:55:13
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 3768 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000695
+CUSTOMER_ID: 3628
+DATE: 2026-07-07 05:01:01
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000696
+CUSTOMER_ID: 3852
+DATE: 2026-09-16 21:35:09
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 3376. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000697
+CUSTOMER_ID: 1496
+DATE: 2026-09-16 14:39:58
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 488 3 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000698
+CUSTOMER_ID: 1308
+DATE: 2026-08-29 17:12:11
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000699
+CUSTOMER_ID: 3190
+DATE: 2026-07-15 00:12:52
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5000704! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000700
+CUSTOMER_ID: 1599
+DATE: 2026-08-10 22:01:01
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1103 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000701
+CUSTOMER_ID: 2463
+DATE: 2026-08-25 02:44:29
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 626? I paid via UPI.
+---
+TICKET_ID: T0000702
+CUSTOMER_ID: 328
+DATE: 2026-07-02 20:44:32
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000703
+CUSTOMER_ID: 470
+DATE: 2026-08-24 23:07:16
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000704
+CUSTOMER_ID: 3748
+DATE: 2026-08-17 17:00:13
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1505 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000705
+CUSTOMER_ID: 3329
+DATE: 2026-07-01 23:34:35
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5001591 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000706
+CUSTOMER_ID: 2351
+DATE: 2026-09-21 22:56:08
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5002192. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000707
+CUSTOMER_ID: 2040
+DATE: 2026-08-14 09:12:52
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6208! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000708
+CUSTOMER_ID: 59
+DATE: 2026-07-29 06:03:53
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 6148 11 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000709
+CUSTOMER_ID: 543
+DATE: 2026-09-24 01:39:19
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5072! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000710
+CUSTOMER_ID: 1932
+DATE: 2026-07-17 02:56:51
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5000081 11 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000711
+CUSTOMER_ID: 951
+DATE: 2026-08-09 17:13:27
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000712
+CUSTOMER_ID: 1628
+DATE: 2026-07-27 08:32:38
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000713
+CUSTOMER_ID: 513
+DATE: 2026-07-06 16:07:25
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5588 10 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000714
+CUSTOMER_ID: 78
+DATE: 2026-08-29 09:05:54
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000715
+CUSTOMER_ID: 2322
+DATE: 2026-09-03 00:47:36
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000637 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000716
+CUSTOMER_ID: 1950
+DATE: 2026-09-29 11:00:15
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6003. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000717
+CUSTOMER_ID: 1566
+DATE: 2026-09-14 16:33:51
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 4649? I paid via UPI.
+---
+TICKET_ID: T0000718
+CUSTOMER_ID: 2036
+DATE: 2026-08-04 14:11:46
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5000660! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000719
+CUSTOMER_ID: 3755
+DATE: 2026-07-05 23:47:45
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4092 stopped working after 12 days. It looks defective.
+---
+TICKET_ID: T0000720
+CUSTOMER_ID: 3892
+DATE: 2026-08-05 00:16:55
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7003. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000721
+CUSTOMER_ID: 1694
+DATE: 2026-08-03 10:11:17
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5001049. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000722
+CUSTOMER_ID: 795
+DATE: 2026-07-09 23:09:48
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6237! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000723
+CUSTOMER_ID: 1494
+DATE: 2026-08-17 05:02:16
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000724
+CUSTOMER_ID: 1309
+DATE: 2026-07-07 17:22:44
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 4465? I paid via UPI.
+---
+TICKET_ID: T0000725
+CUSTOMER_ID: 246
+DATE: 2026-08-27 08:21:41
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5001211? I paid via UPI.
+---
+TICKET_ID: T0000726
+CUSTOMER_ID: 3452
+DATE: 2026-09-10 23:55:53
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5001376 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000727
+CUSTOMER_ID: 2147
+DATE: 2026-07-19 09:45:49
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000728
+CUSTOMER_ID: 3695
+DATE: 2026-09-22 06:36:47
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4468. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000729
+CUSTOMER_ID: 1821
+DATE: 2026-08-03 23:41:14
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000730
+CUSTOMER_ID: 640
+DATE: 2026-08-25 08:23:17
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 618 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000731
+CUSTOMER_ID: 2614
+DATE: 2026-09-06 23:28:36
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5001741 has not arrived yet and the tracking has been stuck for 8 days. Please help.
+---
+TICKET_ID: T0000732
+CUSTOMER_ID: 1122
+DATE: 2026-08-16 16:00:26
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7160. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000733
+CUSTOMER_ID: 1596
+DATE: 2026-09-08 20:24:04
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 4767? I paid via UPI.
+---
+TICKET_ID: T0000734
+CUSTOMER_ID: 1323
+DATE: 2026-08-17 00:55:12
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 4104 5 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000735
+CUSTOMER_ID: 3793
+DATE: 2026-08-02 22:43:39
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5157? I paid via UPI.
+---
+TICKET_ID: T0000736
+CUSTOMER_ID: 877
+DATE: 2026-08-09 08:36:59
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000990 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000737
+CUSTOMER_ID: 3371
+DATE: 2026-08-31 02:47:55
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000738
+CUSTOMER_ID: 3204
+DATE: 2026-07-27 07:04:29
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 3956! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000739
+CUSTOMER_ID: 3330
+DATE: 2026-09-07 07:36:52
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 2299. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000740
+CUSTOMER_ID: 3885
+DATE: 2026-09-14 02:05:50
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5022 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000741
+CUSTOMER_ID: 3862
+DATE: 2026-08-10 09:53:04
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4147 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000742
+CUSTOMER_ID: 673
+DATE: 2026-09-13 22:30:35
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 3704 has not arrived yet and the tracking has been stuck for 13 days. Please help.
+---
+TICKET_ID: T0000743
+CUSTOMER_ID: 2997
+DATE: 2026-08-01 06:48:16
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 6476? I paid via UPI.
+---
+TICKET_ID: T0000744
+CUSTOMER_ID: 493
+DATE: 2026-07-06 15:52:33
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 6918 4 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000745
+CUSTOMER_ID: 1673
+DATE: 2026-08-31 10:21:41
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3795? I paid via UPI.
+---
+TICKET_ID: T0000746
+CUSTOMER_ID: 1300
+DATE: 2026-07-20 11:49:43
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000747
+CUSTOMER_ID: 3349
+DATE: 2026-08-21 06:25:17
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000748
+CUSTOMER_ID: 737
+DATE: 2026-09-18 11:44:36
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5001941 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000749
+CUSTOMER_ID: 2910
+DATE: 2026-09-04 06:42:49
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000750
+CUSTOMER_ID: 523
+DATE: 2026-09-26 02:38:21
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3287 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000751
+CUSTOMER_ID: 1197
+DATE: 2026-09-15 08:33:52
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 3914 has not arrived yet and the tracking has been stuck for 3 days. Please help.
+---
+TICKET_ID: T0000752
+CUSTOMER_ID: 82
+DATE: 2026-07-18 01:33:21
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 6881 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000753
+CUSTOMER_ID: 3626
+DATE: 2026-08-18 15:31:44
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 1769. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000754
+CUSTOMER_ID: 765
+DATE: 2026-08-03 20:53:17
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000755
+CUSTOMER_ID: 3941
+DATE: 2026-09-10 12:19:14
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5761 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000756
+CUSTOMER_ID: 2853
+DATE: 2026-09-01 07:02:41
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5000717 stopped working after 5 days. It looks defective.
+---
+TICKET_ID: T0000757
+CUSTOMER_ID: 3234
+DATE: 2026-07-20 14:07:59
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5049? I paid via UPI.
+---
+TICKET_ID: T0000758
+CUSTOMER_ID: 1370
+DATE: 2026-08-18 08:33:18
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 4377? I paid via UPI.
+---
+TICKET_ID: T0000759
+CUSTOMER_ID: 1652
+DATE: 2026-09-14 09:59:42
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000760
+CUSTOMER_ID: 1496
+DATE: 2026-07-28 21:55:42
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000761
+CUSTOMER_ID: 3967
+DATE: 2026-07-16 06:21:46
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 4229 7 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000762
+CUSTOMER_ID: 3769
+DATE: 2026-09-16 00:28:00
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 599? I paid via UPI.
+---
+TICKET_ID: T0000763
+CUSTOMER_ID: 1675
+DATE: 2026-08-06 01:03:29
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3647? I paid via UPI.
+---
+TICKET_ID: T0000764
+CUSTOMER_ID: 2464
+DATE: 2026-07-20 04:22:22
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 4499 has not arrived yet and the tracking has been stuck for 5 days. Please help.
+---
+TICKET_ID: T0000765
+CUSTOMER_ID: 1597
+DATE: 2026-07-29 14:22:19
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000766
+CUSTOMER_ID: 1210
+DATE: 2026-07-26 05:05:50
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 2774 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000767
+CUSTOMER_ID: 2784
+DATE: 2026-08-11 07:32:33
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 7898! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000768
+CUSTOMER_ID: 3217
+DATE: 2026-08-18 13:38:56
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5001388 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000769
+CUSTOMER_ID: 3092
+DATE: 2026-09-01 01:17:21
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 370? I paid via UPI.
+---
+TICKET_ID: T0000770
+CUSTOMER_ID: 146
+DATE: 2026-07-17 00:35:47
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000771
+CUSTOMER_ID: 385
+DATE: 2026-09-01 15:08:34
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 2781 has not arrived yet and the tracking has been stuck for 12 days. Please help.
+---
+TICKET_ID: T0000772
+CUSTOMER_ID: 3747
+DATE: 2026-09-18 23:46:21
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000773
+CUSTOMER_ID: 2367
+DATE: 2026-09-28 00:16:50
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 513! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000774
+CUSTOMER_ID: 2046
+DATE: 2026-07-09 12:52:16
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001699! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000775
+CUSTOMER_ID: 1607
+DATE: 2026-07-10 04:59:28
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5000086 has not arrived yet and the tracking has been stuck for 2 days. Please help.
+---
+TICKET_ID: T0000776
+CUSTOMER_ID: 1612
+DATE: 2026-09-29 07:23:17
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000777
+CUSTOMER_ID: 3588
+DATE: 2026-07-19 01:03:58
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000778
+CUSTOMER_ID: 295
+DATE: 2026-09-01 06:38:31
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5001900. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000779
+CUSTOMER_ID: 2125
+DATE: 2026-07-05 16:29:38
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000780
+CUSTOMER_ID: 3670
+DATE: 2026-08-16 03:23:34
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000781
+CUSTOMER_ID: 2021
+DATE: 2026-09-09 18:49:16
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5773? I paid via UPI.
+---
+TICKET_ID: T0000782
+CUSTOMER_ID: 2276
+DATE: 2026-08-04 12:49:39
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 2082? I paid via UPI.
+---
+TICKET_ID: T0000783
+CUSTOMER_ID: 2
+DATE: 2026-09-26 21:39:28
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000784
+CUSTOMER_ID: 2818
+DATE: 2026-07-09 05:41:16
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000785
+CUSTOMER_ID: 651
+DATE: 2026-08-13 17:01:47
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001106! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000786
+CUSTOMER_ID: 2086
+DATE: 2026-07-08 22:28:01
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7867. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000787
+CUSTOMER_ID: 3106
+DATE: 2026-09-08 08:26:57
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5002051. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000788
+CUSTOMER_ID: 3369
+DATE: 2026-07-21 23:11:25
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6989. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000789
+CUSTOMER_ID: 3737
+DATE: 2026-08-11 15:12:13
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5202 11 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000790
+CUSTOMER_ID: 1667
+DATE: 2026-09-23 01:56:19
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4463 stopped working after 13 days. It looks defective.
+---
+TICKET_ID: T0000791
+CUSTOMER_ID: 2599
+DATE: 2026-09-24 07:51:36
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000792
+CUSTOMER_ID: 1764
+DATE: 2026-08-12 03:30:01
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 1832 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000793
+CUSTOMER_ID: 2899
+DATE: 2026-08-10 11:42:21
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 1951 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000794
+CUSTOMER_ID: 2210
+DATE: 2026-09-21 06:47:19
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000795
+CUSTOMER_ID: 2670
+DATE: 2026-08-25 15:47:07
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5781 stopped working after 10 days. It looks defective.
+---
+TICKET_ID: T0000796
+CUSTOMER_ID: 931
+DATE: 2026-07-06 20:17:57
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 4074! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000797
+CUSTOMER_ID: 2165
+DATE: 2026-08-10 08:48:27
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 460! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000798
+CUSTOMER_ID: 588
+DATE: 2026-09-21 14:04:03
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 183 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000799
+CUSTOMER_ID: 3854
+DATE: 2026-07-20 02:13:06
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000800
+CUSTOMER_ID: 3027
+DATE: 2026-08-05 09:39:22
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 3179? I paid via UPI.
+---
+TICKET_ID: T0000801
+CUSTOMER_ID: 2772
+DATE: 2026-09-23 11:45:19
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5540 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000802
+CUSTOMER_ID: 1593
+DATE: 2026-07-28 18:08:46
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5001025 stopped working after 7 days. It looks defective.
+---
+TICKET_ID: T0000803
+CUSTOMER_ID: 1076
+DATE: 2026-08-18 15:35:21
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5002381 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000804
+CUSTOMER_ID: 604
+DATE: 2026-08-04 21:59:34
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4422. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000805
+CUSTOMER_ID: 2945
+DATE: 2026-07-05 02:40:34
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 1669 has not arrived yet and the tracking has been stuck for 3 days. Please help.
+---
+TICKET_ID: T0000806
+CUSTOMER_ID: 3519
+DATE: 2026-07-20 14:36:32
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 4474! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000807
+CUSTOMER_ID: 1582
+DATE: 2026-08-21 07:33:32
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000808
+CUSTOMER_ID: 2621
+DATE: 2026-09-12 19:45:15
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 77 has not arrived yet and the tracking has been stuck for 10 days. Please help.
+---
+TICKET_ID: T0000809
+CUSTOMER_ID: 3749
+DATE: 2026-07-08 15:00:44
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000810
+CUSTOMER_ID: 1405
+DATE: 2026-08-17 16:53:40
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3693 stopped working after 5 days. It looks defective.
+---
+TICKET_ID: T0000811
+CUSTOMER_ID: 2409
+DATE: 2026-07-27 06:35:29
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 2500! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000812
+CUSTOMER_ID: 3845
+DATE: 2026-08-16 01:54:36
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000813
+CUSTOMER_ID: 1991
+DATE: 2026-08-22 02:06:59
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 1108? I paid via UPI.
+---
+TICKET_ID: T0000814
+CUSTOMER_ID: 2049
+DATE: 2026-08-16 22:53:02
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5971 stopped working after 9 days. It looks defective.
+---
+TICKET_ID: T0000815
+CUSTOMER_ID: 635
+DATE: 2026-07-12 16:35:15
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000816
+CUSTOMER_ID: 1370
+DATE: 2026-07-25 11:06:49
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000817
+CUSTOMER_ID: 2892
+DATE: 2026-09-05 17:26:04
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000818
+CUSTOMER_ID: 1013
+DATE: 2026-08-09 19:46:31
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5002180 has not arrived yet and the tracking has been stuck for 3 days. Please help.
+---
+TICKET_ID: T0000819
+CUSTOMER_ID: 3006
+DATE: 2026-08-15 17:45:12
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001187 4 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000820
+CUSTOMER_ID: 780
+DATE: 2026-07-17 02:01:14
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000821
+CUSTOMER_ID: 3976
+DATE: 2026-09-02 00:16:21
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5149. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000822
+CUSTOMER_ID: 993
+DATE: 2026-09-07 14:29:48
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 1503. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000823
+CUSTOMER_ID: 2270
+DATE: 2026-08-16 01:20:06
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7377. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000824
+CUSTOMER_ID: 3587
+DATE: 2026-08-05 17:34:24
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000825
+CUSTOMER_ID: 144
+DATE: 2026-07-26 09:15:08
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000826
+CUSTOMER_ID: 1400
+DATE: 2026-08-21 11:52:59
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001863! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000827
+CUSTOMER_ID: 2777
+DATE: 2026-08-09 04:58:50
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 372 stopped working after 13 days. It looks defective.
+---
+TICKET_ID: T0000828
+CUSTOMER_ID: 2952
+DATE: 2026-09-16 09:36:37
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 7006? I paid via UPI.
+---
+TICKET_ID: T0000829
+CUSTOMER_ID: 1399
+DATE: 2026-09-16 21:22:28
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1227! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000830
+CUSTOMER_ID: 894
+DATE: 2026-07-20 21:34:06
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 2363 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000831
+CUSTOMER_ID: 651
+DATE: 2026-07-30 05:58:05
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5001358 has not arrived yet and the tracking has been stuck for 8 days. Please help.
+---
+TICKET_ID: T0000832
+CUSTOMER_ID: 2062
+DATE: 2026-09-23 16:13:06
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6226 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000833
+CUSTOMER_ID: 2349
+DATE: 2026-09-06 12:14:59
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 7583 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000834
+CUSTOMER_ID: 1231
+DATE: 2026-08-01 06:15:16
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 941 has not arrived yet and the tracking has been stuck for 13 days. Please help.
+---
+TICKET_ID: T0000835
+CUSTOMER_ID: 2568
+DATE: 2026-09-18 00:47:51
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 3286 has not arrived yet and the tracking has been stuck for 14 days. Please help.
+---
+TICKET_ID: T0000836
+CUSTOMER_ID: 3698
+DATE: 2026-07-30 17:04:16
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6637! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000837
+CUSTOMER_ID: 1586
+DATE: 2026-07-24 22:35:40
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5725 14 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000838
+CUSTOMER_ID: 597
+DATE: 2026-07-29 06:15:42
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000839
+CUSTOMER_ID: 912
+DATE: 2026-08-12 05:11:01
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 1546. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000840
+CUSTOMER_ID: 1552
+DATE: 2026-07-31 04:18:22
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6125! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000841
+CUSTOMER_ID: 196
+DATE: 2026-07-30 09:14:05
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000842
+CUSTOMER_ID: 1397
+DATE: 2026-09-11 06:09:46
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000843
+CUSTOMER_ID: 1459
+DATE: 2026-07-13 08:21:53
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7781. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000844
+CUSTOMER_ID: 1079
+DATE: 2026-09-13 06:53:45
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000845
+CUSTOMER_ID: 3465
+DATE: 2026-09-17 15:19:10
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 335! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000846
+CUSTOMER_ID: 1362
+DATE: 2026-08-29 12:15:37
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7657. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000847
+CUSTOMER_ID: 2224
+DATE: 2026-08-22 15:36:24
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 991! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000848
+CUSTOMER_ID: 972
+DATE: 2026-08-07 21:43:09
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 62! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000849
+CUSTOMER_ID: 1441
+DATE: 2026-08-10 20:15:56
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4934. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000850
+CUSTOMER_ID: 3450
+DATE: 2026-09-13 03:55:45
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5000580 stopped working after 6 days. It looks defective.
+---
+TICKET_ID: T0000851
+CUSTOMER_ID: 456
+DATE: 2026-08-31 14:52:39
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5758 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000852
+CUSTOMER_ID: 336
+DATE: 2026-08-21 21:52:52
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5940 stopped working after 12 days. It looks defective.
+---
+TICKET_ID: T0000853
+CUSTOMER_ID: 3603
+DATE: 2026-07-18 11:08:02
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6205! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000854
+CUSTOMER_ID: 3541
+DATE: 2026-09-30 20:19:00
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 7906! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000855
+CUSTOMER_ID: 1037
+DATE: 2026-08-14 17:42:42
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4650 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000856
+CUSTOMER_ID: 3516
+DATE: 2026-07-10 23:59:01
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5871. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000857
+CUSTOMER_ID: 3509
+DATE: 2026-07-25 02:33:19
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5000246 stopped working after 14 days. It looks defective.
+---
+TICKET_ID: T0000858
+CUSTOMER_ID: 58
+DATE: 2026-08-02 10:11:00
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 1820? I paid via UPI.
+---
+TICKET_ID: T0000859
+CUSTOMER_ID: 501
+DATE: 2026-08-23 17:06:02
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 7545! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000860
+CUSTOMER_ID: 3356
+DATE: 2026-09-18 10:19:53
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5514. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000861
+CUSTOMER_ID: 1209
+DATE: 2026-08-14 23:44:28
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5536 6 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000862
+CUSTOMER_ID: 2146
+DATE: 2026-08-26 17:01:05
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 3071! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000863
+CUSTOMER_ID: 3226
+DATE: 2026-08-16 14:22:48
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3303 stopped working after 9 days. It looks defective.
+---
+TICKET_ID: T0000864
+CUSTOMER_ID: 3534
+DATE: 2026-09-14 23:52:06
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 6123 stopped working after 10 days. It looks defective.
+---
+TICKET_ID: T0000865
+CUSTOMER_ID: 1130
+DATE: 2026-08-24 12:09:04
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000866
+CUSTOMER_ID: 403
+DATE: 2026-07-25 12:12:57
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 2462 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000867
+CUSTOMER_ID: 356
+DATE: 2026-07-01 03:20:45
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000868
+CUSTOMER_ID: 1851
+DATE: 2026-08-03 18:22:48
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000869
+CUSTOMER_ID: 1703
+DATE: 2026-07-09 22:59:46
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000870
+CUSTOMER_ID: 758
+DATE: 2026-08-26 23:02:05
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000871
+CUSTOMER_ID: 2021
+DATE: 2026-09-11 21:45:37
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 6486 stopped working after 12 days. It looks defective.
+---
+TICKET_ID: T0000872
+CUSTOMER_ID: 742
+DATE: 2026-09-11 23:45:11
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000873
+CUSTOMER_ID: 2743
+DATE: 2026-08-08 22:05:21
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6187. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000874
+CUSTOMER_ID: 3005
+DATE: 2026-08-16 15:26:47
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5000126. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000875
+CUSTOMER_ID: 303
+DATE: 2026-07-07 16:29:31
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6528! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000876
+CUSTOMER_ID: 3062
+DATE: 2026-08-15 06:22:28
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 2624 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000877
+CUSTOMER_ID: 2392
+DATE: 2026-08-15 20:17:42
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 6702! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000878
+CUSTOMER_ID: 2155
+DATE: 2026-08-30 08:02:50
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 2672! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000879
+CUSTOMER_ID: 2070
+DATE: 2026-09-08 12:37:42
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 2566! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000880
+CUSTOMER_ID: 51
+DATE: 2026-07-08 15:13:25
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 7638 9 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000881
+CUSTOMER_ID: 16
+DATE: 2026-07-01 04:06:54
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000118 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000882
+CUSTOMER_ID: 1790
+DATE: 2026-09-30 14:21:41
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5000819 stopped working after 8 days. It looks defective.
+---
+TICKET_ID: T0000883
+CUSTOMER_ID: 153
+DATE: 2026-07-24 18:28:54
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 289 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000884
+CUSTOMER_ID: 3581
+DATE: 2026-09-30 06:22:29
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000885
+CUSTOMER_ID: 3448
+DATE: 2026-09-10 06:08:36
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5001082? I paid via UPI.
+---
+TICKET_ID: T0000886
+CUSTOMER_ID: 859
+DATE: 2026-07-09 09:05:31
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5001243! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000887
+CUSTOMER_ID: 2729
+DATE: 2026-07-06 09:24:18
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000888
+CUSTOMER_ID: 1594
+DATE: 2026-09-04 06:54:11
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5002019 2 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000889
+CUSTOMER_ID: 3401
+DATE: 2026-08-13 02:39:54
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000890
+CUSTOMER_ID: 495
+DATE: 2026-07-03 04:04:59
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5852. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000891
+CUSTOMER_ID: 24
+DATE: 2026-09-01 21:54:21
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 194? I paid via UPI.
+---
+TICKET_ID: T0000892
+CUSTOMER_ID: 3593
+DATE: 2026-09-18 23:40:05
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 404 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000893
+CUSTOMER_ID: 491
+DATE: 2026-09-04 09:23:24
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000894
+CUSTOMER_ID: 1587
+DATE: 2026-09-24 04:25:32
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000895
+CUSTOMER_ID: 1421
+DATE: 2026-09-01 08:05:48
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5000255 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000896
+CUSTOMER_ID: 375
+DATE: 2026-08-16 11:06:29
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000897
+CUSTOMER_ID: 3981
+DATE: 2026-09-04 06:22:22
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5001619 3 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000898
+CUSTOMER_ID: 2096
+DATE: 2026-09-13 17:30:33
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000899
+CUSTOMER_ID: 3588
+DATE: 2026-08-21 22:28:01
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 1302! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000900
+CUSTOMER_ID: 3436
+DATE: 2026-07-10 16:41:52
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 3777 has not arrived yet and the tracking has been stuck for 10 days. Please help.
+---
+TICKET_ID: T0000901
+CUSTOMER_ID: 3472
+DATE: 2026-07-20 20:00:36
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000902
+CUSTOMER_ID: 3390
+DATE: 2026-07-27 12:54:41
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1294 14 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000903
+CUSTOMER_ID: 1655
+DATE: 2026-08-28 15:42:07
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000904
+CUSTOMER_ID: 2295
+DATE: 2026-08-20 01:41:33
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000905
+CUSTOMER_ID: 419
+DATE: 2026-08-19 15:42:19
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3363 14 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000906
+CUSTOMER_ID: 1761
+DATE: 2026-07-30 00:45:40
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000907
+CUSTOMER_ID: 2817
+DATE: 2026-08-25 05:26:20
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 2372 stopped working after 6 days. It looks defective.
+---
+TICKET_ID: T0000908
+CUSTOMER_ID: 2186
+DATE: 2026-08-31 02:39:41
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 6204 12 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000909
+CUSTOMER_ID: 3901
+DATE: 2026-08-16 02:13:24
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 3212 5 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000910
+CUSTOMER_ID: 3032
+DATE: 2026-09-09 07:58:33
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 2138! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000911
+CUSTOMER_ID: 2459
+DATE: 2026-07-15 09:40:00
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 4063 10 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000912
+CUSTOMER_ID: 734
+DATE: 2026-07-15 23:59:46
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000913
+CUSTOMER_ID: 3073
+DATE: 2026-09-09 07:37:50
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000914
+CUSTOMER_ID: 2966
+DATE: 2026-09-22 00:34:05
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4841 stopped working after 4 days. It looks defective.
+---
+TICKET_ID: T0000915
+CUSTOMER_ID: 2632
+DATE: 2026-07-27 08:01:55
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 4836! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000916
+CUSTOMER_ID: 306
+DATE: 2026-08-03 04:24:34
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5000422! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000917
+CUSTOMER_ID: 688
+DATE: 2026-09-26 20:27:49
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5000018? I paid via UPI.
+---
+TICKET_ID: T0000918
+CUSTOMER_ID: 3030
+DATE: 2026-09-17 10:48:14
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 605 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000919
+CUSTOMER_ID: 687
+DATE: 2026-07-04 18:01:34
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 806 3 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000920
+CUSTOMER_ID: 3483
+DATE: 2026-08-06 18:19:43
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5000663? I paid via UPI.
+---
+TICKET_ID: T0000921
+CUSTOMER_ID: 3952
+DATE: 2026-07-08 06:22:15
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5001984. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000922
+CUSTOMER_ID: 1159
+DATE: 2026-08-17 11:39:27
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5515 has not arrived yet and the tracking has been stuck for 8 days. Please help.
+---
+TICKET_ID: T0000923
+CUSTOMER_ID: 3008
+DATE: 2026-07-08 03:05:04
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000924
+CUSTOMER_ID: 668
+DATE: 2026-08-30 23:53:37
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 4267 stopped working after 11 days. It looks defective.
+---
+TICKET_ID: T0000925
+CUSTOMER_ID: 3411
+DATE: 2026-07-01 04:12:01
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000926
+CUSTOMER_ID: 135
+DATE: 2026-07-16 11:10:07
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 709! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000927
+CUSTOMER_ID: 2973
+DATE: 2026-09-03 19:05:10
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 3884. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000928
+CUSTOMER_ID: 812
+DATE: 2026-07-20 21:50:01
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3927 stopped working after 9 days. It looks defective.
+---
+TICKET_ID: T0000929
+CUSTOMER_ID: 2740
+DATE: 2026-08-19 14:52:03
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000930
+CUSTOMER_ID: 3327
+DATE: 2026-07-29 19:12:30
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000931
+CUSTOMER_ID: 455
+DATE: 2026-08-04 05:38:46
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000932
+CUSTOMER_ID: 1965
+DATE: 2026-07-15 21:15:37
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5915 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000933
+CUSTOMER_ID: 1744
+DATE: 2026-07-07 12:54:02
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 761 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000934
+CUSTOMER_ID: 333
+DATE: 2026-07-14 20:37:59
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 1562 stopped working after 3 days. It looks defective.
+---
+TICKET_ID: T0000935
+CUSTOMER_ID: 2078
+DATE: 2026-07-05 15:30:27
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000936
+CUSTOMER_ID: 2552
+DATE: 2026-08-14 06:53:24
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5000017? I paid via UPI.
+---
+TICKET_ID: T0000937
+CUSTOMER_ID: 101
+DATE: 2026-07-12 00:40:28
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 7286. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000938
+CUSTOMER_ID: 823
+DATE: 2026-08-19 17:13:06
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 2177 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000939
+CUSTOMER_ID: 483
+DATE: 2026-07-18 00:17:31
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4196 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000940
+CUSTOMER_ID: 1153
+DATE: 2026-07-29 22:33:50
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 4815! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000941
+CUSTOMER_ID: 3987
+DATE: 2026-08-06 06:00:36
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5001202 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000942
+CUSTOMER_ID: 2946
+DATE: 2026-07-07 08:21:12
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5002131 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000943
+CUSTOMER_ID: 1755
+DATE: 2026-07-31 13:59:30
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 6384. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000944
+CUSTOMER_ID: 1942
+DATE: 2026-09-13 05:37:36
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000945
+CUSTOMER_ID: 1416
+DATE: 2026-09-12 08:40:21
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000946
+CUSTOMER_ID: 259
+DATE: 2026-09-25 19:05:32
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000947
+CUSTOMER_ID: 3827
+DATE: 2026-08-23 14:10:54
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 1187? I paid via UPI.
+---
+TICKET_ID: T0000948
+CUSTOMER_ID: 2079
+DATE: 2026-08-26 00:40:42
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 7406? I paid via UPI.
+---
+TICKET_ID: T0000949
+CUSTOMER_ID: 3390
+DATE: 2026-08-08 08:49:29
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 7991! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000950
+CUSTOMER_ID: 1985
+DATE: 2026-09-07 01:23:00
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 7785 has not arrived yet and the tracking has been stuck for 7 days. Please help.
+---
+TICKET_ID: T0000951
+CUSTOMER_ID: 3830
+DATE: 2026-07-13 00:33:08
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000952
+CUSTOMER_ID: 561
+DATE: 2026-07-07 08:15:39
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 7837 12 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000953
+CUSTOMER_ID: 2361
+DATE: 2026-08-07 12:34:48
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5001811? I paid via UPI.
+---
+TICKET_ID: T0000954
+CUSTOMER_ID: 3844
+DATE: 2026-07-03 14:22:47
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000955
+CUSTOMER_ID: 1808
+DATE: 2026-07-15 05:10:27
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 7984? I paid via UPI.
+---
+TICKET_ID: T0000956
+CUSTOMER_ID: 3551
+DATE: 2026-07-26 22:52:48
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5724 has not arrived yet and the tracking has been stuck for 8 days. Please help.
+---
+TICKET_ID: T0000957
+CUSTOMER_ID: 2998
+DATE: 2026-08-27 02:06:57
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 2762 12 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000958
+CUSTOMER_ID: 3746
+DATE: 2026-08-23 01:28:20
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000959
+CUSTOMER_ID: 2900
+DATE: 2026-08-04 08:02:11
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 2244 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000960
+CUSTOMER_ID: 493
+DATE: 2026-08-04 05:05:32
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000961
+CUSTOMER_ID: 3714
+DATE: 2026-08-05 05:22:34
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 1844? I paid via UPI.
+---
+TICKET_ID: T0000962
+CUSTOMER_ID: 593
+DATE: 2026-08-21 04:00:03
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000963
+CUSTOMER_ID: 3855
+DATE: 2026-08-01 04:56:55
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 5009 8 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000964
+CUSTOMER_ID: 3242
+DATE: 2026-07-04 11:27:48
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 3998! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000965
+CUSTOMER_ID: 752
+DATE: 2026-08-21 03:48:44
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000966
+CUSTOMER_ID: 3540
+DATE: 2026-09-14 13:24:22
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5001926 has not arrived yet and the tracking has been stuck for 2 days. Please help.
+---
+TICKET_ID: T0000967
+CUSTOMER_ID: 1295
+DATE: 2026-07-10 08:51:17
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 5600! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000968
+CUSTOMER_ID: 2798
+DATE: 2026-09-04 23:35:26
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 5209 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000969
+CUSTOMER_ID: 675
+DATE: 2026-09-09 08:24:47
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 2970? I paid via UPI.
+---
+TICKET_ID: T0000970
+CUSTOMER_ID: 2297
+DATE: 2026-09-11 09:33:30
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5130? I paid via UPI.
+---
+TICKET_ID: T0000971
+CUSTOMER_ID: 3362
+DATE: 2026-09-25 08:29:17
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 7069 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000972
+CUSTOMER_ID: 1881
+DATE: 2026-08-14 13:55:08
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 229 13 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000973
+CUSTOMER_ID: 2988
+DATE: 2026-08-12 23:08:26
+CATEGORY: product
+SENTIMENT: positive
+BODY: Great quality on order 3977! Delivered early, would like to buy more from the same brand.
+---
+TICKET_ID: T0000974
+CUSTOMER_ID: 2526
+DATE: 2026-08-22 23:38:58
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000975
+CUSTOMER_ID: 3832
+DATE: 2026-07-25 21:59:08
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6271 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000976
+CUSTOMER_ID: 3382
+DATE: 2026-08-19 15:32:13
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 1144 5 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000977
+CUSTOMER_ID: 15
+DATE: 2026-08-26 00:26:20
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 484? I paid via UPI.
+---
+TICKET_ID: T0000978
+CUSTOMER_ID: 2491
+DATE: 2026-07-17 06:34:14
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 4340 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000979
+CUSTOMER_ID: 3127
+DATE: 2026-09-28 07:27:30
+CATEGORY: refund
+SENTIMENT: negative
+BODY: I returned the item from order 416 9 days ago but the refund has not been credited.
+---
+TICKET_ID: T0000980
+CUSTOMER_ID: 2516
+DATE: 2026-08-17 13:41:20
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000981
+CUSTOMER_ID: 168
+DATE: 2026-09-21 14:31:58
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 3539 stopped working after 2 days. It looks defective.
+---
+TICKET_ID: T0000982
+CUSTOMER_ID: 3357
+DATE: 2026-07-21 10:49:58
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 5001351 stopped working after 11 days. It looks defective.
+---
+TICKET_ID: T0000983
+CUSTOMER_ID: 3518
+DATE: 2026-08-27 11:05:58
+CATEGORY: product
+SENTIMENT: negative
+BODY: The product in order 1543 stopped working after 7 days. It looks defective.
+---
+TICKET_ID: T0000984
+CUSTOMER_ID: 2275
+DATE: 2026-08-21 04:00:31
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5001300. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000985
+CUSTOMER_ID: 1389
+DATE: 2026-09-02 14:10:37
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000986
+CUSTOMER_ID: 582
+DATE: 2026-09-17 23:24:07
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 7512? I paid via UPI.
+---
+TICKET_ID: T0000987
+CUSTOMER_ID: 598
+DATE: 2026-08-18 07:47:32
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 4454 has not arrived yet and the tracking has been stuck for 11 days. Please help.
+---
+TICKET_ID: T0000988
+CUSTOMER_ID: 62
+DATE: 2026-07-02 19:10:28
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 5000154. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000989
+CUSTOMER_ID: 3845
+DATE: 2026-09-25 23:42:50
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000990
+CUSTOMER_ID: 872
+DATE: 2026-09-01 13:06:25
+CATEGORY: cart
+SENTIMENT: negative
+BODY: My cart keeps emptying at checkout and the coupon code will not apply, so I abandoned the purchase.
+---
+TICKET_ID: T0000991
+CUSTOMER_ID: 1512
+DATE: 2026-08-28 06:36:12
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000992
+CUSTOMER_ID: 2105
+DATE: 2026-09-20 19:16:13
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 7901 has not arrived yet and the tracking has been stuck for 7 days. Please help.
+---
+TICKET_ID: T0000993
+CUSTOMER_ID: 1971
+DATE: 2026-09-21 10:40:34
+CATEGORY: account
+SENTIMENT: neutral
+BODY: I want to update my delivery address and phone number on my account.
+---
+TICKET_ID: T0000994
+CUSTOMER_ID: 3309
+DATE: 2026-07-06 21:31:36
+CATEGORY: payment
+SENTIMENT: negative
+BODY: Money was debited twice for order 4829. Please reverse the duplicate payment.
+---
+TICKET_ID: T0000995
+CUSTOMER_ID: 2671
+DATE: 2026-09-06 12:00:02
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 1452 has not arrived yet and the tracking has been stuck for 13 days. Please help.
+---
+TICKET_ID: T0000996
+CUSTOMER_ID: 2955
+DATE: 2026-07-15 15:55:25
+CATEGORY: cart
+SENTIMENT: neutral
+BODY: Is free shipping available if I complete my cart purchase today?
+---
+TICKET_ID: T0000997
+CUSTOMER_ID: 2983
+DATE: 2026-08-24 04:02:20
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 1886 has not arrived yet and the tracking has been stuck for 4 days. Please help.
+---
+TICKET_ID: T0000998
+CUSTOMER_ID: 2949
+DATE: 2026-09-04 06:20:50
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: The package for order 6417 was delivered to the wrong address. I need a redelivery.
+---
+TICKET_ID: T0000999
+CUSTOMER_ID: 2659
+DATE: 2026-07-22 20:52:59
+CATEGORY: refund
+SENTIMENT: neutral
+BODY: Could you confirm the refund timeline for order 5791? I paid via UPI.
+---
+TICKET_ID: T0001000
+CUSTOMER_ID: 3915
+DATE: 2026-07-10 06:23:39
+CATEGORY: delivery
+SENTIMENT: negative
+BODY: My order 5001489 has not arrived yet and the tracking has been stuck for 13 days. Please help.
+---

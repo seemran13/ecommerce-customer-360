@@ -1,0 +1,461 @@
+import struct
+from typing import Any
+
+from ..thrift import TType
+
+from .exc import TProtocolException
+from .base import TProtocolBase
+
+# VERSION_MASK = 0xffff0000
+VERSION_MASK = -65536
+# VERSION_1 = 0x80010000
+VERSION_1 = -2147418112
+TYPE_MASK = 0x000000ff
+BIN_TYPES = (TType.STRING, TType.BINARY)
+
+# How deep structs and containers may nest, the outermost struct included,
+# before reading, writing or skipping raises RecursionError. Same default as
+# Apache Thrift and the Cython implementation.
+DEFAULT_MAX_DEPTH = 64
+
+
+def check_depth(budget, where):
+    if budget <= 0:
+        raise RecursionError("maximum nesting depth exceeded" + where)
+
+
+def pack_i8(byte):
+    return struct.pack("!b", byte)
+
+
+def pack_i16(i16):
+    return struct.pack("!h", i16)
+
+
+def pack_i32(i32):
+    return struct.pack("!i", i32)
+
+
+def pack_i64(i64):
+    return struct.pack("!q", i64)
+
+
+def pack_double(dub):
+    return struct.pack("!d", dub)
+
+
+def pack_string(string):
+    return struct.pack("!i%ds" % len(string), len(string), string)
+
+
+def unpack_i8(buf):
+    return struct.unpack("!b", buf)[0]
+
+
+def unpack_i16(buf):
+    return struct.unpack("!h", buf)[0]
+
+
+def unpack_i32(buf):
+    return struct.unpack("!i", buf)[0]
+
+
+def unpack_i64(buf):
+    return struct.unpack("!q", buf)[0]
+
+
+def unpack_double(buf):
+    return struct.unpack("!d", buf)[0]
+
+
+def write_message_begin(outbuf, name, ttype, seqid, strict=True):
+    if strict:
+        outbuf.write(pack_i32(VERSION_1 | ttype))
+        outbuf.write(pack_string(name.encode('utf-8')))
+    else:
+        outbuf.write(pack_string(name.encode('utf-8')))
+        outbuf.write(pack_i8(ttype))
+
+    outbuf.write(pack_i32(seqid))
+
+
+def write_field_begin(outbuf, ttype, fid):
+    if ttype == TType.BINARY:
+        ttype = TType.STRING
+    outbuf.write(pack_i8(ttype) + pack_i16(fid))
+
+
+def write_field_stop(outbuf):
+    outbuf.write(pack_i8(TType.STOP))
+
+
+def write_list_begin(outbuf, etype, size):
+    if etype == TType.BINARY:
+        etype = TType.STRING
+    outbuf.write(pack_i8(etype) + pack_i32(size))
+
+
+def write_map_begin(outbuf, ktype, vtype, size):
+    if ktype == TType.BINARY:
+        ktype = TType.STRING
+    if vtype == TType.BINARY:
+        vtype = TType.STRING
+    outbuf.write(pack_i8(ktype) + pack_i8(vtype) + pack_i32(size))
+
+
+def write_val(outbuf, ttype, val, spec: Any = None,
+              budget=DEFAULT_MAX_DEPTH):
+    if ttype == TType.BOOL:
+        if val:
+            outbuf.write(pack_i8(1))
+        else:
+            outbuf.write(pack_i8(0))
+
+    elif ttype == TType.BYTE:
+        outbuf.write(pack_i8(val))
+
+    elif ttype == TType.I16:
+        outbuf.write(pack_i16(val))
+
+    elif ttype == TType.I32:
+        outbuf.write(pack_i32(val))
+
+    elif ttype == TType.I64:
+        outbuf.write(pack_i64(val))
+
+    elif ttype == TType.DOUBLE:
+        outbuf.write(pack_double(val))
+
+    elif ttype in BIN_TYPES:
+        if isinstance(val, str):
+            val = val.encode('utf-8')
+        val = memoryview(val)
+        outbuf.write(pack_i32(val.nbytes))
+        outbuf.write(val)
+
+    elif ttype == TType.SET or ttype == TType.LIST:
+        if isinstance(spec, tuple):
+            e_type, t_spec = spec[0], spec[1]
+        else:
+            e_type, t_spec = spec, None
+
+        check_depth(budget, " while writing a Thrift container")
+        val_len = len(val)
+        write_list_begin(outbuf, e_type, val_len)
+        for e_val in val:
+            write_val(outbuf, e_type, e_val, t_spec, budget - 1)
+
+    elif ttype == TType.MAP:
+        if isinstance(spec[0], int):
+            k_type = spec[0]
+            k_spec = None
+        else:
+            k_type, k_spec = spec[0]
+
+        if isinstance(spec[1], int):
+            v_type = spec[1]
+            v_spec = None
+        else:
+            v_type, v_spec = spec[1]
+
+        check_depth(budget, " while writing a Thrift container")
+        write_map_begin(outbuf, k_type, v_type, len(val))
+        for k in iter(val):
+            write_val(outbuf, k_type, k, k_spec, budget - 1)
+            write_val(outbuf, v_type, val[k], v_spec, budget - 1)
+
+    elif ttype == TType.STRUCT:
+        check_depth(budget, " while writing a Thrift struct")
+        for fid in iter(val.thrift_spec):
+            f_spec = val.thrift_spec[fid]
+            if len(f_spec) == 3:
+                f_type, f_name, f_req = f_spec
+                f_container_spec = None
+            else:
+                f_type, f_name, f_container_spec, f_req = f_spec
+
+            v = getattr(val, f_name, None)
+            if v is None:
+                continue
+
+            write_field_begin(outbuf, f_type, fid)
+            write_val(outbuf, f_type, v, f_container_spec, budget - 1)
+        write_field_stop(outbuf)
+
+
+def read_message_begin(inbuf, strict=True):
+    sz = unpack_i32(inbuf.read(4))
+    if sz < 0:
+        version = sz & VERSION_MASK
+        if version != VERSION_1:
+            raise TProtocolException(
+                type=TProtocolException.BAD_VERSION,
+                message='Bad version in read_message_begin: %d' % (sz))
+        name_sz = unpack_i32(inbuf.read(4))
+        name = inbuf.read(name_sz).decode('utf-8')
+
+        type_ = sz & TYPE_MASK
+    else:
+        if strict:
+            raise TProtocolException(type=TProtocolException.BAD_VERSION,
+                                     message='No protocol version header')
+
+        name = inbuf.read(sz).decode('utf-8')
+        type_ = unpack_i8(inbuf.read(1))
+
+    seqid = unpack_i32(inbuf.read(4))
+
+    return name, type_, seqid
+
+
+def read_field_begin(inbuf):
+    f_type = unpack_i8(inbuf.read(1))
+    if f_type == TType.STOP:
+        return f_type, 0
+
+    return f_type, unpack_i16(inbuf.read(2))
+
+
+def read_list_begin(inbuf):
+    e_type = unpack_i8(inbuf.read(1))
+    sz = unpack_i32(inbuf.read(4))
+    return e_type, sz
+
+
+def read_map_begin(inbuf):
+    k_type, v_type = unpack_i8(inbuf.read(1)), unpack_i8(inbuf.read(1))
+    sz = unpack_i32(inbuf.read(4))
+    return k_type, v_type, sz
+
+
+def read_val(inbuf, ttype, spec: Any = None, decode_response=True,
+             strict_decode=False, budget=DEFAULT_MAX_DEPTH):
+    if ttype == TType.BOOL:
+        return bool(unpack_i8(inbuf.read(1)))
+
+    elif ttype == TType.BYTE:
+        return unpack_i8(inbuf.read(1))
+
+    elif ttype == TType.I16:
+        return unpack_i16(inbuf.read(2))
+
+    elif ttype == TType.I32:
+        return unpack_i32(inbuf.read(4))
+
+    elif ttype == TType.I64:
+        return unpack_i64(inbuf.read(8))
+
+    elif ttype == TType.DOUBLE:
+        return unpack_double(inbuf.read(8))
+
+    elif ttype == TType.BINARY:
+        sz = unpack_i32(inbuf.read(4))
+        return inbuf.read(sz)
+
+    elif ttype == TType.STRING:
+        sz = unpack_i32(inbuf.read(4))
+        byte_payload = inbuf.read(sz)
+
+        # Since we cannot tell if we're getting STRING or BINARY
+        # if not asked not to decode, try both
+        if decode_response:
+            try:
+                return byte_payload.decode('utf-8')
+            except UnicodeDecodeError:
+                if strict_decode:
+                    raise
+        return byte_payload
+
+    elif ttype == TType.SET or ttype == TType.LIST:
+        if isinstance(spec, tuple):
+            v_type, v_spec = spec[0], spec[1]
+        else:
+            v_type, v_spec = spec, None
+
+        check_depth(budget, " while reading a Thrift container")
+        budget -= 1
+        result = []
+        r_type, sz = read_list_begin(inbuf)
+        # the v_type is useless here since we already get it from spec
+        if (r_type != v_type
+                and not (r_type in BIN_TYPES and v_type in BIN_TYPES)):
+            for _ in range(sz):
+                skip(inbuf, r_type, budget)
+            return []
+
+        for i in range(sz):
+            result.append(read_val(inbuf, v_type, v_spec, decode_response,
+                                   strict_decode, budget))
+        return result
+
+    elif ttype == TType.MAP:
+        if isinstance(spec[0], int):
+            k_type = spec[0]
+            k_spec = None
+        else:
+            k_type, k_spec = spec[0]
+
+        if isinstance(spec[1], int):
+            v_type = spec[1]
+            v_spec = None
+        else:
+            v_type, v_spec = spec[1]
+
+        check_depth(budget, " while reading a Thrift container")
+        budget -= 1
+        result = {}
+        sk_type, sv_type, sz = read_map_begin(inbuf)
+        if sk_type in BIN_TYPES:
+            sk_type = k_type
+        if sv_type in BIN_TYPES:
+            sv_type = v_type
+        if sk_type != k_type or sv_type != v_type:
+            for _ in range(sz):
+                skip(inbuf, sk_type, budget)
+                skip(inbuf, sv_type, budget)
+            return {}
+
+        for i in range(sz):
+            k_val = read_val(inbuf, k_type, k_spec, decode_response,
+                             strict_decode, budget)
+            v_val = read_val(inbuf, v_type, v_spec, decode_response,
+                             strict_decode, budget)
+            result[k_val] = v_val
+
+        return result
+
+    elif ttype == TType.STRUCT:
+        obj = spec()
+        read_struct(inbuf, obj, decode_response, strict_decode, budget)
+        return obj
+
+
+def read_struct(inbuf, obj, decode_response=True, strict_decode=False,
+                budget=DEFAULT_MAX_DEPTH):
+    check_depth(budget, " while reading a Thrift struct")
+    budget -= 1
+    while True:
+        f_type, fid = read_field_begin(inbuf)
+        if f_type == TType.STOP:
+            break
+
+        if fid not in obj.thrift_spec:
+            skip(inbuf, f_type, budget)
+            continue
+
+        if len(obj.thrift_spec[fid]) == 3:
+            sf_type, f_name, f_req = obj.thrift_spec[fid]
+            f_container_spec = None
+        else:
+            sf_type, f_name, f_container_spec, f_req = obj.thrift_spec[fid]
+
+        # it really should equal here. but since we already wasted
+        # space storing the duplicate info, let's check it.
+        if f_type != sf_type:
+            if f_type in BIN_TYPES:
+                f_type = sf_type
+            else:
+                skip(inbuf, f_type, budget)
+                continue
+
+        setattr(obj, f_name,
+                read_val(inbuf, f_type, f_container_spec, decode_response,
+                         strict_decode, budget))
+
+
+def skip(inbuf, ftype, budget=DEFAULT_MAX_DEPTH):
+    if ftype == TType.BOOL or ftype == TType.BYTE:
+        inbuf.read(1)
+
+    elif ftype == TType.I16:
+        inbuf.read(2)
+
+    elif ftype == TType.I32:
+        inbuf.read(4)
+
+    elif ftype == TType.I64:
+        inbuf.read(8)
+
+    elif ftype == TType.DOUBLE:
+        inbuf.read(8)
+
+    elif ftype in BIN_TYPES:
+        inbuf.read(unpack_i32(inbuf.read(4)))
+
+    elif ftype == TType.SET or ftype == TType.LIST:
+        check_depth(budget, " while skipping a Thrift container")
+        v_type, sz = read_list_begin(inbuf)
+        for i in range(sz):
+            skip(inbuf, v_type, budget - 1)
+
+    elif ftype == TType.MAP:
+        check_depth(budget, " while skipping a Thrift container")
+        k_type, v_type, sz = read_map_begin(inbuf)
+        for i in range(sz):
+            skip(inbuf, k_type, budget - 1)
+            skip(inbuf, v_type, budget - 1)
+
+    elif ftype == TType.STRUCT:
+        check_depth(budget, " while skipping a Thrift struct")
+        while True:
+            f_type, fid = read_field_begin(inbuf)
+            if f_type == TType.STOP:
+                break
+            skip(inbuf, f_type, budget - 1)
+
+
+class TBinaryProtocol(TProtocolBase):
+    """Binary implementation of the Thrift protocol driver."""
+
+    def __init__(self, trans,
+                 strict_read=True, strict_write=True,
+                 decode_response=True, strict_decode=False,
+                 max_depth=DEFAULT_MAX_DEPTH):
+        TProtocolBase.__init__(self, trans)
+        self.strict_read = strict_read
+        self.strict_write = strict_write
+        self.decode_response = decode_response
+        self.strict_decode = strict_decode
+        self.max_depth = max_depth
+
+    def skip(self, ttype):
+        skip(self.trans, ttype, self.max_depth)
+
+    def read_message_begin(self):
+        api, ttype, seqid = read_message_begin(
+            self.trans, strict=self.strict_read)
+        return api, ttype, seqid
+
+    def read_message_end(self):
+        pass
+
+    def write_message_begin(self, name, ttype, seqid):
+        write_message_begin(self.trans, name, ttype, seqid,
+                            strict=self.strict_write)
+
+    def write_message_end(self):
+        pass
+
+    def read_struct(self, obj):
+        return read_struct(self.trans, obj, self.decode_response,
+                           self.strict_decode, self.max_depth)
+
+    def write_struct(self, obj):
+        write_val(self.trans, TType.STRUCT, obj, budget=self.max_depth)
+
+
+class TBinaryProtocolFactory(object):
+    def __init__(self, strict_read=True, strict_write=True,
+                 decode_response=True, strict_decode=False,
+                 max_depth=DEFAULT_MAX_DEPTH):
+        self.strict_read = strict_read
+        self.strict_write = strict_write
+        self.decode_response = decode_response
+        self.strict_decode = strict_decode
+        self.max_depth = max_depth
+
+    def get_protocol(self, trans):
+        return TBinaryProtocol(trans,
+                               self.strict_read, self.strict_write,
+                               self.decode_response, self.strict_decode,
+                               self.max_depth)
